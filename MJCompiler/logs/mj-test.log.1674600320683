@@ -1,0 +1,88 @@
+INFO  23:44:20,166 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  23:44:20,192 - #2 program
+INFO  23:44:20,192 - #25 test301
+INFO  23:44:20,192 - #3 const
+INFO  23:44:20,193 - #25 int
+INFO  23:44:20,193 - #25 nula
+INFO  23:44:20,194 - #13 =
+INFO  23:44:20,194 - #24 0
+INFO  23:44:20,194 - #16 ;
+INFO  23:44:20,195 - #3 const
+INFO  23:44:20,195 - #25 int
+INFO  23:44:20,195 - #25 jedan
+INFO  23:44:20,195 - #13 =
+INFO  23:44:20,195 - #24 1
+INFO  23:44:20,195 - #16 ;
+INFO  23:44:20,196 - #3 const
+INFO  23:44:20,196 - #25 int
+INFO  23:44:20,196 - #25 pet
+INFO  23:44:20,196 - #13 =
+INFO  23:44:20,196 - #24 5
+INFO  23:44:20,196 - #16 ;
+INFO  23:44:20,196 - #25 int
+INFO  23:44:20,196 - #25 niz
+INFO  23:44:20,198 - #20 [
+INFO  23:44:20,198 - #21 ]
+INFO  23:44:20,198 - #17 ,
+INFO  23:44:20,198 - #25 niz2
+INFO  23:44:20,198 - #20 [
+INFO  23:44:20,198 - #21 ]
+INFO  23:44:20,199 - #17 ,
+INFO  23:44:20,199 - #25 a
+INFO  23:44:20,199 - #17 ,
+INFO  23:44:20,199 - #25 b
+INFO  23:44:20,199 - #16 ;
+INFO  23:44:20,199 - #25 char
+INFO  23:44:20,199 - #25 nizch
+INFO  23:44:20,200 - #20 [
+INFO  23:44:20,200 - #21 ]
+INFO  23:44:20,200 - #16 ;
+INFO  23:44:20,200 - #22 {
+INFO  23:44:20,200 - #7 void
+INFO  23:44:20,200 - #25 main
+INFO  23:44:20,200 - #18 (
+INFO  23:44:20,201 - #19 )
+INFO  23:44:20,201 - #25 int
+INFO  23:44:20,202 - #25 bodovi
+INFO  23:44:20,202 - #16 ;
+INFO  23:44:20,202 - #25 bool
+INFO  23:44:20,202 - #25 bt
+INFO  23:44:20,202 - #16 ;
+INFO  23:44:20,202 - #25 int
+INFO  23:44:20,202 - #25 niz
+INFO  23:44:20,202 - #20 [
+INFO  23:44:20,202 - #21 ]
+INFO  23:44:20,202 - #17 ,
+INFO  23:44:20,202 - #25 niz2
+INFO  23:44:20,202 - #20 [
+INFO  23:44:20,202 - #21 ]
+INFO  23:44:20,202 - #16 ;
+INFO  23:44:20,203 - #22 {
+INFO  23:44:20,203 - #20 [
+INFO  23:44:20,203 - #25 niz2
+INFO  23:44:20,203 - #20 [
+INFO  23:44:20,204 - #24 0
+INFO  23:44:20,204 - #21 ]
+INFO  23:44:20,204 - #17 ,
+INFO  23:44:20,205 - #17 ,
+INFO  23:44:20,205 - #17 ,
+INFO  23:44:20,206 - #25 niz2
+INFO  23:44:20,206 - #20 [
+INFO  23:44:20,206 - #25 niz
+INFO  23:44:20,206 - #20 [
+INFO  23:44:20,206 - #25 nula
+INFO  23:44:20,206 - #21 ]
+INFO  23:44:20,206 - #21 ]
+INFO  23:44:20,206 - #21 ]
+INFO  23:44:20,206 - #13 =
+INFO  23:44:20,206 - #25 niz
+INFO  23:44:20,206 - #23 }
+ERROR 23:44:20,206 - 
+Sintaksna greska na liniji 52
+INFO  23:44:20,206 - #23 }
+ERROR 23:44:20,207 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 56
+ERROR 23:44:20,212 - Greska na liniji : 34  ime : nula nije deklarisano
+ERROR 23:44:20,213 - Greska na liniji 34: ime niz nije deklarisano
+ERROR 23:44:20,213 - Greska na liniji 34: ime niz2 nije deklarisano
+INFO  23:44:20,213 - Print calls = 0
+ERROR 23:44:20,213 - Parsiranje NIJE uspesno zavrseno!

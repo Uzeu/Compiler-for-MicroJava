@@ -1,0 +1,108 @@
+INFO  00:41:46,403 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:41:46,429 - #2 program
+INFO  00:41:46,430 - #25 test301
+INFO  00:41:46,430 - #3 const
+INFO  00:41:46,430 - #25 int
+INFO  00:41:46,431 - #25 nula
+INFO  00:41:46,431 - #13 =
+INFO  00:41:46,431 - #24 0
+INFO  00:41:46,431 - #16 ;
+INFO  00:41:46,432 - #3 const
+INFO  00:41:46,433 - #25 int
+INFO  00:41:46,433 - #25 jedan
+INFO  00:41:46,433 - #13 =
+INFO  00:41:46,433 - #24 1
+INFO  00:41:46,433 - #16 ;
+INFO  00:41:46,433 - #3 const
+INFO  00:41:46,433 - #25 int
+INFO  00:41:46,433 - #25 pet
+INFO  00:41:46,433 - #13 =
+INFO  00:41:46,433 - #24 5
+INFO  00:41:46,433 - #16 ;
+INFO  00:41:46,433 - #25 int
+INFO  00:41:46,434 - #25 niz
+INFO  00:41:46,434 - #20 [
+INFO  00:41:46,434 - #21 ]
+INFO  00:41:46,434 - #17 ,
+INFO  00:41:46,434 - #25 niz2
+INFO  00:41:46,434 - #20 [
+INFO  00:41:46,435 - #21 ]
+INFO  00:41:46,435 - #17 ,
+INFO  00:41:46,435 - #25 a
+INFO  00:41:46,435 - #17 ,
+INFO  00:41:46,435 - #25 b
+INFO  00:41:46,435 - #16 ;
+INFO  00:41:46,435 - #25 char
+INFO  00:41:46,436 - #25 nizch
+INFO  00:41:46,436 - #20 [
+INFO  00:41:46,436 - #21 ]
+INFO  00:41:46,436 - #16 ;
+INFO  00:41:46,436 - #22 {
+INFO  00:41:46,436 - #7 void
+INFO  00:41:46,436 - #25 main
+INFO  00:41:46,436 - #18 (
+INFO  00:41:46,437 - #19 )
+INFO  00:41:46,437 - #25 int
+INFO  00:41:46,438 - #25 bodovi
+INFO  00:41:46,438 - #16 ;
+INFO  00:41:46,438 - #25 bool
+INFO  00:41:46,438 - #25 bt
+INFO  00:41:46,438 - #16 ;
+INFO  00:41:46,438 - #25 int
+INFO  00:41:46,438 - #25 niz
+INFO  00:41:46,438 - #20 [
+INFO  00:41:46,438 - #21 ]
+INFO  00:41:46,438 - #17 ,
+INFO  00:41:46,438 - #25 niz2
+INFO  00:41:46,438 - #20 [
+INFO  00:41:46,438 - #21 ]
+INFO  00:41:46,438 - #16 ;
+INFO  00:41:46,439 - #22 {
+INFO  00:41:46,439 - #25 niz
+INFO  00:41:46,439 - #13 =
+INFO  00:41:46,439 - #4 new
+INFO  00:41:46,440 - #25 int
+INFO  00:41:46,440 - #20 [
+INFO  00:41:46,440 - #24 10
+INFO  00:41:46,440 - #21 ]
+INFO  00:41:46,440 - #16 ;
+INFO  00:41:46,440 - #25 niz
+INFO  00:41:46,440 - #20 [
+INFO  00:41:46,441 - #24 1
+INFO  00:41:46,441 - #21 ]
+INFO  00:41:46,442 - #13 =
+INFO  00:41:46,442 - #25 pet
+INFO  00:41:46,442 - #8 +
+INFO  00:41:46,442 - #25 jedan
+INFO  00:41:46,443 - #16 ;
+INFO  00:41:46,443 - #5 print
+INFO  00:41:46,443 - #18 (
+INFO  00:41:46,443 - #25 niz
+INFO  00:41:46,443 - #20 [
+INFO  00:41:46,443 - #24 1
+INFO  00:41:46,443 - #21 ]
+INFO  00:41:46,443 - #19 )
+INFO  00:41:46,443 - #16 ;
+INFO  00:41:46,443 - #23 }
+INFO  00:41:46,443 - #23 }
+INFO  00:41:46,450 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  00:41:46,450 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  00:41:46,450 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  00:41:46,450 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  00:41:46,451 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  00:41:46,451 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  00:41:46,451 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  00:41:46,451 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  00:41:46,451 - Obradjuje se funkcija main na liniji 13
+INFO  00:41:46,451 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  00:41:46,451 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  00:41:46,451 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  00:41:46,452 - Deklarisana lokalna promenljiva niz2 tipa 3 na liniji 16
+INFO  00:41:46,452 -  na liniji : 33  se koristi promenljiva : niz
+INFO  00:41:46,452 -  na liniji : 35  se koristi promenljiva (niz) : niz
+INFO  00:41:46,452 -  na liniji : 35  se koristi promenljiva : pet
+INFO  00:41:46,452 -  na liniji : 35  se koristi promenljiva : jedan
+INFO  00:41:46,452 -  na liniji : 36  se koristi promenljiva (niz) : niz
+INFO  00:41:46,452 - Print calls = 1
+INFO  00:41:46,452 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  00:41:46,455 - Parsiranje uspesno zavrseno!

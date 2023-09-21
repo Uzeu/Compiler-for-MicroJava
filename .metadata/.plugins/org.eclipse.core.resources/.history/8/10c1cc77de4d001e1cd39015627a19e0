@@ -1,0 +1,259 @@
+
+
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+parser code {:
+
+	boolean errorDetected = false;
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+
+
+:}
+
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+
+
+terminal PROG,CONST,NEW,PRINT,READ,VOID,FINDANY;
+terminal PLUS,MINUS,MUL,DIV,MOD;
+terminal ASSIGN,PLUSPLUS,MINUSMINUS,SEMICOLON,COMMA,LPAREN,RPAREN,LANGLE,RANGLE,LBRACE,RBRACE;
+terminal Integer NUMBER;
+terminal String IDENT;
+terminal Character CHAR;
+terminal Boolean BOOL;
+
+
+
+
+nonterminal DeclList, Decl , VarDecl, Brackets, BracketList, VarDeclList;
+nonterminal StatementList;
+nonterminal TypeIdentList, Statement, Opp;
+nonterminal ExprList;
+nonterminal Label, Mulop, ExprBracketsForm, MethodDeclList, FormPars, FormParsForm;
+
+nonterminal rs.etf.pp1.symboltable.concepts.Obj ProgName, Program, MethodDecl, MethodName, ConstDecl, ConstValName, ConstValList, BracketsName;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj VarDeclNameBrackets, Designator, DesignatorStatement, DesignatorForm, DesignatorFormList, ConstVal, DesignatorName, Assignop, Prazna;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, Term, MulopFactorList, AddopTermList,  Addop, Factor, Expr;
+
+Program::= (Program) PROG ProgName DeclList LBRACE MethodDeclList RBRACE;
+
+ProgName::= (ProgName) IDENT:progName;
+
+MethodDeclList::= (MethodDeclListExist) MethodDeclList MethodDecl
+				| (NoMethodDeclList) /* epsilon */
+				;
+
+MethodDecl::=  (MethodDecl) VOID MethodName LPAREN FormParsForm RPAREN VarDeclList LBRACE StatementList RBRACE;
+
+MethodName::= (MethodName) IDENT:methodName;
+			
+FormParsForm::= (FormParsFormExist) FormPars
+			| (NoFormPars) /* epsilon */ 
+			;
+
+FormPars::= (FormPars) Type IDENT Brackets TypeIdentList;
+
+
+
+DeclList::=(Declarations) DeclList Decl
+			| (NoDecl) /* epsilon */ 
+			;
+
+Decl::= (DeclConst) ConstDecl | (DeclVar) VarDecl;
+
+ConstDecl::= (ConstDecl) CONST Type:TypeName ConstValName ConstValList SEMICOLON;
+					
+
+ConstVal::= (ConstValNum) NUMBER | (ConstValBool) BOOL | (ConstValChar) CHAR
+			|
+					error:ime
+					{: parser.report_error("Izvrsen oporavak do ; ili , u liniji "+imeleft,null); :}
+					;
+
+
+
+ConstValList::= (ConstValListsExist) ConstValList COMMA ConstValName 
+				| (NoConstVal) /* epsilon */
+				; 
+ConstValName::= (ConstValName) IDENT:constName ASSIGN ConstVal;
+
+
+
+
+VarDecl::= (VarDecl) Type:TypeName VarDeclNameBrackets BracketList SEMICOLON
+			;
+			
+			
+VarDeclNameBrackets::= (VarDeclNameYesBrackets) IDENT:varName LANGLE RANGLE
+					|  (VarDeclNameNoBrackets) IDENT:varName 
+					|
+					error:ime2
+					{: parser.report_error("Izvrsen oporavak do ; ili , u liniji "+ime2left,null); :}
+					;
+					
+
+Brackets::= (BracketsExist) LANGLE RANGLE
+			|
+					error:ime2
+					{: parser.report_error("Izvrsen oporavak do ; ili , u liniji "+ime2left,null); :}
+			| (NoBrackets) /* epsilon */ 
+			;
+
+BracketList::= (BracketListExist) BracketList COMMA VarDeclNameBrackets
+			| (NoBracketList)
+			;
+			
+BracketsName::= (BracketsName) IDENT:bracketsName;
+
+
+
+
+
+VarDeclList::= (VarDeclListExist) VarDeclList VarDecl
+			| (NoVarDeclList) /* epsilon */ 
+			;
+
+			
+
+
+StatementList::= (StatementListExist) StatementList Statement
+			| (NoStatement) /* epsilon */ 
+			;
+
+			
+
+TypeIdentList::= (TypeIdentListExist) TypeIdentList COMMA Type IDENT Brackets 
+				| (NoTypeIdent) /* epsilon */ 
+				;
+
+Type::= (Type) IDENT:typeName;
+
+Statement::= (DesStatement) DesignatorStatement SEMICOLON
+			| (ReadStmt) READ LPAREN Designator RPAREN SEMICOLON
+			| (PrintStmtComma) PRINT LPAREN Expr COMMA NUMBER RPAREN SEMICOLON
+			| (PrintStmt) PRINT LPAREN Expr RPAREN SEMICOLON
+			;
+			
+
+DesignatorStatement::= (DesignatorStmt1) Designator Opp 
+					| (DesignatorStmt3) Designator Assignop Expr
+					| (DesignatorStmt2) LANGLE DesignatorForm DesignatorFormList RANGLE ASSIGN Designator
+					| error:e1
+					  {: parser.report_error("Izvrsen oporavak do ; u liniji "+e1left,null); :}
+					;
+					
+Opp::=   (Opp3) PLUSPLUS
+	| (Opp4) MINUSMINUS
+	;
+	
+
+			
+DesignatorForm::= (DesignatorFormExist) Designator
+				| (NoDesignator) /* epsilon */ 
+				;
+
+DesignatorFormList::= (DesignatorFormListExist) DesignatorFormList COMMA DesignatorForm
+					| (NoDesignatorForm) /* epsilon */ 
+					;
+	
+	
+					
+
+ExprList::= (ExprListExist) ExprList COMMA Expr
+			| (NoExprList) /* epsilon */ 
+			;
+
+
+Expr::= (ExprMinus) MINUS Term AddopTermList
+		| (ExprPositive) Term AddopTermList
+		| (ExprMinusNoTermList) MINUS Term
+		| (ExprPOsitiveNoTermList) Term
+		;
+
+AddopTermList::= (AddopTermListExist) AddopTermList Addop Term
+				| (NoAddopTerm) Addop Term
+				;
+
+Term::= (TermNoMulop) Factor
+		| (TermYesMulop) Factor MulopFactorList;
+
+MulopFactorList::= (MulopFactorListExist) MulopFactorList Mulop Factor 
+				| (NoMulopFactor) Mulop Factor 
+				;
+	
+	
+				
+Factor::=  (NumFactor) NUMBER
+		| (CharFactor) CHAR
+		| (BoolFactor) BOOL
+		| (NewFactor) NEW Type LANGLE Expr RANGLE
+		| (ExprFactor) LPAREN Expr RPAREN
+		| (DesignatorFactor) Designator
+		;
+
+Designator::= (DesignatorExpr) DesignatorName Prazna:prazna LANGLE Expr RANGLE
+			| (DesignatorNoExpr) IDENT:desName
+			;
+
+Prazna::=;
+
+DesignatorName::=(DesignatorName) IDENT:desName;
+
+ExprBracketsForm::= (ExprBracketsFormExist) LANGLE Expr RANGLE
+					| (NoExprBrackets) /* epsilon */ 
+					;
+
+
+Label::= (Label) IDENT;
+
+Assignop::= (Assignop) ASSIGN;
+
+
+Addop::= (AddopPlus) PLUS:plus
+		| (AddopMinus) MINUS:minus
+		;
+		
+Mulop::= (MulopMul) MUL
+		| (MulopDiv) DIV
+		| (MulopMod) MOD
+		;
+
+
+
+		
+		
+

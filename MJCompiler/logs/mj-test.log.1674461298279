@@ -1,0 +1,169 @@
+INFO  09:06:14,794 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  09:06:14,819 - #2 program
+INFO  09:06:14,819 - #25 test301
+INFO  09:06:14,819 - #3 const
+INFO  09:06:14,820 - #25 int
+INFO  09:06:14,820 - #25 nula
+INFO  09:06:14,822 - #13 =
+INFO  09:06:14,822 - #24 0
+INFO  09:06:14,822 - #16 ;
+INFO  09:06:14,822 - #3 const
+INFO  09:06:14,822 - #25 int
+INFO  09:06:14,823 - #25 jedan
+INFO  09:06:14,823 - #13 =
+INFO  09:06:14,823 - #24 1
+INFO  09:06:14,823 - #16 ;
+INFO  09:06:14,823 - #3 const
+INFO  09:06:14,823 - #25 int
+INFO  09:06:14,823 - #25 pet
+INFO  09:06:14,823 - #13 =
+INFO  09:06:14,823 - #24 5
+INFO  09:06:14,823 - #16 ;
+INFO  09:06:14,823 - #25 int
+INFO  09:06:14,823 - #25 niz
+INFO  09:06:14,826 - #20 [
+INFO  09:06:14,826 - #21 ]
+INFO  09:06:14,826 - #17 ,
+INFO  09:06:14,826 - #25 niz2
+INFO  09:06:14,826 - #20 [
+INFO  09:06:14,826 - #21 ]
+INFO  09:06:14,827 - #17 ,
+INFO  09:06:14,827 - #25 a
+INFO  09:06:14,827 - #17 ,
+INFO  09:06:14,827 - #25 b
+INFO  09:06:14,827 - #16 ;
+INFO  09:06:14,827 - #25 char
+INFO  09:06:14,827 - #25 nizch
+INFO  09:06:14,828 - #20 [
+INFO  09:06:14,828 - #21 ]
+INFO  09:06:14,828 - #16 ;
+INFO  09:06:14,828 - #22 {
+INFO  09:06:14,828 - #7 void
+INFO  09:06:14,828 - #25 main
+INFO  09:06:14,828 - #18 (
+INFO  09:06:14,829 - #19 )
+INFO  09:06:14,829 - #25 int
+INFO  09:06:14,830 - #25 bodovi
+INFO  09:06:14,830 - #16 ;
+INFO  09:06:14,830 - #25 bool
+INFO  09:06:14,830 - #25 bt
+INFO  09:06:14,830 - #16 ;
+INFO  09:06:14,830 - #25 int
+INFO  09:06:14,830 - #25 niz
+INFO  09:06:14,830 - #20 [
+INFO  09:06:14,830 - #21 ]
+INFO  09:06:14,830 - #16 ;
+INFO  09:06:14,830 - #25 char
+INFO  09:06:14,830 - #25 nizch
+INFO  09:06:14,830 - #20 [
+INFO  09:06:14,830 - #21 ]
+INFO  09:06:14,830 - #16 ;
+INFO  09:06:14,830 - #22 {
+INFO  09:06:14,831 - #25 niz
+INFO  09:06:14,831 - #13 =
+INFO  09:06:14,831 - #4 new
+INFO  09:06:14,832 - #25 int
+INFO  09:06:14,832 - #20 [
+INFO  09:06:14,832 - #24 3
+INFO  09:06:14,832 - #21 ]
+INFO  09:06:14,832 - #16 ;
+INFO  09:06:14,832 - #25 niz
+INFO  09:06:14,833 - #20 [
+INFO  09:06:14,834 - #24 1
+INFO  09:06:14,834 - #21 ]
+INFO  09:06:14,834 - #13 =
+INFO  09:06:14,834 - #24 2
+INFO  09:06:14,834 - #16 ;
+INFO  09:06:14,834 - #5 print
+INFO  09:06:14,834 - #18 (
+INFO  09:06:14,834 - #25 niz
+INFO  09:06:14,834 - #20 [
+INFO  09:06:14,834 - #24 1
+INFO  09:06:14,834 - #21 ]
+INFO  09:06:14,834 - #19 )
+INFO  09:06:14,834 - #16 ;
+INFO  09:06:14,834 - #25 niz
+INFO  09:06:14,835 - #20 [
+INFO  09:06:14,835 - #24 2
+INFO  09:06:14,835 - #21 ]
+INFO  09:06:14,835 - #13 =
+INFO  09:06:14,835 - #24 10
+INFO  09:06:14,835 - #16 ;
+INFO  09:06:14,836 - #5 print
+INFO  09:06:14,836 - #18 (
+INFO  09:06:14,836 - #25 niz
+INFO  09:06:14,836 - #20 [
+INFO  09:06:14,836 - #24 2
+INFO  09:06:14,836 - #21 ]
+INFO  09:06:14,836 - #19 )
+INFO  09:06:14,836 - #16 ;
+INFO  09:06:14,836 - #25 niz
+INFO  09:06:14,836 - #20 [
+INFO  09:06:14,836 - #24 0
+INFO  09:06:14,836 - #21 ]
+INFO  09:06:14,836 - #13 =
+INFO  09:06:14,836 - #24 2
+INFO  09:06:14,836 - #16 ;
+INFO  09:06:14,836 - #5 print
+INFO  09:06:14,836 - #18 (
+INFO  09:06:14,836 - #25 niz
+INFO  09:06:14,836 - #20 [
+INFO  09:06:14,837 - #24 0
+INFO  09:06:14,837 - #21 ]
+INFO  09:06:14,837 - #19 )
+INFO  09:06:14,837 - #16 ;
+INFO  09:06:14,837 - #25 bodovi
+INFO  09:06:14,837 - #13 =
+INFO  09:06:14,837 - #25 niz
+INFO  09:06:14,837 - #20 [
+INFO  09:06:14,837 - #24 2
+INFO  09:06:14,837 - #21 ]
+INFO  09:06:14,837 - #11 /
+INFO  09:06:14,837 - #25 niz
+INFO  09:06:14,838 - #20 [
+INFO  09:06:14,838 - #24 0
+INFO  09:06:14,838 - #21 ]
+INFO  09:06:14,838 - #16 ;
+INFO  09:06:14,838 - #5 print
+INFO  09:06:14,838 - #18 (
+INFO  09:06:14,839 - #25 bodovi
+INFO  09:06:14,839 - #19 )
+INFO  09:06:14,839 - #16 ;
+INFO  09:06:14,839 - #5 print
+INFO  09:06:14,839 - #18 (
+INFO  09:06:14,839 - #25 niz
+INFO  09:06:14,839 - #20 [
+INFO  09:06:14,839 - #24 2
+INFO  09:06:14,839 - #21 ]
+INFO  09:06:14,839 - #19 )
+INFO  09:06:14,839 - #16 ;
+INFO  09:06:14,839 - #23 }
+INFO  09:06:14,839 - #23 }
+INFO  09:06:14,846 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  09:06:14,846 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  09:06:14,846 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  09:06:14,846 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  09:06:14,846 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  09:06:14,846 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  09:06:14,846 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  09:06:14,847 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  09:06:14,847 - Obradjuje se funkcija main na liniji 13
+INFO  09:06:14,847 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  09:06:14,847 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  09:06:14,847 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  09:06:14,847 - Deklarisana lokalna promenljiva nizch tipa 3 na liniji 17
+INFO  09:06:14,847 -  na liniji : 21  se koristi promenljiva : niz
+INFO  09:06:14,847 -  na liniji : 23  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 24  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 25  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 26  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 27  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 29  se koristi promenljiva : bodovi
+INFO  09:06:14,847 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  09:06:14,847 -  na liniji : 30  se koristi promenljiva : bodovi
+INFO  09:06:14,847 -  na liniji : 31  se koristi promenljiva (niz) : niz
+INFO  09:06:14,848 - Print calls = 5
+INFO  09:06:14,848 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  09:06:14,851 - Parsiranje uspesno zavrseno!

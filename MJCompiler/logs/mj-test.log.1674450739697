@@ -1,0 +1,377 @@
+INFO  06:12:05,021 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:12:05,048 - #2 program
+INFO  06:12:05,048 - #25 MJProgram
+INFO  06:12:05,048 - #22 {
+INFO  06:12:05,049 - #7 void
+INFO  06:12:05,049 - #25 main
+INFO  06:12:05,049 - #18 (
+INFO  06:12:05,050 - #19 )
+INFO  06:12:05,050 - #25 int
+INFO  06:12:05,051 - #25 MarkoMisic
+INFO  06:12:05,051 - #20 [
+INFO  06:12:05,051 - #21 ]
+INFO  06:12:05,051 - #16 ;
+INFO  06:12:05,052 - #25 int
+INFO  06:12:05,052 - #25 x
+INFO  06:12:05,052 - #16 ;
+INFO  06:12:05,052 - #22 {
+INFO  06:12:05,053 - #25 MarkoMisic
+INFO  06:12:05,053 - #13 =
+INFO  06:12:05,053 - #4 new
+INFO  06:12:05,054 - #25 int
+INFO  06:12:05,054 - #20 [
+INFO  06:12:05,054 - #24 11
+INFO  06:12:05,054 - #21 ]
+INFO  06:12:05,054 - #16 ;
+INFO  06:12:05,055 - #25 MarkoMisic
+INFO  06:12:05,055 - #20 [
+INFO  06:12:05,055 - #24 10
+INFO  06:12:05,055 - #21 ]
+INFO  06:12:05,055 - #13 =
+INFO  06:12:05,056 - #24 5
+INFO  06:12:05,056 - #16 ;
+INFO  06:12:05,056 - #23 }
+INFO  06:12:05,056 - #2 program
+ERROR 06:12:05,056 - 
+Sintaksna greska na liniji 21
+INFO  06:12:05,056 - #25 test301
+INFO  06:12:05,056 - #3 const
+INFO  06:12:05,056 - #25 int
+INFO  06:12:05,057 - #25 nula
+INFO  06:12:05,057 - #13 =
+INFO  06:12:05,057 - #24 0
+INFO  06:12:05,057 - #16 ;
+INFO  06:12:05,057 - #3 const
+INFO  06:12:05,057 - #25 int
+INFO  06:12:05,057 - #25 jedan
+INFO  06:12:05,057 - #13 =
+INFO  06:12:05,057 - #24 1
+INFO  06:12:05,057 - #16 ;
+INFO  06:12:05,057 - #3 const
+INFO  06:12:05,057 - #25 int
+INFO  06:12:05,057 - #25 pet
+INFO  06:12:05,057 - #13 =
+INFO  06:12:05,057 - #24 5
+INFO  06:12:05,058 - #16 ;
+INFO  06:12:05,058 - #25 int
+INFO  06:12:05,058 - #25 niz
+INFO  06:12:05,058 - #20 [
+INFO  06:12:05,058 - #21 ]
+INFO  06:12:05,058 - #17 ,
+INFO  06:12:05,058 - #25 niz2
+INFO  06:12:05,058 - #20 [
+INFO  06:12:05,058 - #21 ]
+INFO  06:12:05,058 - #17 ,
+INFO  06:12:05,058 - #25 a
+INFO  06:12:05,058 - #17 ,
+INFO  06:12:05,058 - #25 b
+INFO  06:12:05,058 - #16 ;
+INFO  06:12:05,058 - #25 char
+INFO  06:12:05,059 - #25 nizch
+INFO  06:12:05,059 - #20 [
+INFO  06:12:05,059 - #21 ]
+INFO  06:12:05,059 - #16 ;
+INFO  06:12:05,059 - #22 {
+INFO  06:12:05,059 - #7 void
+INFO  06:12:05,059 - #25 main
+INFO  06:12:05,059 - #18 (
+INFO  06:12:05,059 - #19 )
+INFO  06:12:05,059 - #25 int
+INFO  06:12:05,059 - #25 bodovi
+INFO  06:12:05,059 - #16 ;
+INFO  06:12:05,059 - #25 bool
+INFO  06:12:05,059 - #25 bt
+INFO  06:12:05,059 - #16 ;
+INFO  06:12:05,059 - #22 {
+INFO  06:12:05,059 - #25 bodovi
+INFO  06:12:05,059 - #13 =
+INFO  06:12:05,060 - #24 0
+INFO  06:12:05,060 - #16 ;
+INFO  06:12:05,060 - #25 bodovi
+INFO  06:12:05,060 - #14 ++
+INFO  06:12:05,060 - #16 ;
+ERROR 06:12:05,060 - Izvrsen oporavak do ; u liniji 38
+INFO  06:12:05,062 - #25 bodovi
+INFO  06:12:05,062 - #13 =
+INFO  06:12:05,062 - #25 bodovi
+INFO  06:12:05,062 - #8 +
+INFO  06:12:05,062 - #25 jedan
+INFO  06:12:05,063 - #16 ;
+INFO  06:12:05,063 - #25 bodovi
+INFO  06:12:05,063 - #13 =
+INFO  06:12:05,063 - #25 bodovi
+INFO  06:12:05,063 - #10 *
+INFO  06:12:05,063 - #25 pet
+INFO  06:12:05,064 - #16 ;
+INFO  06:12:05,064 - #25 bodovi
+INFO  06:12:05,064 - #15 --
+INFO  06:12:05,064 - #16 ;
+INFO  06:12:05,065 - #5 print
+INFO  06:12:05,065 - #18 (
+INFO  06:12:05,065 - #25 bodovi
+INFO  06:12:05,065 - #19 )
+INFO  06:12:05,065 - #16 ;
+INFO  06:12:05,065 - #25 niz
+INFO  06:12:05,065 - #13 =
+INFO  06:12:05,065 - #4 new
+INFO  06:12:05,065 - #25 int
+INFO  06:12:05,065 - #20 [
+INFO  06:12:05,065 - #24 3
+INFO  06:12:05,065 - #21 ]
+INFO  06:12:05,065 - #16 ;
+INFO  06:12:05,065 - #25 niz
+INFO  06:12:05,065 - #20 [
+INFO  06:12:05,065 - #25 nula
+INFO  06:12:05,065 - #21 ]
+INFO  06:12:05,066 - #13 =
+INFO  06:12:05,066 - #25 jedan
+INFO  06:12:05,066 - #16 ;
+INFO  06:12:05,066 - #25 niz
+INFO  06:12:05,066 - #20 [
+INFO  06:12:05,066 - #24 1
+INFO  06:12:05,066 - #21 ]
+INFO  06:12:05,066 - #13 =
+INFO  06:12:05,066 - #24 2
+INFO  06:12:05,066 - #16 ;
+INFO  06:12:05,066 - #25 niz
+INFO  06:12:05,066 - #20 [
+INFO  06:12:05,066 - #25 niz
+INFO  06:12:05,066 - #20 [
+INFO  06:12:05,067 - #25 jedan
+INFO  06:12:05,067 - #21 ]
+INFO  06:12:05,067 - #21 ]
+INFO  06:12:05,067 - #13 =
+INFO  06:12:05,067 - #25 niz
+INFO  06:12:05,067 - #20 [
+INFO  06:12:05,067 - #25 niz
+INFO  06:12:05,067 - #20 [
+INFO  06:12:05,067 - #24 0
+INFO  06:12:05,067 - #21 ]
+INFO  06:12:05,067 - #21 ]
+INFO  06:12:05,067 - #10 *
+INFO  06:12:05,067 - #24 3
+INFO  06:12:05,067 - #16 ;
+INFO  06:12:05,067 - #25 bodovi
+INFO  06:12:05,067 - #13 =
+INFO  06:12:05,067 - #25 niz
+INFO  06:12:05,067 - #20 [
+INFO  06:12:05,067 - #24 2
+INFO  06:12:05,067 - #21 ]
+INFO  06:12:05,067 - #11 /
+INFO  06:12:05,067 - #25 niz
+INFO  06:12:05,068 - #20 [
+INFO  06:12:05,068 - #24 0
+INFO  06:12:05,068 - #21 ]
+INFO  06:12:05,068 - #16 ;
+INFO  06:12:05,068 - #5 print
+INFO  06:12:05,068 - #18 (
+INFO  06:12:05,068 - #25 bodovi
+INFO  06:12:05,068 - #19 )
+INFO  06:12:05,068 - #16 ;
+INFO  06:12:05,068 - #5 print
+INFO  06:12:05,068 - #18 (
+INFO  06:12:05,068 - #25 niz
+INFO  06:12:05,068 - #20 [
+INFO  06:12:05,068 - #24 2
+INFO  06:12:05,068 - #21 ]
+INFO  06:12:05,068 - #19 )
+INFO  06:12:05,068 - #16 ;
+INFO  06:12:05,068 - #20 [
+INFO  06:12:05,068 - #25 a
+INFO  06:12:05,069 - #17 ,
+INFO  06:12:05,069 - #25 b
+INFO  06:12:05,069 - #21 ]
+INFO  06:12:05,069 - #13 =
+INFO  06:12:05,069 - #25 niz
+INFO  06:12:05,069 - #16 ;
+INFO  06:12:05,069 - #5 print
+INFO  06:12:05,069 - #18 (
+INFO  06:12:05,069 - #25 a
+INFO  06:12:05,069 - #19 )
+INFO  06:12:05,070 - #16 ;
+INFO  06:12:05,070 - #5 print
+INFO  06:12:05,070 - #18 (
+INFO  06:12:05,070 - #25 b
+INFO  06:12:05,070 - #19 )
+INFO  06:12:05,070 - #16 ;
+INFO  06:12:05,070 - #20 [
+INFO  06:12:05,070 - #17 ,
+INFO  06:12:05,071 - #25 a
+INFO  06:12:05,071 - #17 ,
+INFO  06:12:05,071 - #21 ]
+INFO  06:12:05,071 - #13 =
+INFO  06:12:05,071 - #25 niz
+INFO  06:12:05,071 - #16 ;
+INFO  06:12:05,071 - #5 print
+INFO  06:12:05,071 - #18 (
+INFO  06:12:05,071 - #25 a
+INFO  06:12:05,071 - #19 )
+INFO  06:12:05,071 - #16 ;
+INFO  06:12:05,071 - #25 niz2
+INFO  06:12:05,071 - #13 =
+INFO  06:12:05,071 - #4 new
+INFO  06:12:05,071 - #25 int
+INFO  06:12:05,071 - #20 [
+INFO  06:12:05,072 - #24 2
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #16 ;
+INFO  06:12:05,072 - #20 [
+INFO  06:12:05,072 - #25 niz2
+INFO  06:12:05,072 - #20 [
+INFO  06:12:05,072 - #24 0
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #17 ,
+INFO  06:12:05,072 - #17 ,
+INFO  06:12:05,072 - #25 niz2
+INFO  06:12:05,072 - #20 [
+INFO  06:12:05,072 - #25 niz
+INFO  06:12:05,072 - #20 [
+INFO  06:12:05,072 - #25 nula
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #13 =
+INFO  06:12:05,072 - #25 niz
+INFO  06:12:05,072 - #16 ;
+INFO  06:12:05,072 - #5 print
+INFO  06:12:05,072 - #18 (
+INFO  06:12:05,072 - #25 niz2
+INFO  06:12:05,072 - #20 [
+INFO  06:12:05,072 - #24 0
+INFO  06:12:05,072 - #21 ]
+INFO  06:12:05,072 - #19 )
+INFO  06:12:05,073 - #16 ;
+INFO  06:12:05,073 - #5 print
+INFO  06:12:05,073 - #18 (
+INFO  06:12:05,073 - #25 niz2
+INFO  06:12:05,073 - #20 [
+INFO  06:12:05,073 - #24 1
+INFO  06:12:05,073 - #21 ]
+INFO  06:12:05,073 - #19 )
+INFO  06:12:05,073 - #16 ;
+INFO  06:12:05,073 - #25 nizch
+INFO  06:12:05,073 - #13 =
+INFO  06:12:05,073 - #4 new
+INFO  06:12:05,073 - #25 char
+INFO  06:12:05,073 - #20 [
+INFO  06:12:05,073 - #24 3
+INFO  06:12:05,074 - #21 ]
+INFO  06:12:05,074 - #16 ;
+INFO  06:12:05,074 - #25 nizch
+INFO  06:12:05,074 - #20 [
+INFO  06:12:05,074 - #24 0
+INFO  06:12:05,074 - #21 ]
+INFO  06:12:05,074 - #13 =
+INFO  06:12:05,074 - #26 a
+INFO  06:12:05,074 - #16 ;
+INFO  06:12:05,074 - #25 nizch
+INFO  06:12:05,074 - #20 [
+INFO  06:12:05,074 - #25 jedan
+INFO  06:12:05,074 - #21 ]
+INFO  06:12:05,074 - #13 =
+INFO  06:12:05,074 - #26 b
+INFO  06:12:05,075 - #16 ;
+INFO  06:12:05,075 - #25 nizch
+INFO  06:12:05,075 - #20 [
+INFO  06:12:05,075 - #25 pet
+INFO  06:12:05,075 - #9 -
+INFO  06:12:05,075 - #24 3
+INFO  06:12:05,075 - #21 ]
+INFO  06:12:05,075 - #13 =
+INFO  06:12:05,075 - #26 c
+INFO  06:12:05,075 - #16 ;
+INFO  06:12:05,075 - #5 print
+INFO  06:12:05,075 - #18 (
+INFO  06:12:05,075 - #25 nizch
+INFO  06:12:05,075 - #20 [
+INFO  06:12:05,075 - #24 1
+INFO  06:12:05,075 - #21 ]
+INFO  06:12:05,075 - #19 )
+INFO  06:12:05,076 - #16 ;
+INFO  06:12:05,076 - #5 print
+INFO  06:12:05,076 - #18 (
+INFO  06:12:05,076 - #25 nizch
+INFO  06:12:05,076 - #20 [
+INFO  06:12:05,076 - #25 jedan
+INFO  06:12:05,076 - #10 *
+INFO  06:12:05,076 - #24 2
+INFO  06:12:05,076 - #21 ]
+INFO  06:12:05,076 - #19 )
+INFO  06:12:05,076 - #16 ;
+INFO  06:12:05,076 - #6 read
+INFO  06:12:05,076 - #18 (
+INFO  06:12:05,076 - #25 bodovi
+INFO  06:12:05,076 - #19 )
+INFO  06:12:05,076 - #16 ;
+INFO  06:12:05,076 - #25 bodovi
+INFO  06:12:05,076 - #13 =
+INFO  06:12:05,076 - #9 -
+INFO  06:12:05,076 - #25 bodovi
+INFO  06:12:05,076 - #8 +
+INFO  06:12:05,076 - #18 (
+INFO  06:12:05,076 - #25 pet
+INFO  06:12:05,076 - #10 *
+INFO  06:12:05,076 - #25 a
+INFO  06:12:05,076 - #11 /
+INFO  06:12:05,076 - #24 2
+INFO  06:12:05,076 - #9 -
+INFO  06:12:05,076 - #25 jedan
+INFO  06:12:05,076 - #19 )
+INFO  06:12:05,076 - #10 *
+INFO  06:12:05,076 - #25 bodovi
+INFO  06:12:05,076 - #9 -
+INFO  06:12:05,076 - #18 (
+INFO  06:12:05,077 - #24 3
+INFO  06:12:05,077 - #12 %
+INFO  06:12:05,077 - #24 2
+INFO  06:12:05,077 - #8 +
+INFO  06:12:05,077 - #24 3
+INFO  06:12:05,077 - #10 *
+INFO  06:12:05,077 - #24 2
+INFO  06:12:05,077 - #9 -
+INFO  06:12:05,077 - #24 3
+INFO  06:12:05,077 - #19 )
+INFO  06:12:05,077 - #16 ;
+INFO  06:12:05,077 - #5 print
+INFO  06:12:05,077 - #18 (
+INFO  06:12:05,077 - #25 bodovi
+INFO  06:12:05,078 - #19 )
+INFO  06:12:05,078 - #16 ;
+INFO  06:12:05,078 - #23 }
+INFO  06:12:05,078 - #23 }
+INFO  06:12:05,078 - #23 }
+ERROR 06:12:05,078 - 
+Sintaksna greska na liniji 85
+ERROR 06:12:05,078 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 85
+INFO  06:12:05,084 - Obradjuje se funkcija main na liniji 9
+INFO  06:12:05,084 - Deklarisana lokalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  06:12:05,084 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+INFO  06:12:05,084 -  na liniji : 13  se koristi promenljiva : MarkoMisic
+INFO  06:12:05,084 -  na liniji : 14  se koristi promenljiva (niz) : MarkoMisic
+ERROR 06:12:05,084 - Greska na liniji : 36  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 36  DesignatorStatement -> Designator ++ | -- : Designator nije tipa int
+ERROR 06:12:05,084 - Greska na liniji : 37  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 37  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 37  ime : jedan nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 37  Expr= term {addop term} -> Term nije int 
+ERROR 06:12:05,084 - Greska na liniji : 38  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 38  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 38  ime : pet nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 38  Term = Term Mulop Factor -> Term i/ili Factor nisu int 
+ERROR 06:12:05,084 - Greska na liniji : 39  ime : bodovi nije deklarisano
+ERROR 06:12:05,084 - Greska na liniji : 39  DesignatorStatement -> Designator ++ | -- : Designator nije tipa int
+ERROR 06:12:05,084 - Greska na liniji : 40  ime : bodovi nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji : 40  print (expr) -> expr nije int/char/bool
+ERROR 06:12:05,085 - Greska na liniji : 43  ime : niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji : 43  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 06:12:05,085 - Greska na liniji : 44  ime : nula nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji 44: ime niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji : 44  ime : jedan nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji : 44  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 06:12:05,085 - Greska na liniji 45: ime niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji : 45  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 06:12:05,085 - Greska na liniji : 46  ime : jedan nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji 46: ime niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji 46: ime niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji 46: ime niz nije deklarisano
+ERROR 06:12:05,085 - Greska na liniji 46: ime niz nije deklarisano

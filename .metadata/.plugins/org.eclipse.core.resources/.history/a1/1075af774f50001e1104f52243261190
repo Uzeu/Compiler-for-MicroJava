@@ -1,0 +1,29 @@
+// Test301
+
+program test301
+
+	const int nula = 0;
+	const int jedan = 1;
+	const int pet = 5;
+
+	int niz[];
+{
+	void main()	
+		
+		bool br;
+	{
+		
+		
+		
+		niz = new int[3];
+		niz[0] = 100;  
+		niz[1] = 200;			
+		niz[2] = 300;
+		
+		print(niz[2]);
+		br=niz.findAny(00);
+		print(br);			
+	}
+}
+
+

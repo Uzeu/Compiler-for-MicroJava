@@ -1,0 +1,53 @@
+INFO  06:16:45,902 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:16:45,928 - #2 program
+INFO  06:16:45,928 - #25 MJProgram
+INFO  06:16:45,928 - #22 {
+INFO  06:16:45,929 - #7 void
+INFO  06:16:45,929 - #25 main
+INFO  06:16:45,929 - #18 (
+INFO  06:16:45,930 - #19 )
+INFO  06:16:45,930 - #25 int
+INFO  06:16:45,930 - #25 MarkoMisic
+INFO  06:16:45,931 - #20 [
+INFO  06:16:45,931 - #21 ]
+INFO  06:16:45,931 - #16 ;
+INFO  06:16:45,931 - #25 int
+INFO  06:16:45,932 - #25 x
+INFO  06:16:45,932 - #16 ;
+INFO  06:16:45,932 - #22 {
+INFO  06:16:45,932 - #25 MarkoMisic
+INFO  06:16:45,933 - #20 [
+INFO  06:16:45,933 - #24 3
+INFO  06:16:45,933 - #21 ]
+INFO  06:16:45,934 - #13 =
+INFO  06:16:45,934 - #26 a
+INFO  06:16:45,936 - #16 ;
+INFO  06:16:45,936 - #25 MarkoMisic
+INFO  06:16:45,937 - #13 =
+INFO  06:16:45,937 - #24 13
+INFO  06:16:45,937 - #16 ;
+INFO  06:16:45,937 - #25 ahaa
+INFO  06:16:45,937 - #13 =
+INFO  06:16:45,937 - #24 3
+INFO  06:16:45,937 - #16 ;
+INFO  06:16:45,937 - #25 MarkoMisic
+INFO  06:16:45,937 - #13 =
+INFO  06:16:45,937 - #4 new
+INFO  06:16:45,937 - #25 int
+INFO  06:16:45,937 - #20 [
+INFO  06:16:45,937 - #24 11
+INFO  06:16:45,937 - #21 ]
+INFO  06:16:45,937 - #16 ;
+INFO  06:16:45,938 - #23 }
+INFO  06:16:45,938 - #23 }
+INFO  06:16:45,944 - Obradjuje se funkcija main na liniji 9
+INFO  06:16:45,944 - Deklarisana lokalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  06:16:45,944 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+INFO  06:16:45,945 -  na liniji : 12  se koristi promenljiva (niz) : MarkoMisic
+ERROR 06:16:45,945 - Greska na liniji : 12  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  06:16:45,945 -  na liniji : 13  se koristi promenljiva : MarkoMisic
+ERROR 06:16:45,945 - Greska na liniji : 14  ime : ahaa nije deklarisano
+ERROR 06:16:45,945 - Greska na liniji : 14  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  06:16:45,945 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  06:16:45,945 - Print calls = 0
+ERROR 06:16:45,946 - Parsiranje NIJE uspesno zavrseno!

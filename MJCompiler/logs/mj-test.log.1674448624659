@@ -1,0 +1,55 @@
+INFO  05:36:48,714 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:36:48,740 - #2 program
+INFO  05:36:48,740 - #25 MJProgram
+INFO  05:36:48,740 - #3 const
+INFO  05:36:48,741 - #25 int
+INFO  05:36:48,741 - #25 a
+INFO  05:36:48,742 - #13 =
+INFO  05:36:48,742 - #24 25
+INFO  05:36:48,742 - #16 ;
+INFO  05:36:48,743 - #25 int
+INFO  05:36:48,743 - #25 MarkoMisic
+INFO  05:36:48,743 - #20 [
+INFO  05:36:48,744 - #21 ]
+INFO  05:36:48,744 - #16 ;
+INFO  05:36:48,744 - #25 bool
+INFO  05:36:48,745 - #25 i
+INFO  05:36:48,745 - #16 ;
+INFO  05:36:48,745 - #22 {
+INFO  05:36:48,745 - #7 void
+INFO  05:36:48,745 - #25 main
+INFO  05:36:48,746 - #18 (
+INFO  05:36:48,746 - #19 )
+INFO  05:36:48,746 - #22 {
+INFO  05:36:48,749 - #5 print
+INFO  05:36:48,750 - #18 (
+INFO  05:36:48,750 - #25 a
+INFO  05:36:48,750 - #19 )
+INFO  05:36:48,750 - #16 ;
+INFO  05:36:48,750 - #25 MarkoMisic
+INFO  05:36:48,750 - #13 =
+INFO  05:36:48,750 - #4 new
+INFO  05:36:48,751 - #25 int
+INFO  05:36:48,751 - #20 [
+INFO  05:36:48,751 - #24 10
+INFO  05:36:48,751 - #21 ]
+INFO  05:36:48,751 - #16 ;
+INFO  05:36:48,751 - #25 MarkoMisic
+INFO  05:36:48,751 - #20 [
+INFO  05:36:48,751 - #24 5
+INFO  05:36:48,751 - #21 ]
+INFO  05:36:48,752 - #13 =
+INFO  05:36:48,752 - #24 5
+INFO  05:36:48,752 - #16 ;
+INFO  05:36:48,752 - #23 }
+INFO  05:36:48,752 - #23 }
+INFO  05:36:48,759 - Deklarisana konstanta a tipa 1 na liniji 4
+INFO  05:36:48,759 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:36:48,759 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:36:48,759 - Obradjuje se funkcija main na liniji 11
+INFO  05:36:48,759 -  na liniji : 14  se koristi promenljiva : a
+INFO  05:36:48,759 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:36:48,759 -  na liniji : 16  se koristi promenljiva (niz) : MarkoMisic
+INFO  05:36:48,759 - Print calls = 1
+INFO  05:36:48,760 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:36:48,763 - Parsiranje uspesno zavrseno!

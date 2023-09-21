@@ -1,0 +1,151 @@
+INFO  09:02:00,393 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  09:02:00,418 - #2 program
+INFO  09:02:00,418 - #25 test301
+INFO  09:02:00,418 - #3 const
+INFO  09:02:00,419 - #25 int
+INFO  09:02:00,419 - #25 nula
+INFO  09:02:00,420 - #13 =
+INFO  09:02:00,420 - #24 0
+INFO  09:02:00,420 - #16 ;
+INFO  09:02:00,421 - #3 const
+INFO  09:02:00,422 - #25 int
+INFO  09:02:00,422 - #25 jedan
+INFO  09:02:00,422 - #13 =
+INFO  09:02:00,422 - #24 1
+INFO  09:02:00,422 - #16 ;
+INFO  09:02:00,422 - #3 const
+INFO  09:02:00,422 - #25 int
+INFO  09:02:00,422 - #25 pet
+INFO  09:02:00,422 - #13 =
+INFO  09:02:00,422 - #24 5
+INFO  09:02:00,422 - #16 ;
+INFO  09:02:00,422 - #25 int
+INFO  09:02:00,422 - #25 niz
+INFO  09:02:00,425 - #20 [
+INFO  09:02:00,425 - #21 ]
+INFO  09:02:00,425 - #17 ,
+INFO  09:02:00,425 - #25 niz2
+INFO  09:02:00,425 - #20 [
+INFO  09:02:00,426 - #21 ]
+INFO  09:02:00,426 - #17 ,
+INFO  09:02:00,426 - #25 a
+INFO  09:02:00,426 - #17 ,
+INFO  09:02:00,426 - #25 b
+INFO  09:02:00,426 - #16 ;
+INFO  09:02:00,426 - #25 char
+INFO  09:02:00,427 - #25 nizch
+INFO  09:02:00,427 - #20 [
+INFO  09:02:00,427 - #21 ]
+INFO  09:02:00,427 - #16 ;
+INFO  09:02:00,427 - #22 {
+INFO  09:02:00,427 - #7 void
+INFO  09:02:00,427 - #25 main
+INFO  09:02:00,427 - #18 (
+INFO  09:02:00,428 - #19 )
+INFO  09:02:00,428 - #25 int
+INFO  09:02:00,429 - #25 bodovi
+INFO  09:02:00,429 - #16 ;
+INFO  09:02:00,429 - #25 bool
+INFO  09:02:00,429 - #25 bt
+INFO  09:02:00,429 - #16 ;
+INFO  09:02:00,429 - #25 int
+INFO  09:02:00,429 - #25 niz
+INFO  09:02:00,429 - #16 ;
+INFO  09:02:00,429 - #22 {
+INFO  09:02:00,429 - #25 bodovi
+INFO  09:02:00,430 - #13 =
+INFO  09:02:00,430 - #24 0
+INFO  09:02:00,430 - #16 ;
+INFO  09:02:00,431 - #25 bodovi
+INFO  09:02:00,431 - #13 =
+INFO  09:02:00,431 - #25 bodovi
+INFO  09:02:00,431 - #8 +
+INFO  09:02:00,431 - #25 jedan
+INFO  09:02:00,432 - #16 ;
+INFO  09:02:00,432 - #25 bodovi
+INFO  09:02:00,432 - #13 =
+INFO  09:02:00,432 - #25 bodovi
+INFO  09:02:00,432 - #10 *
+INFO  09:02:00,432 - #25 pet
+INFO  09:02:00,433 - #16 ;
+INFO  09:02:00,433 - #5 print
+INFO  09:02:00,433 - #18 (
+INFO  09:02:00,433 - #25 bodovi
+INFO  09:02:00,433 - #19 )
+INFO  09:02:00,434 - #16 ;
+INFO  09:02:00,434 - #25 niz
+INFO  09:02:00,434 - #13 =
+INFO  09:02:00,434 - #4 new
+INFO  09:02:00,434 - #25 int
+INFO  09:02:00,434 - #20 [
+INFO  09:02:00,434 - #24 3
+INFO  09:02:00,434 - #21 ]
+INFO  09:02:00,434 - #16 ;
+INFO  09:02:00,434 - #25 niz
+INFO  09:02:00,434 - #20 [
+INFO  09:02:00,435 - #24 1
+INFO  09:02:00,435 - #21 ]
+INFO  09:02:00,435 - #13 =
+INFO  09:02:00,435 - #24 2
+INFO  09:02:00,435 - #16 ;
+INFO  09:02:00,436 - #25 niz
+INFO  09:02:00,436 - #20 [
+INFO  09:02:00,436 - #24 2
+INFO  09:02:00,436 - #21 ]
+INFO  09:02:00,436 - #13 =
+INFO  09:02:00,436 - #24 10
+INFO  09:02:00,437 - #16 ;
+INFO  09:02:00,437 - #25 niz
+INFO  09:02:00,437 - #20 [
+INFO  09:02:00,437 - #24 0
+INFO  09:02:00,437 - #21 ]
+INFO  09:02:00,437 - #13 =
+INFO  09:02:00,437 - #24 2
+INFO  09:02:00,437 - #16 ;
+INFO  09:02:00,437 - #5 print
+INFO  09:02:00,437 - #18 (
+INFO  09:02:00,437 - #25 bodovi
+INFO  09:02:00,437 - #19 )
+INFO  09:02:00,437 - #16 ;
+INFO  09:02:00,437 - #5 print
+INFO  09:02:00,438 - #18 (
+INFO  09:02:00,438 - #25 niz
+INFO  09:02:00,438 - #20 [
+INFO  09:02:00,438 - #24 2
+INFO  09:02:00,438 - #21 ]
+INFO  09:02:00,438 - #19 )
+INFO  09:02:00,438 - #16 ;
+INFO  09:02:00,438 - #23 }
+INFO  09:02:00,438 - #23 }
+INFO  09:02:00,445 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  09:02:00,445 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  09:02:00,445 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  09:02:00,445 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  09:02:00,445 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  09:02:00,445 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  09:02:00,445 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  09:02:00,445 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  09:02:00,446 - Obradjuje se funkcija main na liniji 13
+INFO  09:02:00,446 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  09:02:00,446 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  09:02:00,446 - Deklarisana lokalna promenljiva niz tipa 1 na liniji 16
+INFO  09:02:00,446 -  na liniji : 18  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 20  se koristi promenljiva : jedan
+INFO  09:02:00,446 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 21  se koristi promenljiva : pet
+INFO  09:02:00,446 -  na liniji : 23  se koristi promenljiva : bodovi
+INFO  09:02:00,446 -  na liniji : 26  se koristi promenljiva : niz
+ERROR 09:02:00,446 - Greska na liniji : 28 designator[expr] -> designator : niz nije niz ili expr nije int
+ERROR 09:02:00,447 - Greska na liniji : 28  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 09:02:00,447 - Greska na liniji : 29 designator[expr] -> designator : niz nije niz ili expr nije int
+ERROR 09:02:00,447 - Greska na liniji : 29  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 09:02:00,447 - Greska na liniji : 30 designator[expr] -> designator : niz nije niz ili expr nije int
+ERROR 09:02:00,447 - Greska na liniji : 30  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  09:02:00,447 -  na liniji : 32  se koristi promenljiva : bodovi
+ERROR 09:02:00,447 - Greska na liniji : 33 designator[expr] -> designator : niz nije niz ili expr nije int
+ERROR 09:02:00,447 - Greska na liniji : 33  print (expr) -> expr nije int/char/bool
+INFO  09:02:00,447 - Print calls = 3
+ERROR 09:02:00,447 - Parsiranje NIJE uspesno zavrseno!

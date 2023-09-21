@@ -1,0 +1,114 @@
+INFO  05:08:51,897 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:08:51,916 - #2 program
+INFO  05:08:51,916 - #27 test301
+INFO  05:08:51,916 - #3 const
+INFO  05:08:51,917 - #27 int
+INFO  05:08:51,917 - #27 nula
+INFO  05:08:51,917 - #15 =
+INFO  05:08:51,917 - #26 0
+INFO  05:08:51,917 - #18 ;
+INFO  05:08:51,918 - #3 const
+INFO  05:08:51,919 - #27 int
+INFO  05:08:51,919 - #27 jedan
+INFO  05:08:51,919 - #15 =
+INFO  05:08:51,919 - #26 1
+INFO  05:08:51,919 - #18 ;
+INFO  05:08:51,919 - #3 const
+INFO  05:08:51,919 - #27 int
+INFO  05:08:51,919 - #27 pet
+INFO  05:08:51,919 - #15 =
+INFO  05:08:51,919 - #26 5
+INFO  05:08:51,919 - #18 ;
+INFO  05:08:51,921 - #27 int
+INFO  05:08:51,921 - #27 niz
+INFO  05:08:51,921 - #22 [
+INFO  05:08:51,921 - #23 ]
+INFO  05:08:51,921 - #19 ,
+INFO  05:08:51,922 - #27 niz2
+INFO  05:08:51,922 - #22 [
+INFO  05:08:51,922 - #23 ]
+INFO  05:08:51,922 - #19 ,
+INFO  05:08:51,922 - #27 a
+INFO  05:08:51,922 - #19 ,
+INFO  05:08:51,922 - #27 b
+INFO  05:08:51,922 - #18 ;
+INFO  05:08:51,922 - #27 char
+INFO  05:08:51,922 - #27 nizch
+INFO  05:08:51,923 - #22 [
+INFO  05:08:51,923 - #23 ]
+INFO  05:08:51,923 - #18 ;
+INFO  05:08:51,923 - #24 {
+INFO  05:08:51,923 - #7 void
+INFO  05:08:51,923 - #27 main
+INFO  05:08:51,923 - #20 (
+INFO  05:08:51,924 - #21 )
+INFO  05:08:51,924 - #27 int
+INFO  05:08:51,924 - #27 bodovi
+INFO  05:08:51,924 - #18 ;
+INFO  05:08:51,924 - #27 bool
+INFO  05:08:51,924 - #27 br
+INFO  05:08:51,925 - #18 ;
+INFO  05:08:51,925 - #24 {
+INFO  05:08:51,925 - #6 read
+INFO  05:08:51,925 - #20 (
+INFO  05:08:51,925 - #27 bodovi
+INFO  05:08:51,925 - #21 )
+INFO  05:08:51,925 - #18 ;
+INFO  05:08:51,925 - #27 bodovi
+INFO  05:08:51,926 - #15 =
+INFO  05:08:51,926 - #11 -
+INFO  05:08:51,926 - #27 bodovi
+INFO  05:08:51,926 - #10 +
+INFO  05:08:51,926 - #20 (
+INFO  05:08:51,927 - #27 pet
+INFO  05:08:51,927 - #12 *
+INFO  05:08:51,927 - #27 a
+INFO  05:08:51,927 - #13 /
+INFO  05:08:51,928 - #26 2
+INFO  05:08:51,928 - #11 -
+INFO  05:08:51,928 - #27 jedan
+INFO  05:08:51,928 - #21 )
+INFO  05:08:51,929 - #12 *
+INFO  05:08:51,929 - #27 bodovi
+INFO  05:08:51,929 - #11 -
+INFO  05:08:51,929 - #20 (
+INFO  05:08:51,929 - #26 3
+INFO  05:08:51,929 - #14 %
+INFO  05:08:51,929 - #26 2
+INFO  05:08:51,929 - #10 +
+INFO  05:08:51,929 - #26 3
+INFO  05:08:51,929 - #12 *
+INFO  05:08:51,929 - #26 2
+INFO  05:08:51,929 - #11 -
+INFO  05:08:51,929 - #26 3
+INFO  05:08:51,929 - #21 )
+INFO  05:08:51,929 - #18 ;
+INFO  05:08:51,930 - #5 print
+INFO  05:08:51,930 - #20 (
+INFO  05:08:51,930 - #27 bodovi
+INFO  05:08:51,930 - #21 )
+INFO  05:08:51,930 - #18 ;
+INFO  05:08:51,930 - #25 }
+INFO  05:08:51,930 - #25 }
+INFO  05:08:51,936 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  05:08:51,936 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  05:08:51,936 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  05:08:51,936 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  05:08:51,936 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  05:08:51,936 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  05:08:51,936 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  05:08:51,936 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  05:08:51,936 - Obradjuje se funkcija main na liniji 13
+INFO  05:08:51,936 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  05:08:51,936 - Deklarisana lokalna promenljiva br tipa 5 na liniji 15
+INFO  05:08:51,936 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : pet
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : a
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : jedan
+INFO  05:08:51,936 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  05:08:51,936 -  na liniji : 22  se koristi promenljiva : bodovi
+INFO  05:08:51,937 - Print calls = 1
+INFO  05:08:51,937 - Generating bytecode file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:08:51,939 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,229 @@
+INFO  09:03:09,415 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  09:03:09,442 - #2 program
+INFO  09:03:09,442 - #25 test301
+INFO  09:03:09,442 - #3 const
+INFO  09:03:09,443 - #25 int
+INFO  09:03:09,443 - #25 nula
+INFO  09:03:09,444 - #13 =
+INFO  09:03:09,444 - #24 0
+INFO  09:03:09,444 - #16 ;
+INFO  09:03:09,445 - #3 const
+INFO  09:03:09,445 - #25 int
+INFO  09:03:09,445 - #25 jedan
+INFO  09:03:09,446 - #13 =
+INFO  09:03:09,446 - #24 1
+INFO  09:03:09,446 - #16 ;
+INFO  09:03:09,446 - #3 const
+INFO  09:03:09,446 - #25 int
+INFO  09:03:09,446 - #25 pet
+INFO  09:03:09,446 - #13 =
+INFO  09:03:09,446 - #24 5
+INFO  09:03:09,446 - #16 ;
+INFO  09:03:09,446 - #25 int
+INFO  09:03:09,446 - #25 niz
+INFO  09:03:09,449 - #20 [
+INFO  09:03:09,449 - #21 ]
+INFO  09:03:09,449 - #17 ,
+INFO  09:03:09,449 - #25 niz2
+INFO  09:03:09,449 - #20 [
+INFO  09:03:09,449 - #21 ]
+INFO  09:03:09,450 - #17 ,
+INFO  09:03:09,450 - #25 a
+INFO  09:03:09,450 - #17 ,
+INFO  09:03:09,450 - #25 b
+INFO  09:03:09,450 - #16 ;
+INFO  09:03:09,450 - #25 char
+INFO  09:03:09,451 - #25 nizch
+INFO  09:03:09,451 - #20 [
+INFO  09:03:09,451 - #21 ]
+INFO  09:03:09,451 - #16 ;
+INFO  09:03:09,451 - #22 {
+INFO  09:03:09,451 - #7 void
+INFO  09:03:09,451 - #25 main
+INFO  09:03:09,451 - #18 (
+INFO  09:03:09,452 - #19 )
+INFO  09:03:09,452 - #25 int
+INFO  09:03:09,453 - #25 bodovi
+INFO  09:03:09,453 - #16 ;
+INFO  09:03:09,453 - #25 bool
+INFO  09:03:09,453 - #25 bt
+INFO  09:03:09,453 - #16 ;
+INFO  09:03:09,453 - #25 int
+INFO  09:03:09,453 - #25 niz
+INFO  09:03:09,453 - #20 [
+INFO  09:03:09,453 - #21 ]
+INFO  09:03:09,453 - #16 ;
+INFO  09:03:09,453 - #25 char
+INFO  09:03:09,453 - #25 nizch
+INFO  09:03:09,453 - #20 [
+INFO  09:03:09,454 - #21 ]
+INFO  09:03:09,454 - #16 ;
+INFO  09:03:09,454 - #22 {
+INFO  09:03:09,454 - #25 bodovi
+INFO  09:03:09,454 - #13 =
+INFO  09:03:09,454 - #24 0
+INFO  09:03:09,455 - #16 ;
+INFO  09:03:09,455 - #25 bodovi
+INFO  09:03:09,456 - #13 =
+INFO  09:03:09,456 - #25 bodovi
+INFO  09:03:09,456 - #8 +
+INFO  09:03:09,456 - #25 jedan
+INFO  09:03:09,456 - #16 ;
+INFO  09:03:09,457 - #25 bodovi
+INFO  09:03:09,457 - #13 =
+INFO  09:03:09,457 - #25 bodovi
+INFO  09:03:09,457 - #10 *
+INFO  09:03:09,457 - #25 pet
+INFO  09:03:09,458 - #16 ;
+INFO  09:03:09,458 - #5 print
+INFO  09:03:09,458 - #18 (
+INFO  09:03:09,458 - #25 bodovi
+INFO  09:03:09,458 - #19 )
+INFO  09:03:09,458 - #16 ;
+INFO  09:03:09,458 - #25 niz
+INFO  09:03:09,458 - #13 =
+INFO  09:03:09,458 - #4 new
+INFO  09:03:09,458 - #25 int
+INFO  09:03:09,458 - #20 [
+INFO  09:03:09,458 - #24 3
+INFO  09:03:09,458 - #21 ]
+INFO  09:03:09,459 - #16 ;
+INFO  09:03:09,459 - #25 niz
+INFO  09:03:09,460 - #20 [
+INFO  09:03:09,460 - #24 1
+INFO  09:03:09,461 - #21 ]
+INFO  09:03:09,461 - #13 =
+INFO  09:03:09,461 - #24 2
+INFO  09:03:09,461 - #16 ;
+INFO  09:03:09,461 - #25 niz
+INFO  09:03:09,461 - #20 [
+INFO  09:03:09,461 - #24 2
+INFO  09:03:09,461 - #21 ]
+INFO  09:03:09,461 - #13 =
+INFO  09:03:09,461 - #24 10
+INFO  09:03:09,461 - #16 ;
+INFO  09:03:09,461 - #25 niz
+INFO  09:03:09,462 - #20 [
+INFO  09:03:09,462 - #24 0
+INFO  09:03:09,462 - #21 ]
+INFO  09:03:09,462 - #13 =
+INFO  09:03:09,462 - #24 2
+INFO  09:03:09,462 - #16 ;
+INFO  09:03:09,462 - #25 bodovi
+INFO  09:03:09,462 - #13 =
+INFO  09:03:09,462 - #25 niz
+INFO  09:03:09,462 - #20 [
+INFO  09:03:09,462 - #24 2
+INFO  09:03:09,462 - #21 ]
+INFO  09:03:09,462 - #11 /
+INFO  09:03:09,462 - #25 niz
+INFO  09:03:09,463 - #20 [
+INFO  09:03:09,463 - #24 0
+INFO  09:03:09,463 - #21 ]
+INFO  09:03:09,463 - #16 ;
+INFO  09:03:09,463 - #5 print
+INFO  09:03:09,463 - #18 (
+INFO  09:03:09,463 - #25 bodovi
+INFO  09:03:09,463 - #19 )
+INFO  09:03:09,463 - #16 ;
+INFO  09:03:09,463 - #5 print
+INFO  09:03:09,464 - #18 (
+INFO  09:03:09,464 - #25 niz
+INFO  09:03:09,464 - #20 [
+INFO  09:03:09,464 - #24 2
+INFO  09:03:09,464 - #21 ]
+INFO  09:03:09,464 - #19 )
+INFO  09:03:09,464 - #16 ;
+INFO  09:03:09,464 - #25 nizch
+INFO  09:03:09,464 - #13 =
+INFO  09:03:09,464 - #4 new
+INFO  09:03:09,464 - #25 char
+INFO  09:03:09,464 - #20 [
+INFO  09:03:09,464 - #24 3
+INFO  09:03:09,464 - #21 ]
+INFO  09:03:09,464 - #16 ;
+INFO  09:03:09,464 - #25 nizch
+INFO  09:03:09,464 - #20 [
+INFO  09:03:09,464 - #24 0
+INFO  09:03:09,465 - #21 ]
+INFO  09:03:09,465 - #13 =
+INFO  09:03:09,465 - #26 a
+INFO  09:03:09,465 - #16 ;
+INFO  09:03:09,465 - #25 nizch
+INFO  09:03:09,465 - #20 [
+INFO  09:03:09,465 - #25 jedan
+INFO  09:03:09,465 - #21 ]
+INFO  09:03:09,465 - #13 =
+INFO  09:03:09,465 - #26 b
+INFO  09:03:09,465 - #16 ;
+INFO  09:03:09,465 - #25 nizch
+INFO  09:03:09,465 - #20 [
+INFO  09:03:09,465 - #25 pet
+INFO  09:03:09,465 - #9 -
+INFO  09:03:09,465 - #24 3
+INFO  09:03:09,466 - #21 ]
+INFO  09:03:09,466 - #13 =
+INFO  09:03:09,466 - #26 c
+INFO  09:03:09,466 - #16 ;
+INFO  09:03:09,466 - #5 print
+INFO  09:03:09,466 - #18 (
+INFO  09:03:09,466 - #25 nizch
+INFO  09:03:09,466 - #20 [
+INFO  09:03:09,466 - #24 0
+INFO  09:03:09,466 - #21 ]
+INFO  09:03:09,466 - #19 )
+INFO  09:03:09,466 - #16 ;
+INFO  09:03:09,466 - #5 print
+INFO  09:03:09,466 - #18 (
+INFO  09:03:09,466 - #25 nizch
+INFO  09:03:09,466 - #20 [
+INFO  09:03:09,466 - #25 jedan
+INFO  09:03:09,466 - #10 *
+INFO  09:03:09,466 - #24 2
+INFO  09:03:09,466 - #21 ]
+INFO  09:03:09,466 - #19 )
+INFO  09:03:09,466 - #16 ;
+INFO  09:03:09,467 - #23 }
+INFO  09:03:09,467 - #23 }
+INFO  09:03:09,473 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  09:03:09,473 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  09:03:09,473 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  09:03:09,474 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  09:03:09,474 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  09:03:09,474 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  09:03:09,474 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  09:03:09,474 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  09:03:09,474 - Obradjuje se funkcija main na liniji 13
+INFO  09:03:09,474 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  09:03:09,474 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  09:03:09,474 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  09:03:09,474 - Deklarisana lokalna promenljiva nizch tipa 3 na liniji 17
+INFO  09:03:09,474 -  na liniji : 19  se koristi promenljiva : bodovi
+INFO  09:03:09,474 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 21  se koristi promenljiva : jedan
+INFO  09:03:09,475 -  na liniji : 22  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 22  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 22  se koristi promenljiva : pet
+INFO  09:03:09,475 -  na liniji : 24  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 27  se koristi promenljiva : niz
+INFO  09:03:09,475 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 30  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 31  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 32  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 32  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 32  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 33  se koristi promenljiva : bodovi
+INFO  09:03:09,475 -  na liniji : 34  se koristi promenljiva (niz) : niz
+INFO  09:03:09,475 -  na liniji : 53  se koristi promenljiva : nizch
+INFO  09:03:09,476 -  na liniji : 54  se koristi promenljiva (niz) : nizch
+INFO  09:03:09,476 -  na liniji : 55  se koristi promenljiva : jedan
+INFO  09:03:09,476 -  na liniji : 55  se koristi promenljiva (niz) : nizch
+INFO  09:03:09,476 -  na liniji : 56  se koristi promenljiva : pet
+INFO  09:03:09,476 -  na liniji : 56  se koristi promenljiva (niz) : nizch
+INFO  09:03:09,476 -  na liniji : 57  se koristi promenljiva (niz) : nizch
+INFO  09:03:09,476 -  na liniji : 58  se koristi promenljiva : jedan
+INFO  09:03:09,476 -  na liniji : 58  se koristi promenljiva (niz) : nizch
+INFO  09:03:09,476 - Print calls = 5
+INFO  09:03:09,476 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  09:03:09,479 - Parsiranje uspesno zavrseno!

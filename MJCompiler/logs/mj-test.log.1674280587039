@@ -1,0 +1,76 @@
+INFO  06:56:09,057 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:56:09,086 - #2 program
+INFO  06:56:09,086 - #25 MJProgram
+INFO  06:56:09,086 - #3 const
+INFO  06:56:09,087 - #25 int
+INFO  06:56:09,087 - #25 q
+INFO  06:56:09,088 - #13 =
+INFO  06:56:09,088 - #24 5
+INFO  06:56:09,088 - #16 ;
+INFO  06:56:09,088 - #25 int
+INFO  06:56:09,089 - #25 x
+INFO  06:56:09,089 - #16 ;
+INFO  06:56:09,090 - #25 int
+INFO  06:56:09,090 - #25 y
+INFO  06:56:09,090 - #17 ,
+INFO  06:56:09,090 - #25 z
+INFO  06:56:09,090 - #16 ;
+INFO  06:56:09,091 - #25 char
+INFO  06:56:09,091 - #25 a
+INFO  06:56:09,091 - #16 ;
+INFO  06:56:09,091 - #25 bool
+INFO  06:56:09,091 - #25 b
+INFO  06:56:09,091 - #16 ;
+INFO  06:56:09,092 - #25 int
+INFO  06:56:09,092 - #25 q
+INFO  06:56:09,092 - #16 ;
+INFO  06:56:09,092 - #22 {
+INFO  06:56:09,092 - #7 void
+INFO  06:56:09,092 - #25 main
+INFO  06:56:09,093 - #18 (
+INFO  06:56:09,093 - #19 )
+INFO  06:56:09,093 - #25 int
+INFO  06:56:09,094 - #25 q
+INFO  06:56:09,094 - #17 ,
+INFO  06:56:09,094 - #25 w
+INFO  06:56:09,094 - #16 ;
+INFO  06:56:09,094 - #22 {
+INFO  06:56:09,094 - #25 q
+INFO  06:56:09,095 - #13 =
+INFO  06:56:09,095 - #24 3
+INFO  06:56:09,095 - #16 ;
+INFO  06:56:09,096 - #25 w
+INFO  06:56:09,096 - #13 =
+INFO  06:56:09,096 - #25 q
+INFO  06:56:09,096 - #10 *
+INFO  06:56:09,096 - #24 5
+INFO  06:56:09,097 - #16 ;
+INFO  06:56:09,097 - #5 print
+INFO  06:56:09,097 - #18 (
+INFO  06:56:09,097 - #25 q
+INFO  06:56:09,097 - #19 )
+INFO  06:56:09,097 - #16 ;
+INFO  06:56:09,097 - #5 print
+INFO  06:56:09,098 - #18 (
+INFO  06:56:09,098 - #25 w
+INFO  06:56:09,098 - #19 )
+INFO  06:56:09,098 - #16 ;
+INFO  06:56:09,098 - #23 }
+INFO  06:56:09,098 - #23 }
+INFO  06:56:09,105 - Deklarisana konstanta q tipa 1 na liniji 4
+INFO  06:56:09,105 - Deklarisana globalna promenljiva x tipa 1 na liniji 5
+INFO  06:56:09,105 - Deklarisana globalna promenljiva y tipa 1 na liniji 5
+INFO  06:56:09,105 - Deklarisana globalna promenljiva z tipa 1 na liniji 5
+INFO  06:56:09,105 - Deklarisana globalna promenljiva a tipa 2 na liniji 6
+INFO  06:56:09,105 - Deklarisana globalna promenljiva b tipa 5 na liniji 7
+ERROR 06:56:09,105 - Semanticka greska na liniji 8 -> promenljiva q je vec deklarisana
+INFO  06:56:09,105 - Obradjuje se funkcija main na liniji 12
+INFO  06:56:09,105 - Deklarisana lokalna promenljiva q tipa 1 na liniji 12
+INFO  06:56:09,105 - Deklarisana lokalna promenljiva w tipa 1 na liniji 12
+INFO  06:56:09,105 -  na liniji : 14  se koristi promenljiva : q
+INFO  06:56:09,106 -  na liniji : 15  se koristi promenljiva : w
+INFO  06:56:09,106 -  na liniji : 15  se koristi promenljiva : q
+INFO  06:56:09,106 -  na liniji : 17  se koristi promenljiva : q
+INFO  06:56:09,106 -  na liniji : 18  se koristi promenljiva : w
+INFO  06:56:09,106 - Print calls = 2
+ERROR 06:56:09,106 - Parsiranje NIJE uspesno zavrseno!

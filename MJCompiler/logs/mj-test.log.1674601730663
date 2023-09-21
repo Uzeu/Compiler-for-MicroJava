@@ -1,0 +1,110 @@
+INFO  00:08:29,549 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:08:29,575 - #2 program
+INFO  00:08:29,576 - #25 test301
+INFO  00:08:29,576 - #3 const
+INFO  00:08:29,576 - #25 int
+INFO  00:08:29,577 - #25 nula
+INFO  00:08:29,577 - #13 =
+INFO  00:08:29,577 - #24 0
+INFO  00:08:29,577 - #16 ;
+INFO  00:08:29,578 - #3 const
+INFO  00:08:29,579 - #25 int
+INFO  00:08:29,579 - #25 jedan
+INFO  00:08:29,579 - #13 =
+INFO  00:08:29,579 - #24 1
+INFO  00:08:29,579 - #16 ;
+INFO  00:08:29,579 - #3 const
+INFO  00:08:29,579 - #25 int
+INFO  00:08:29,579 - #25 pet
+INFO  00:08:29,579 - #13 =
+INFO  00:08:29,579 - #24 5
+INFO  00:08:29,579 - #16 ;
+INFO  00:08:29,580 - #25 int
+INFO  00:08:29,580 - #25 niz
+INFO  00:08:29,581 - #20 [
+INFO  00:08:29,581 - #21 ]
+INFO  00:08:29,581 - #17 ,
+INFO  00:08:29,581 - #25 niz2
+INFO  00:08:29,581 - #20 [
+INFO  00:08:29,581 - #21 ]
+INFO  00:08:29,582 - #17 ,
+INFO  00:08:29,582 - #25 a
+INFO  00:08:29,582 - #17 ,
+INFO  00:08:29,582 - #25 b
+INFO  00:08:29,582 - #16 ;
+INFO  00:08:29,582 - #25 char
+INFO  00:08:29,582 - #25 nizch
+INFO  00:08:29,583 - #20 [
+INFO  00:08:29,583 - #21 ]
+INFO  00:08:29,583 - #16 ;
+INFO  00:08:29,583 - #22 {
+INFO  00:08:29,583 - #7 void
+INFO  00:08:29,583 - #25 main
+INFO  00:08:29,583 - #18 (
+INFO  00:08:29,584 - #19 )
+INFO  00:08:29,584 - #25 int
+INFO  00:08:29,585 - #25 bodovi
+INFO  00:08:29,585 - #16 ;
+INFO  00:08:29,585 - #25 bool
+INFO  00:08:29,585 - #25 bt
+INFO  00:08:29,585 - #16 ;
+INFO  00:08:29,585 - #25 int
+INFO  00:08:29,585 - #25 niz
+INFO  00:08:29,585 - #20 [
+INFO  00:08:29,585 - #21 ]
+INFO  00:08:29,585 - #17 ,
+INFO  00:08:29,585 - #25 niz2
+INFO  00:08:29,585 - #20 [
+INFO  00:08:29,585 - #21 ]
+INFO  00:08:29,585 - #16 ;
+INFO  00:08:29,585 - #22 {
+INFO  00:08:29,586 - #25 niz
+INFO  00:08:29,586 - #13 =
+INFO  00:08:29,586 - #4 new
+INFO  00:08:29,587 - #25 int
+INFO  00:08:29,587 - #20 [
+INFO  00:08:29,587 - #24 10
+INFO  00:08:29,587 - #21 ]
+INFO  00:08:29,587 - #16 ;
+INFO  00:08:29,587 - #25 niz2
+INFO  00:08:29,587 - #13 =
+INFO  00:08:29,588 - #4 new
+INFO  00:08:29,588 - #25 int
+INFO  00:08:29,588 - #20 [
+INFO  00:08:29,588 - #24 10
+INFO  00:08:29,588 - #21 ]
+INFO  00:08:29,588 - #16 ;
+INFO  00:08:29,588 - #20 [
+INFO  00:08:29,588 - #25 niz2
+INFO  00:08:29,588 - #20 [
+INFO  00:08:29,589 - #24 0
+INFO  00:08:29,589 - #21 ]
+INFO  00:08:29,589 - #17 ,
+INFO  00:08:29,590 - #25 niz
+INFO  00:08:29,590 - #21 ]
+INFO  00:08:29,590 - #13 =
+INFO  00:08:29,590 - #25 niz
+INFO  00:08:29,590 - #16 ;
+INFO  00:08:29,590 - #23 }
+INFO  00:08:29,590 - #23 }
+INFO  00:08:29,597 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  00:08:29,597 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  00:08:29,598 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  00:08:29,598 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  00:08:29,598 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  00:08:29,598 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  00:08:29,598 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  00:08:29,598 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  00:08:29,598 - Obradjuje se funkcija main na liniji 13
+INFO  00:08:29,598 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  00:08:29,598 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  00:08:29,598 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  00:08:29,598 - Deklarisana lokalna promenljiva niz2 tipa 3 na liniji 16
+INFO  00:08:29,598 -  na liniji : 33  se koristi promenljiva : niz
+INFO  00:08:29,598 -  na liniji : 34  se koristi promenljiva : niz2
+INFO  00:08:29,599 -  na liniji : 35  se koristi promenljiva (niz) : niz2
+INFO  00:08:29,599 -  na liniji : 35  se koristi promenljiva : niz
+INFO  00:08:29,599 -  na liniji : 35  se koristi promenljiva : niz
+ERROR 00:08:29,599 - Greska na liniji : 35   Designator/i sa leve strane nisu istog tipa  kao elementi niza sa desne strane
+INFO  00:08:29,599 - Print calls = 0
+ERROR 00:08:29,599 - Parsiranje NIJE uspesno zavrseno!

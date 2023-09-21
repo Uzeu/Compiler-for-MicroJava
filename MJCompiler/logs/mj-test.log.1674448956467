@@ -1,0 +1,49 @@
+INFO  05:42:17,769 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:42:17,795 - #2 program
+INFO  05:42:17,796 - #25 MJProgram
+INFO  05:42:17,796 - #22 {
+INFO  05:42:17,796 - #7 void
+INFO  05:42:17,797 - #25 main
+INFO  05:42:17,797 - #18 (
+INFO  05:42:17,797 - #19 )
+INFO  05:42:17,798 - #25 int
+INFO  05:42:17,798 - #25 MarkoMisic
+INFO  05:42:17,799 - #20 [
+INFO  05:42:17,799 - #21 ]
+INFO  05:42:17,799 - #16 ;
+INFO  05:42:17,799 - #25 int
+INFO  05:42:17,800 - #25 x
+INFO  05:42:17,800 - #16 ;
+INFO  05:42:17,800 - #22 {
+INFO  05:42:17,800 - #25 x
+INFO  05:42:17,800 - #13 =
+INFO  05:42:17,801 - #24 3
+INFO  05:42:17,801 - #8 +
+INFO  05:42:17,801 - #24 5
+INFO  05:42:17,802 - #16 ;
+INFO  05:42:17,803 - #25 MarkoMisic
+INFO  05:42:17,803 - #13 =
+INFO  05:42:17,803 - #4 new
+INFO  05:42:17,803 - #25 int
+INFO  05:42:17,803 - #20 [
+INFO  05:42:17,803 - #24 11
+INFO  05:42:17,804 - #21 ]
+INFO  05:42:17,804 - #16 ;
+INFO  05:42:17,804 - #25 MarkoMisic
+INFO  05:42:17,804 - #20 [
+INFO  05:42:17,804 - #24 5
+INFO  05:42:17,804 - #21 ]
+INFO  05:42:17,804 - #13 =
+INFO  05:42:17,804 - #24 5
+INFO  05:42:17,804 - #16 ;
+INFO  05:42:17,804 - #23 }
+INFO  05:42:17,804 - #23 }
+INFO  05:42:17,811 - Obradjuje se funkcija main na liniji 9
+INFO  05:42:17,811 - Deklarisana lokalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  05:42:17,811 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+INFO  05:42:17,811 -  na liniji : 12  se koristi promenljiva : x
+INFO  05:42:17,811 -  na liniji : 13  se koristi promenljiva : MarkoMisic
+INFO  05:42:17,811 -  na liniji : 14  se koristi promenljiva (niz) : MarkoMisic
+INFO  05:42:17,812 - Print calls = 0
+INFO  05:42:17,812 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:42:17,815 - Parsiranje uspesno zavrseno!

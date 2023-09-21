@@ -1,0 +1,31 @@
+INFO  05:04:52,168 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:04:52,196 - #2 program
+INFO  05:04:52,196 - #25 MJProgram
+INFO  05:04:52,196 - #25 int
+INFO  05:04:52,197 - #25 MarkoMisic
+INFO  05:04:52,197 - #20 [
+INFO  05:04:52,197 - #21 ]
+INFO  05:04:52,197 - #16 ;
+INFO  05:04:52,198 - #25 bool
+INFO  05:04:52,198 - #25 i
+INFO  05:04:52,199 - #16 ;
+INFO  05:04:52,199 - #22 {
+INFO  05:04:52,199 - #7 void
+INFO  05:04:52,199 - #25 main
+INFO  05:04:52,200 - #18 (
+INFO  05:04:52,200 - #19 )
+INFO  05:04:52,201 - #22 {
+INFO  05:04:52,202 - #25 MarkoMisic
+INFO  05:04:52,203 - #13 =
+INFO  05:04:52,203 - #25 i
+INFO  05:04:52,204 - #16 ;
+INFO  05:04:52,204 - #23 }
+INFO  05:04:52,204 - #23 }
+INFO  05:04:52,213 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:04:52,214 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:04:52,214 - Obradjuje se funkcija main na liniji 11
+INFO  05:04:52,214 -  na liniji : 17  se koristi promenljiva : MarkoMisic
+INFO  05:04:52,214 -  na liniji : 17  se koristi promenljiva : i
+ERROR 05:04:52,214 - Greska na liniji : 17  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  05:04:52,214 - Print calls = 0
+ERROR 05:04:52,214 - Parsiranje NIJE uspesno zavrseno!

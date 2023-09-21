@@ -1,0 +1,54 @@
+INFO  07:47:39,208 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  07:47:39,242 - #2 program
+INFO  07:47:39,242 - #25 MJProgram
+INFO  07:47:39,242 - #22 {
+INFO  07:47:39,243 - #7 void
+INFO  07:47:39,244 - #25 main
+INFO  07:47:39,244 - #18 (
+INFO  07:47:39,244 - #19 )
+INFO  07:47:39,245 - #25 int
+INFO  07:47:39,246 - #25 b
+INFO  07:47:39,247 - #16 ;
+INFO  07:47:39,247 - #25 int
+INFO  07:47:39,248 - #25 MarkoMisic
+INFO  07:47:39,248 - #20 [
+INFO  07:47:39,248 - #21 ]
+INFO  07:47:39,249 - #16 ;
+INFO  07:47:39,249 - #25 int
+INFO  07:47:39,249 - #25 x
+INFO  07:47:39,249 - #16 ;
+INFO  07:47:39,249 - #22 {
+INFO  07:47:39,249 - #25 MarkoMisic
+INFO  07:47:39,250 - #13 =
+INFO  07:47:39,250 - #4 new
+INFO  07:47:39,253 - #25 int
+INFO  07:47:39,253 - #20 [
+INFO  07:47:39,253 - #24 11
+INFO  07:47:39,253 - #21 ]
+INFO  07:47:39,253 - #16 ;
+INFO  07:47:39,254 - #25 MarkoMisic
+INFO  07:47:39,254 - #20 [
+INFO  07:47:39,255 - #24 4
+INFO  07:47:39,255 - #21 ]
+INFO  07:47:39,255 - #13 =
+INFO  07:47:39,255 - #24 3
+INFO  07:47:39,255 - #16 ;
+INFO  07:47:39,255 - #5 print
+INFO  07:47:39,255 - #18 (
+INFO  07:47:39,255 - #25 MarkoMisic
+INFO  07:47:39,255 - #20 [
+INFO  07:47:39,255 - #24 4
+INFO  07:47:39,255 - #21 ]
+INFO  07:47:39,255 - #19 )
+INFO  07:47:39,256 - #16 ;
+INFO  07:47:39,256 - #23 }
+INFO  07:47:39,256 - #23 }
+INFO  07:47:39,263 - Obradjuje se funkcija main na liniji 9
+INFO  07:47:39,263 - Deklarisana lokalna promenljiva b tipa 1 na liniji 9
+INFO  07:47:39,263 - Deklarisana lokalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  07:47:39,263 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+INFO  07:47:39,263 -  na liniji : 13  se koristi promenljiva : MarkoMisic
+INFO  07:47:39,263 -  na liniji : 14  se koristi promenljiva (niz) : MarkoMisic
+INFO  07:47:39,263 -  na liniji : 15  se koristi promenljiva (niz) : MarkoMisic
+INFO  07:47:39,263 - Print calls = 1
+INFO  07:47:39,264 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj

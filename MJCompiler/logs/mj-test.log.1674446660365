@@ -1,0 +1,52 @@
+INFO  05:01:17,908 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:01:17,934 - #2 program
+INFO  05:01:17,935 - #25 MJProgram
+INFO  05:01:17,935 - #25 int
+INFO  05:01:17,936 - #25 MarkoMisic
+INFO  05:01:17,936 - #20 [
+INFO  05:01:17,936 - #21 ]
+INFO  05:01:17,936 - #16 ;
+INFO  05:01:17,937 - #25 bool
+INFO  05:01:17,937 - #25 i
+INFO  05:01:17,937 - #16 ;
+INFO  05:01:17,938 - #22 {
+INFO  05:01:17,938 - #7 void
+INFO  05:01:17,938 - #25 main
+INFO  05:01:17,938 - #18 (
+INFO  05:01:17,939 - #19 )
+INFO  05:01:17,939 - #22 {
+INFO  05:01:17,940 - #25 MarkoMisic
+INFO  05:01:17,940 - #13 =
+INFO  05:01:17,940 - #4 new
+INFO  05:01:17,941 - #25 int
+INFO  05:01:17,941 - #20 [
+INFO  05:01:17,941 - #24 10
+INFO  05:01:17,943 - #21 ]
+INFO  05:01:17,943 - #16 ;
+INFO  05:01:17,943 - #25 MarkoMisic
+INFO  05:01:17,943 - #20 [
+INFO  05:01:17,944 - #24 5
+INFO  05:01:17,944 - #21 ]
+INFO  05:01:17,944 - #13 =
+INFO  05:01:17,944 - #24 3
+INFO  05:01:17,944 - #16 ;
+INFO  05:01:17,944 - #25 i
+INFO  05:01:17,944 - #13 =
+INFO  05:01:17,944 - #24 3
+INFO  05:01:17,944 - #16 ;
+INFO  05:01:17,944 - #25 MarkoMisic
+INFO  05:01:17,944 - #13 =
+INFO  05:01:17,944 - #24 3
+INFO  05:01:17,944 - #16 ;
+INFO  05:01:17,944 - #23 }
+INFO  05:01:17,945 - #23 }
+INFO  05:01:17,951 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:01:17,951 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:01:17,952 - Obradjuje se funkcija main na liniji 11
+INFO  05:01:17,952 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:01:17,952 -  na liniji : 16  se koristi promenljiva (niz) : MarkoMisic
+INFO  05:01:17,952 -  na liniji : 17  se koristi promenljiva : i
+ERROR 05:01:17,952 - Greska na liniji : 17  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  05:01:17,952 -  na liniji : 18  se koristi promenljiva : MarkoMisic
+INFO  05:01:17,952 - Print calls = 0
+ERROR 05:01:17,953 - Parsiranje NIJE uspesno zavrseno!

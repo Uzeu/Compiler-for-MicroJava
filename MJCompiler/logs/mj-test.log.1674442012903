@@ -1,0 +1,88 @@
+INFO  03:20:08,858 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  03:20:08,888 - #2 program
+INFO  03:20:08,888 - #25 MJProgram
+INFO  03:20:08,888 - #3 const
+INFO  03:20:08,889 - #25 int
+INFO  03:20:08,889 - #25 konstanta
+INFO  03:20:08,890 - #13 =
+INFO  03:20:08,890 - #24 5
+INFO  03:20:08,890 - #17 ,
+INFO  03:20:08,891 - #25 dvojak
+INFO  03:20:08,891 - #13 =
+INFO  03:20:08,891 - #24 4
+INFO  03:20:08,891 - #17 ,
+INFO  03:20:08,892 - #25 trojak
+INFO  03:20:08,892 - #13 =
+INFO  03:20:08,892 - #24 6
+INFO  03:20:08,892 - #16 ;
+INFO  03:20:08,892 - #3 const
+INFO  03:20:08,892 - #25 bool
+INFO  03:20:08,893 - #25 boolean
+INFO  03:20:08,893 - #13 =
+INFO  03:20:08,894 - #27 true
+INFO  03:20:08,894 - #16 ;
+INFO  03:20:08,894 - #25 int
+INFO  03:20:08,894 - #25 x
+INFO  03:20:08,894 - #16 ;
+INFO  03:20:08,895 - #25 int
+INFO  03:20:08,895 - #25 y
+INFO  03:20:08,896 - #17 ,
+INFO  03:20:08,896 - #25 z
+INFO  03:20:08,896 - #16 ;
+INFO  03:20:08,896 - #25 char
+INFO  03:20:08,896 - #25 a
+INFO  03:20:08,896 - #16 ;
+INFO  03:20:08,896 - #25 bool
+INFO  03:20:08,896 - #25 b
+INFO  03:20:08,896 - #16 ;
+INFO  03:20:08,896 - #25 int
+INFO  03:20:08,896 - #25 MarkoMisic
+INFO  03:20:08,896 - #20 [
+INFO  03:20:08,896 - #21 ]
+INFO  03:20:08,897 - #16 ;
+INFO  03:20:08,897 - #22 {
+INFO  03:20:08,897 - #7 void
+INFO  03:20:08,897 - #25 main
+INFO  03:20:08,897 - #18 (
+INFO  03:20:08,898 - #19 )
+INFO  03:20:08,898 - #25 int
+INFO  03:20:08,899 - #25 q
+INFO  03:20:08,899 - #17 ,
+INFO  03:20:08,899 - #25 w
+INFO  03:20:08,899 - #16 ;
+INFO  03:20:08,899 - #22 {
+INFO  03:20:08,899 - #25 trojak
+INFO  03:20:08,900 - #13 =
+INFO  03:20:08,900 - #24 4
+INFO  03:20:08,901 - #16 ;
+INFO  03:20:08,901 - #5 print
+INFO  03:20:08,901 - #18 (
+INFO  03:20:08,901 - #25 konstanta
+INFO  03:20:08,901 - #19 )
+INFO  03:20:08,901 - #16 ;
+INFO  03:20:08,901 - #5 print
+INFO  03:20:08,902 - #18 (
+INFO  03:20:08,902 - #25 boolean
+INFO  03:20:08,902 - #19 )
+INFO  03:20:08,902 - #16 ;
+INFO  03:20:08,902 - #23 }
+INFO  03:20:08,902 - #23 }
+INFO  03:20:08,909 - Deklarisana konstanta konstanta tipa 1 na liniji 4
+INFO  03:20:08,909 - Deklarisana konstanta dvojak tipa 1 na liniji 4
+INFO  03:20:08,909 - Deklarisana konstanta trojak tipa 1 na liniji 4
+INFO  03:20:08,909 - Deklarisana konstanta boolean tipa 5 na liniji 5
+INFO  03:20:08,909 - Deklarisana globalna promenljiva x tipa 1 na liniji 6
+INFO  03:20:08,910 - Deklarisana globalna promenljiva y tipa 1 na liniji 6
+INFO  03:20:08,910 - Deklarisana globalna promenljiva z tipa 1 na liniji 6
+INFO  03:20:08,910 - Deklarisana globalna promenljiva a tipa 2 na liniji 7
+INFO  03:20:08,910 - Deklarisana globalna promenljiva b tipa 5 na liniji 8
+INFO  03:20:08,910 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  03:20:08,910 - Obradjuje se funkcija main na liniji 14
+INFO  03:20:08,910 - Deklarisana lokalna promenljiva q tipa 1 na liniji 14
+INFO  03:20:08,910 - Deklarisana lokalna promenljiva w tipa 1 na liniji 14
+INFO  03:20:08,910 -  na liniji : 19  se koristi promenljiva : trojak
+ERROR 03:20:08,910 - Greska na liniji : 19  DesignatorStatement -> Designator Assignop Expr : Deasignator nije promenljiva ili element niza
+INFO  03:20:08,910 -  na liniji : 20  se koristi promenljiva : konstanta
+INFO  03:20:08,910 -  na liniji : 21  se koristi promenljiva : boolean
+INFO  03:20:08,910 - Print calls = 2
+ERROR 03:20:08,911 - Parsiranje NIJE uspesno zavrseno!

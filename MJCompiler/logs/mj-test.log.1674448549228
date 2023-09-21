@@ -1,0 +1,56 @@
+INFO  05:35:41,382 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:35:41,409 - #2 program
+INFO  05:35:41,409 - #25 MJProgram
+INFO  05:35:41,409 - #3 const
+INFO  05:35:41,410 - #25 int
+INFO  05:35:41,410 - #25 a
+INFO  05:35:41,411 - #13 =
+INFO  05:35:41,411 - #24 25
+INFO  05:35:41,411 - #16 ;
+INFO  05:35:41,412 - #25 int
+INFO  05:35:41,412 - #25 MarkoMisic
+INFO  05:35:41,413 - #20 [
+INFO  05:35:41,413 - #21 ]
+INFO  05:35:41,413 - #16 ;
+INFO  05:35:41,413 - #25 bool
+INFO  05:35:41,414 - #25 i
+INFO  05:35:41,414 - #16 ;
+INFO  05:35:41,414 - #22 {
+INFO  05:35:41,414 - #7 void
+INFO  05:35:41,415 - #25 main
+INFO  05:35:41,415 - #18 (
+INFO  05:35:41,415 - #19 )
+INFO  05:35:41,416 - #22 {
+INFO  05:35:41,418 - #5 print
+INFO  05:35:41,418 - #18 (
+INFO  05:35:41,419 - #25 a
+INFO  05:35:41,419 - #19 )
+INFO  05:35:41,419 - #16 ;
+INFO  05:35:41,419 - #25 MarkoMisic
+INFO  05:35:41,419 - #13 =
+INFO  05:35:41,419 - #4 new
+INFO  05:35:41,420 - #25 int
+INFO  05:35:41,420 - #20 [
+INFO  05:35:41,420 - #24 10
+INFO  05:35:41,420 - #21 ]
+INFO  05:35:41,420 - #16 ;
+INFO  05:35:41,420 - #25 MarkoMisic
+INFO  05:35:41,420 - #20 [
+INFO  05:35:41,420 - #24 5
+INFO  05:35:41,421 - #21 ]
+INFO  05:35:41,421 - #8 +
+ERROR 05:35:41,421 - 
+Sintaksna greska na liniji 16
+INFO  05:35:41,421 - #24 3
+INFO  05:35:41,421 - #16 ;
+INFO  05:35:41,421 - #23 }
+INFO  05:35:41,421 - #23 }
+ERROR 05:35:41,422 - Izvrsen oporavak do ; u liniji 13
+INFO  05:35:41,429 - Deklarisana konstanta a tipa 1 na liniji 4
+INFO  05:35:41,429 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:35:41,429 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:35:41,429 - Obradjuje se funkcija main na liniji 11
+INFO  05:35:41,429 -  na liniji : 14  se koristi promenljiva : a
+INFO  05:35:41,429 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:35:41,429 - Print calls = 1
+ERROR 05:35:41,429 - Parsiranje NIJE uspesno zavrseno!

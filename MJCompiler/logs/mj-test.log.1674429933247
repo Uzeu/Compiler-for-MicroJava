@@ -1,0 +1,64 @@
+INFO  00:21:27,911 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:21:27,938 - #2 program
+INFO  00:21:27,938 - #25 MJProgram
+INFO  00:21:27,938 - #3 const
+INFO  00:21:27,939 - #25 int
+INFO  00:21:27,939 - #25 konstanta
+INFO  00:21:27,939 - #13 =
+INFO  00:21:27,940 - #24 5
+INFO  00:21:27,940 - #17 ,
+INFO  00:21:27,941 - #25 dvojak
+INFO  00:21:27,941 - #13 =
+INFO  00:21:27,941 - #24 4
+INFO  00:21:27,941 - #17 ,
+INFO  00:21:27,941 - #25 trojak
+INFO  00:21:27,941 - #13 =
+INFO  00:21:27,941 - #24 6
+INFO  00:21:27,941 - #16 ;
+INFO  00:21:27,941 - #25 int
+INFO  00:21:27,942 - #25 x
+INFO  00:21:27,942 - #16 ;
+INFO  00:21:27,942 - #25 int
+INFO  00:21:27,943 - #25 y
+INFO  00:21:27,943 - #17 ,
+INFO  00:21:27,943 - #25 z
+INFO  00:21:27,943 - #16 ;
+INFO  00:21:27,944 - #25 char
+INFO  00:21:27,944 - #25 a
+INFO  00:21:27,944 - #16 ;
+INFO  00:21:27,944 - #25 bool
+INFO  00:21:27,944 - #25 b
+INFO  00:21:27,944 - #16 ;
+INFO  00:21:27,944 - #22 {
+INFO  00:21:27,944 - #7 void
+INFO  00:21:27,945 - #25 main
+INFO  00:21:27,945 - #18 (
+INFO  00:21:27,945 - #19 )
+INFO  00:21:27,945 - #25 int
+INFO  00:21:27,946 - #25 q
+INFO  00:21:27,946 - #17 ,
+INFO  00:21:27,946 - #25 w
+INFO  00:21:27,946 - #16 ;
+INFO  00:21:27,946 - #22 {
+INFO  00:21:27,946 - #5 print
+INFO  00:21:27,947 - #18 (
+INFO  00:21:27,947 - #25 konstanta
+INFO  00:21:27,947 - #19 )
+INFO  00:21:27,947 - #16 ;
+INFO  00:21:27,947 - #23 }
+INFO  00:21:27,947 - #23 }
+INFO  00:21:27,954 - Deklarisana konstanta konstanta tipa 1 na liniji 4
+INFO  00:21:27,954 - Deklarisana konstanta dvojak tipa 1 na liniji 4
+INFO  00:21:27,955 - Deklarisana konstanta trojak tipa 1 na liniji 4
+INFO  00:21:27,955 - Deklarisana globalna promenljiva x tipa 1 na liniji 5
+INFO  00:21:27,955 - Deklarisana globalna promenljiva y tipa 1 na liniji 5
+INFO  00:21:27,955 - Deklarisana globalna promenljiva z tipa 1 na liniji 5
+INFO  00:21:27,955 - Deklarisana globalna promenljiva a tipa 2 na liniji 6
+INFO  00:21:27,955 - Deklarisana globalna promenljiva b tipa 5 na liniji 7
+INFO  00:21:27,955 - Obradjuje se funkcija main na liniji 13
+INFO  00:21:27,955 - Deklarisana lokalna promenljiva q tipa 1 na liniji 13
+INFO  00:21:27,955 - Deklarisana lokalna promenljiva w tipa 1 na liniji 13
+ERROR 00:21:27,955 - Greska na liniji : 16  ime : konstanta nije deklarisano
+ERROR 00:21:27,955 - Greska na liniji : 16  print (expr) -> expr nije int/char/bool
+INFO  00:21:27,955 - Print calls = 1
+ERROR 00:21:27,956 - Parsiranje NIJE uspesno zavrseno!

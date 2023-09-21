@@ -1,0 +1,83 @@
+INFO  00:32:27,788 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:32:27,815 - #2 program
+INFO  00:32:27,815 - #25 MJProgram
+INFO  00:32:27,815 - #3 const
+INFO  00:32:27,816 - #25 int
+INFO  00:32:27,816 - #25 konstanta
+INFO  00:32:27,816 - #13 =
+INFO  00:32:27,816 - #24 5
+INFO  00:32:27,817 - #17 ,
+INFO  00:32:27,817 - #25 dvojak
+INFO  00:32:27,818 - #13 =
+INFO  00:32:27,818 - #24 4
+INFO  00:32:27,818 - #17 ,
+INFO  00:32:27,818 - #25 trojak
+INFO  00:32:27,818 - #13 =
+INFO  00:32:27,818 - #24 6
+INFO  00:32:27,818 - #16 ;
+INFO  00:32:27,818 - #3 const
+INFO  00:32:27,819 - #25 bool
+INFO  00:32:27,819 - #25 boolean
+INFO  00:32:27,819 - #13 =
+INFO  00:32:27,819 - #27 true
+INFO  00:32:27,821 - #16 ;
+INFO  00:32:27,821 - #25 int
+INFO  00:32:27,821 - #25 x
+INFO  00:32:27,821 - #16 ;
+INFO  00:32:27,822 - #25 int
+INFO  00:32:27,822 - #25 y
+INFO  00:32:27,822 - #17 ,
+INFO  00:32:27,822 - #25 z
+INFO  00:32:27,822 - #16 ;
+INFO  00:32:27,823 - #25 char
+INFO  00:32:27,823 - #25 a
+INFO  00:32:27,823 - #16 ;
+INFO  00:32:27,823 - #25 bool
+INFO  00:32:27,823 - #25 b
+INFO  00:32:27,823 - #16 ;
+INFO  00:32:27,823 - #25 int
+INFO  00:32:27,823 - #25 MarkoMisic
+INFO  00:32:27,823 - #20 [
+INFO  00:32:27,823 - #21 ]
+INFO  00:32:27,823 - #16 ;
+INFO  00:32:27,823 - #22 {
+INFO  00:32:27,823 - #7 void
+INFO  00:32:27,824 - #25 main
+INFO  00:32:27,824 - #18 (
+INFO  00:32:27,824 - #19 )
+INFO  00:32:27,825 - #25 int
+INFO  00:32:27,825 - #25 q
+INFO  00:32:27,825 - #17 ,
+INFO  00:32:27,825 - #25 w
+INFO  00:32:27,825 - #16 ;
+INFO  00:32:27,825 - #22 {
+INFO  00:32:27,825 - #5 print
+INFO  00:32:27,826 - #18 (
+INFO  00:32:27,826 - #25 konstanta
+INFO  00:32:27,826 - #19 )
+INFO  00:32:27,826 - #16 ;
+INFO  00:32:27,826 - #5 print
+INFO  00:32:27,827 - #18 (
+INFO  00:32:27,827 - #25 boolean
+INFO  00:32:27,827 - #19 )
+INFO  00:32:27,827 - #16 ;
+INFO  00:32:27,827 - #23 }
+INFO  00:32:27,827 - #23 }
+INFO  00:32:27,834 - Deklarisana konstanta konstanta tipa 1 na liniji 4
+INFO  00:32:27,834 - Deklarisana konstanta dvojak tipa 1 na liniji 4
+INFO  00:32:27,834 - Deklarisana konstanta trojak tipa 1 na liniji 4
+INFO  00:32:27,834 - Deklarisana konstanta boolean tipa 5 na liniji 5
+INFO  00:32:27,834 - Deklarisana globalna promenljiva x tipa 1 na liniji 6
+INFO  00:32:27,834 - Deklarisana globalna promenljiva y tipa 1 na liniji 6
+INFO  00:32:27,834 - Deklarisana globalna promenljiva z tipa 1 na liniji 6
+INFO  00:32:27,834 - Deklarisana globalna promenljiva a tipa 2 na liniji 7
+INFO  00:32:27,834 - Deklarisana globalna promenljiva b tipa 5 na liniji 8
+INFO  00:32:27,834 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  00:32:27,834 - Obradjuje se funkcija main na liniji 14
+INFO  00:32:27,834 - Deklarisana lokalna promenljiva q tipa 1 na liniji 14
+INFO  00:32:27,834 - Deklarisana lokalna promenljiva w tipa 1 na liniji 14
+INFO  00:32:27,835 -  na liniji : 20  se koristi promenljiva : konstanta
+INFO  00:32:27,835 -  na liniji : 21  se koristi promenljiva : boolean
+INFO  00:32:27,835 - Print calls = 2
+INFO  00:32:27,835 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  00:32:27,838 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,164 @@
+INFO  00:54:23,994 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:54:24,022 - #2 program
+INFO  00:54:24,022 - #25 test301
+INFO  00:54:24,022 - #3 const
+INFO  00:54:24,023 - #25 int
+INFO  00:54:24,023 - #25 nula
+INFO  00:54:24,023 - #13 =
+INFO  00:54:24,023 - #24 0
+INFO  00:54:24,023 - #16 ;
+INFO  00:54:24,024 - #3 const
+INFO  00:54:24,025 - #25 int
+INFO  00:54:24,025 - #25 jedan
+INFO  00:54:24,025 - #13 =
+INFO  00:54:24,025 - #24 1
+INFO  00:54:24,025 - #16 ;
+INFO  00:54:24,025 - #3 const
+INFO  00:54:24,025 - #25 int
+INFO  00:54:24,025 - #25 pet
+INFO  00:54:24,026 - #13 =
+INFO  00:54:24,026 - #24 5
+INFO  00:54:24,026 - #16 ;
+INFO  00:54:24,026 - #25 int
+INFO  00:54:24,026 - #25 niz
+INFO  00:54:24,028 - #20 [
+INFO  00:54:24,028 - #21 ]
+INFO  00:54:24,028 - #17 ,
+INFO  00:54:24,028 - #25 niz2
+INFO  00:54:24,029 - #20 [
+INFO  00:54:24,029 - #21 ]
+INFO  00:54:24,029 - #17 ,
+INFO  00:54:24,029 - #25 a
+INFO  00:54:24,029 - #17 ,
+INFO  00:54:24,029 - #25 b
+INFO  00:54:24,029 - #16 ;
+INFO  00:54:24,029 - #25 char
+INFO  00:54:24,030 - #25 nizch
+INFO  00:54:24,030 - #20 [
+INFO  00:54:24,030 - #21 ]
+INFO  00:54:24,030 - #16 ;
+INFO  00:54:24,030 - #22 {
+INFO  00:54:24,030 - #7 void
+INFO  00:54:24,030 - #25 main
+INFO  00:54:24,030 - #18 (
+INFO  00:54:24,031 - #19 )
+INFO  00:54:24,031 - #25 int
+INFO  00:54:24,032 - #25 bodovi
+INFO  00:54:24,032 - #16 ;
+INFO  00:54:24,032 - #25 bool
+INFO  00:54:24,032 - #25 bt
+INFO  00:54:24,032 - #16 ;
+INFO  00:54:24,032 - #25 int
+INFO  00:54:24,032 - #25 niz2
+INFO  00:54:24,032 - #20 [
+INFO  00:54:24,032 - #21 ]
+INFO  00:54:24,032 - #17 ,
+INFO  00:54:24,032 - #25 niz
+INFO  00:54:24,032 - #20 [
+INFO  00:54:24,032 - #21 ]
+INFO  00:54:24,033 - #16 ;
+INFO  00:54:24,033 - #22 {
+INFO  00:54:24,033 - #25 niz
+INFO  00:54:24,033 - #13 =
+INFO  00:54:24,033 - #4 new
+INFO  00:54:24,034 - #25 int
+INFO  00:54:24,034 - #20 [
+INFO  00:54:24,034 - #24 10
+INFO  00:54:24,034 - #21 ]
+INFO  00:54:24,034 - #16 ;
+INFO  00:54:24,034 - #25 niz
+INFO  00:54:24,035 - #20 [
+INFO  00:54:24,036 - #24 1
+INFO  00:54:24,036 - #21 ]
+INFO  00:54:24,036 - #13 =
+INFO  00:54:24,036 - #25 pet
+INFO  00:54:24,036 - #8 +
+INFO  00:54:24,036 - #25 jedan
+INFO  00:54:24,037 - #16 ;
+INFO  00:54:24,037 - #5 print
+INFO  00:54:24,037 - #18 (
+INFO  00:54:24,037 - #25 niz
+INFO  00:54:24,037 - #20 [
+INFO  00:54:24,037 - #24 1
+INFO  00:54:24,037 - #21 ]
+INFO  00:54:24,037 - #19 )
+INFO  00:54:24,037 - #16 ;
+INFO  00:54:24,037 - #5 print
+INFO  00:54:24,037 - #18 (
+INFO  00:54:24,038 - #25 niz
+INFO  00:54:24,038 - #20 [
+INFO  00:54:24,038 - #24 1
+INFO  00:54:24,038 - #21 ]
+INFO  00:54:24,038 - #19 )
+INFO  00:54:24,038 - #16 ;
+INFO  00:54:24,039 - #25 a
+INFO  00:54:24,039 - #13 =
+INFO  00:54:24,039 - #24 2
+INFO  00:54:24,039 - #16 ;
+INFO  00:54:24,039 - #25 bodovi
+INFO  00:54:24,039 - #13 =
+INFO  00:54:24,039 - #24 100
+INFO  00:54:24,039 - #16 ;
+INFO  00:54:24,039 - #25 bodovi
+INFO  00:54:24,039 - #13 =
+INFO  00:54:24,039 - #9 -
+INFO  00:54:24,039 - #25 bodovi
+INFO  00:54:24,039 - #8 +
+INFO  00:54:24,039 - #25 pet
+INFO  00:54:24,039 - #10 *
+INFO  00:54:24,039 - #25 a
+INFO  00:54:24,040 - #11 /
+INFO  00:54:24,040 - #24 2
+INFO  00:54:24,041 - #9 -
+INFO  00:54:24,041 - #25 jedan
+INFO  00:54:24,041 - #10 *
+INFO  00:54:24,041 - #25 bodovi
+INFO  00:54:24,041 - #9 -
+INFO  00:54:24,042 - #24 3
+INFO  00:54:24,042 - #12 %
+INFO  00:54:24,042 - #24 2
+INFO  00:54:24,042 - #8 +
+INFO  00:54:24,042 - #24 3
+INFO  00:54:24,042 - #10 *
+INFO  00:54:24,042 - #24 2
+INFO  00:54:24,042 - #9 -
+INFO  00:54:24,042 - #24 3
+INFO  00:54:24,043 - #16 ;
+INFO  00:54:24,043 - #5 print
+INFO  00:54:24,043 - #18 (
+INFO  00:54:24,043 - #25 bodovi
+INFO  00:54:24,043 - #19 )
+INFO  00:54:24,043 - #16 ;
+INFO  00:54:24,043 - #23 }
+INFO  00:54:24,043 - #23 }
+INFO  00:54:24,050 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  00:54:24,050 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  00:54:24,050 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  00:54:24,050 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  00:54:24,050 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  00:54:24,050 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  00:54:24,050 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  00:54:24,050 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  00:54:24,050 - Obradjuje se funkcija main na liniji 13
+INFO  00:54:24,050 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  00:54:24,050 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  00:54:24,051 - Deklarisana lokalna promenljiva niz2 tipa 3 na liniji 16
+INFO  00:54:24,051 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  00:54:24,051 -  na liniji : 33  se koristi promenljiva : niz
+INFO  00:54:24,051 -  na liniji : 35  se koristi promenljiva (niz) : niz
+INFO  00:54:24,051 -  na liniji : 35  se koristi promenljiva : pet
+INFO  00:54:24,051 -  na liniji : 35  se koristi promenljiva : jedan
+INFO  00:54:24,051 -  na liniji : 36  se koristi promenljiva (niz) : niz
+INFO  00:54:24,051 -  na liniji : 37  se koristi promenljiva (niz) : niz
+INFO  00:54:24,051 -  na liniji : 40  se koristi promenljiva : a
+INFO  00:54:24,051 -  na liniji : 41  se koristi promenljiva : bodovi
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : bodovi
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : bodovi
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : pet
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : a
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : jedan
+INFO  00:54:24,051 -  na liniji : 42  se koristi promenljiva : bodovi
+INFO  00:54:24,051 -  na liniji : 43  se koristi promenljiva : bodovi
+INFO  00:54:24,052 - Print calls = 3
+INFO  00:54:24,052 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  00:54:24,055 - Parsiranje uspesno zavrseno!

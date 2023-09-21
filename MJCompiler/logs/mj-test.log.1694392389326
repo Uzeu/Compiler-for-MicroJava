@@ -1,0 +1,99 @@
+INFO  02:29:47,769 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  02:29:47,789 - #2 program
+INFO  02:29:47,789 - #27 test301
+INFO  02:29:47,789 - #3 const
+INFO  02:29:47,790 - #27 int
+INFO  02:29:47,790 - #27 nula
+INFO  02:29:47,791 - #15 =
+INFO  02:29:47,791 - #26 0
+INFO  02:29:47,791 - #18 ;
+INFO  02:29:47,791 - #3 const
+INFO  02:29:47,792 - #27 int
+INFO  02:29:47,792 - #27 jedan
+INFO  02:29:47,792 - #15 =
+INFO  02:29:47,792 - #26 1
+INFO  02:29:47,792 - #18 ;
+INFO  02:29:47,792 - #3 const
+INFO  02:29:47,792 - #27 int
+INFO  02:29:47,792 - #27 pet
+INFO  02:29:47,792 - #15 =
+INFO  02:29:47,792 - #26 5
+INFO  02:29:47,792 - #18 ;
+INFO  02:29:47,795 - #27 int
+INFO  02:29:47,795 - #27 niz
+INFO  02:29:47,795 - #22 [
+INFO  02:29:47,795 - #23 ]
+INFO  02:29:47,795 - #18 ;
+INFO  02:29:47,796 - #24 {
+INFO  02:29:47,796 - #7 void
+INFO  02:29:47,796 - #27 main
+INFO  02:29:47,797 - #20 (
+INFO  02:29:47,797 - #21 )
+INFO  02:29:47,797 - #27 bool
+INFO  02:29:47,797 - #27 br
+INFO  02:29:47,797 - #18 ;
+INFO  02:29:47,798 - #24 {
+INFO  02:29:47,798 - #27 niz
+INFO  02:29:47,798 - #15 =
+INFO  02:29:47,798 - #4 new
+INFO  02:29:47,798 - #27 int
+INFO  02:29:47,798 - #22 [
+INFO  02:29:47,799 - #26 3
+INFO  02:29:47,799 - #23 ]
+INFO  02:29:47,799 - #18 ;
+INFO  02:29:47,799 - #27 niz
+INFO  02:29:47,799 - #22 [
+INFO  02:29:47,800 - #26 0
+INFO  02:29:47,800 - #23 ]
+INFO  02:29:47,800 - #15 =
+INFO  02:29:47,801 - #26 1
+INFO  02:29:47,801 - #18 ;
+INFO  02:29:47,801 - #27 niz
+INFO  02:29:47,801 - #22 [
+INFO  02:29:47,801 - #26 1
+INFO  02:29:47,801 - #23 ]
+INFO  02:29:47,801 - #15 =
+INFO  02:29:47,801 - #26 2
+INFO  02:29:47,801 - #18 ;
+INFO  02:29:47,801 - #27 niz
+INFO  02:29:47,801 - #22 [
+INFO  02:29:47,801 - #26 2
+INFO  02:29:47,801 - #23 ]
+INFO  02:29:47,801 - #15 =
+INFO  02:29:47,801 - #26 3
+INFO  02:29:47,801 - #18 ;
+INFO  02:29:47,801 - #5 print
+INFO  02:29:47,801 - #20 (
+INFO  02:29:47,802 - #27 niz
+INFO  02:29:47,802 - #22 [
+INFO  02:29:47,802 - #26 2
+INFO  02:29:47,802 - #23 ]
+INFO  02:29:47,802 - #21 )
+INFO  02:29:47,802 - #18 ;
+INFO  02:29:47,802 - #27 br
+INFO  02:29:47,802 - #15 =
+INFO  02:29:47,802 - #27 niz
+INFO  02:29:47,802 - #9 .
+INFO  02:29:47,803 - #8 findAny
+INFO  02:29:47,803 - #20 (
+INFO  02:29:47,803 - #26 3
+INFO  02:29:47,803 - #21 )
+INFO  02:29:47,803 - #18 ;
+INFO  02:29:47,803 - #25 }
+INFO  02:29:47,803 - #25 }
+INFO  02:29:47,808 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  02:29:47,808 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  02:29:47,808 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  02:29:47,808 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  02:29:47,809 - Obradjuje se funkcija main na liniji 11
+INFO  02:29:47,809 - Deklarisana lokalna promenljiva br tipa 5 na liniji 13
+INFO  02:29:47,809 -  na liniji : 18  se koristi promenljiva : niz
+INFO  02:29:47,809 -  na liniji : 19  se koristi promenljiva (niz) : niz
+INFO  02:29:47,809 -  na liniji : 20  se koristi promenljiva (niz) : niz
+INFO  02:29:47,809 -  na liniji : 21  se koristi promenljiva (niz) : niz
+INFO  02:29:47,809 -  na liniji : 23  se koristi promenljiva (niz) : niz
+INFO  02:29:47,809 -  na liniji : 24  se koristi promenljiva : br
+INFO  02:29:47,809 -  na liniji : 24  se koristi promenljiva : niz
+INFO  02:29:47,809 - Print calls = 1
+INFO  02:29:47,810 - Generating bytecode file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  02:29:47,813 - Parsiranje uspesno zavrseno!

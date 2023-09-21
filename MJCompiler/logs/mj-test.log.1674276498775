@@ -1,0 +1,56 @@
+INFO  05:46:33,738 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:46:33,765 - #2 program
+INFO  05:46:33,765 - #25 MJProgram
+INFO  05:46:33,765 - #25 int
+INFO  05:46:33,766 - #25 x
+INFO  05:46:33,766 - #16 ;
+INFO  05:46:33,767 - #25 int
+INFO  05:46:33,767 - #25 y
+INFO  05:46:33,767 - #16 ;
+INFO  05:46:33,767 - #22 {
+INFO  05:46:33,767 - #7 void
+INFO  05:46:33,768 - #25 main
+INFO  05:46:33,768 - #18 (
+INFO  05:46:33,768 - #19 )
+INFO  05:46:33,769 - #22 {
+INFO  05:46:33,769 - #25 x
+INFO  05:46:33,770 - #13 =
+INFO  05:46:33,770 - #24 3
+INFO  05:46:33,770 - #16 ;
+INFO  05:46:33,771 - #5 print
+INFO  05:46:33,771 - #18 (
+INFO  05:46:33,771 - #25 x
+INFO  05:46:33,771 - #19 )
+INFO  05:46:33,774 - #16 ;
+INFO  05:46:33,774 - #25 y
+INFO  05:46:33,774 - #13 =
+INFO  05:46:33,774 - #24 3
+INFO  05:46:33,774 - #9 -
+INFO  05:46:33,774 - #24 9
+INFO  05:46:33,775 - #8 +
+INFO  05:46:33,775 - #24 5
+INFO  05:46:33,776 - #8 +
+INFO  05:46:33,776 - #24 4
+INFO  05:46:33,776 - #8 +
+INFO  05:46:33,776 - #25 x
+INFO  05:46:33,776 - #10 *
+INFO  05:46:33,776 - #24 2
+INFO  05:46:33,777 - #16 ;
+INFO  05:46:33,777 - #5 print
+INFO  05:46:33,777 - #18 (
+INFO  05:46:33,777 - #25 y
+INFO  05:46:33,777 - #19 )
+INFO  05:46:33,777 - #16 ;
+INFO  05:46:33,777 - #23 }
+INFO  05:46:33,777 - #23 }
+INFO  05:46:33,784 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  05:46:33,784 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  05:46:33,785 - Obradjuje se funkcija main na liniji 6
+INFO  05:46:33,785 -  na liniji : 8  se koristi promenljiva : x
+INFO  05:46:33,785 -  na liniji : 9  se koristi promenljiva : x
+INFO  05:46:33,785 -  na liniji : 10  se koristi promenljiva : y
+INFO  05:46:33,785 -  na liniji : 10  se koristi promenljiva : x
+INFO  05:46:33,785 -  na liniji : 11  se koristi promenljiva : y
+INFO  05:46:33,785 - Print calls = 2
+INFO  05:46:33,786 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:46:33,788 - Parsiranje uspesno zavrseno!

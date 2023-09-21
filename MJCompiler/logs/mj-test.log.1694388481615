@@ -1,0 +1,310 @@
+INFO  01:27:47,961 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  01:27:47,982 - #2 program
+INFO  01:27:47,982 - #27 test301
+INFO  01:27:47,982 - #3 const
+INFO  01:27:47,983 - #27 int
+INFO  01:27:47,983 - #27 nula
+INFO  01:27:47,983 - #15 =
+INFO  01:27:47,983 - #26 0
+INFO  01:27:47,983 - #18 ;
+INFO  01:27:47,984 - #3 const
+INFO  01:27:47,985 - #27 int
+INFO  01:27:47,985 - #27 jedan
+INFO  01:27:47,985 - #15 =
+INFO  01:27:47,985 - #26 1
+INFO  01:27:47,985 - #18 ;
+INFO  01:27:47,985 - #3 const
+INFO  01:27:47,985 - #27 int
+INFO  01:27:47,985 - #27 pet
+INFO  01:27:47,985 - #15 =
+INFO  01:27:47,985 - #26 5
+INFO  01:27:47,985 - #18 ;
+INFO  01:27:47,985 - #27 int
+INFO  01:27:47,985 - #27 niz
+INFO  01:27:47,985 - #22 [
+INFO  01:27:47,985 - #23 ]
+INFO  01:27:47,985 - #19 ,
+INFO  01:27:47,986 - #27 niz2
+INFO  01:27:47,986 - #22 [
+INFO  01:27:47,986 - #23 ]
+INFO  01:27:47,986 - #19 ,
+INFO  01:27:47,986 - #27 a
+INFO  01:27:47,986 - #19 ,
+INFO  01:27:47,986 - #27 b
+INFO  01:27:47,986 - #18 ;
+INFO  01:27:47,986 - #27 char
+INFO  01:27:47,987 - #27 nizch
+INFO  01:27:47,987 - #22 [
+INFO  01:27:47,987 - #23 ]
+INFO  01:27:47,987 - #18 ;
+INFO  01:27:47,987 - #24 {
+INFO  01:27:47,987 - #7 void
+INFO  01:27:47,988 - #27 main
+INFO  01:27:47,988 - #20 (
+INFO  01:27:47,988 - #21 )
+INFO  01:27:47,988 - #27 int
+INFO  01:27:47,989 - #27 bodovi
+INFO  01:27:47,989 - #18 ;
+INFO  01:27:47,989 - #27 bool
+INFO  01:27:47,989 - #27 br
+INFO  01:27:47,989 - #18 ;
+INFO  01:27:47,989 - #24 {
+INFO  01:27:47,989 - #27 bodovi
+INFO  01:27:47,990 - #15 =
+INFO  01:27:47,990 - #26 0
+INFO  01:27:47,990 - #18 ;
+INFO  01:27:47,990 - #27 bodovi
+INFO  01:27:47,990 - #16 ++
+INFO  01:27:47,991 - #18 ;
+INFO  01:27:47,991 - #27 bodovi
+INFO  01:27:47,991 - #15 =
+INFO  01:27:47,991 - #27 bodovi
+INFO  01:27:47,991 - #10 +
+INFO  01:27:47,991 - #27 jedan
+INFO  01:27:47,992 - #18 ;
+INFO  01:27:47,992 - #27 bodovi
+INFO  01:27:47,992 - #15 =
+INFO  01:27:47,992 - #27 bodovi
+INFO  01:27:47,992 - #12 *
+INFO  01:27:47,992 - #27 pet
+INFO  01:27:47,993 - #18 ;
+INFO  01:27:47,993 - #27 bodovi
+INFO  01:27:47,993 - #17 --
+INFO  01:27:47,993 - #18 ;
+INFO  01:27:47,994 - #5 print
+INFO  01:27:47,994 - #20 (
+INFO  01:27:47,994 - #27 bodovi
+INFO  01:27:47,994 - #21 )
+INFO  01:27:47,994 - #18 ;
+INFO  01:27:47,994 - #27 niz
+INFO  01:27:47,994 - #15 =
+INFO  01:27:47,994 - #4 new
+INFO  01:27:47,994 - #27 int
+INFO  01:27:47,994 - #22 [
+INFO  01:27:47,994 - #26 3
+INFO  01:27:47,994 - #23 ]
+INFO  01:27:47,994 - #18 ;
+INFO  01:27:47,994 - #27 niz
+INFO  01:27:47,994 - #22 [
+INFO  01:27:47,995 - #27 nula
+INFO  01:27:47,995 - #23 ]
+INFO  01:27:47,995 - #15 =
+INFO  01:27:47,996 - #27 jedan
+INFO  01:27:47,996 - #18 ;
+INFO  01:27:47,996 - #27 niz
+INFO  01:27:47,996 - #22 [
+INFO  01:27:47,996 - #26 1
+INFO  01:27:47,996 - #23 ]
+INFO  01:27:47,996 - #15 =
+INFO  01:27:47,996 - #26 2
+INFO  01:27:47,996 - #18 ;
+INFO  01:27:47,996 - #27 niz
+INFO  01:27:47,996 - #22 [
+INFO  01:27:47,996 - #27 niz
+INFO  01:27:47,996 - #22 [
+INFO  01:27:47,996 - #27 jedan
+INFO  01:27:47,996 - #23 ]
+INFO  01:27:47,996 - #23 ]
+INFO  01:27:47,997 - #15 =
+INFO  01:27:47,997 - #27 niz
+INFO  01:27:47,997 - #22 [
+INFO  01:27:47,997 - #27 niz
+INFO  01:27:47,997 - #22 [
+INFO  01:27:47,997 - #26 0
+INFO  01:27:47,997 - #23 ]
+INFO  01:27:47,997 - #23 ]
+INFO  01:27:47,997 - #12 *
+INFO  01:27:47,997 - #26 3
+INFO  01:27:47,997 - #18 ;
+INFO  01:27:47,997 - #27 bodovi
+INFO  01:27:47,997 - #15 =
+INFO  01:27:47,997 - #27 niz
+INFO  01:27:47,997 - #22 [
+INFO  01:27:47,997 - #26 2
+INFO  01:27:47,997 - #23 ]
+INFO  01:27:47,997 - #13 /
+INFO  01:27:47,997 - #27 niz
+INFO  01:27:47,998 - #22 [
+INFO  01:27:47,998 - #26 0
+INFO  01:27:47,998 - #23 ]
+INFO  01:27:47,998 - #18 ;
+INFO  01:27:47,998 - #5 print
+INFO  01:27:47,998 - #20 (
+INFO  01:27:47,998 - #27 bodovi
+INFO  01:27:47,998 - #21 )
+INFO  01:27:47,998 - #18 ;
+INFO  01:27:47,998 - #5 print
+INFO  01:27:47,998 - #20 (
+INFO  01:27:47,998 - #27 niz
+INFO  01:27:47,999 - #22 [
+INFO  01:27:47,999 - #26 2
+INFO  01:27:47,999 - #23 ]
+INFO  01:27:47,999 - #21 )
+INFO  01:27:47,999 - #18 ;
+INFO  01:27:47,999 - #27 brr
+INFO  01:27:47,999 - #15 =
+INFO  01:27:47,999 - #27 niz
+INFO  01:27:47,999 - #9 .
+INFO  01:27:48,000 - #8 findAny
+INFO  01:27:48,000 - #20 (
+INFO  01:27:48,000 - #27 jedan
+INFO  01:27:48,000 - #10 +
+INFO  01:27:48,000 - #27 pet
+INFO  01:27:48,000 - #21 )
+INFO  01:27:48,000 - #18 ;
+INFO  01:27:48,000 - #5 print
+INFO  01:27:48,000 - #20 (
+INFO  01:27:48,000 - #27 br
+INFO  01:27:48,000 - #21 )
+INFO  01:27:48,000 - #18 ;
+INFO  01:27:48,000 - #27 nizch
+INFO  01:27:48,000 - #15 =
+INFO  01:27:48,000 - #4 new
+INFO  01:27:48,000 - #27 char
+INFO  01:27:48,000 - #22 [
+INFO  01:27:48,000 - #26 3
+INFO  01:27:48,000 - #23 ]
+INFO  01:27:48,000 - #18 ;
+INFO  01:27:48,000 - #27 nizch
+INFO  01:27:48,000 - #22 [
+INFO  01:27:48,001 - #26 0
+INFO  01:27:48,001 - #23 ]
+INFO  01:27:48,001 - #15 =
+INFO  01:27:48,001 - #28 a
+INFO  01:27:48,001 - #18 ;
+INFO  01:27:48,001 - #27 nizch
+INFO  01:27:48,001 - #22 [
+INFO  01:27:48,001 - #27 jedan
+INFO  01:27:48,001 - #23 ]
+INFO  01:27:48,001 - #15 =
+INFO  01:27:48,001 - #28 b
+INFO  01:27:48,001 - #18 ;
+INFO  01:27:48,001 - #27 nizch
+INFO  01:27:48,001 - #22 [
+INFO  01:27:48,001 - #27 pet
+INFO  01:27:48,001 - #11 -
+INFO  01:27:48,001 - #26 3
+INFO  01:27:48,002 - #23 ]
+INFO  01:27:48,002 - #15 =
+INFO  01:27:48,002 - #28 c
+INFO  01:27:48,002 - #18 ;
+INFO  01:27:48,002 - #5 print
+INFO  01:27:48,002 - #20 (
+INFO  01:27:48,002 - #27 nizch
+INFO  01:27:48,002 - #22 [
+INFO  01:27:48,002 - #26 1
+INFO  01:27:48,002 - #23 ]
+INFO  01:27:48,002 - #21 )
+INFO  01:27:48,003 - #18 ;
+INFO  01:27:48,003 - #5 print
+INFO  01:27:48,003 - #20 (
+INFO  01:27:48,003 - #27 nizch
+INFO  01:27:48,003 - #22 [
+INFO  01:27:48,003 - #27 jedan
+INFO  01:27:48,003 - #12 *
+INFO  01:27:48,003 - #26 2
+INFO  01:27:48,003 - #23 ]
+INFO  01:27:48,003 - #21 )
+INFO  01:27:48,003 - #18 ;
+INFO  01:27:48,003 - #6 read
+INFO  01:27:48,003 - #20 (
+INFO  01:27:48,003 - #27 bodovi
+INFO  01:27:48,003 - #21 )
+INFO  01:27:48,003 - #18 ;
+INFO  01:27:48,003 - #27 bodovi
+INFO  01:27:48,003 - #15 =
+INFO  01:27:48,003 - #11 -
+INFO  01:27:48,003 - #27 bodovi
+INFO  01:27:48,003 - #10 +
+INFO  01:27:48,003 - #20 (
+INFO  01:27:48,003 - #27 pet
+INFO  01:27:48,003 - #12 *
+INFO  01:27:48,003 - #27 a
+INFO  01:27:48,003 - #13 /
+INFO  01:27:48,003 - #26 2
+INFO  01:27:48,003 - #11 -
+INFO  01:27:48,003 - #27 jedan
+INFO  01:27:48,004 - #21 )
+INFO  01:27:48,004 - #12 *
+INFO  01:27:48,004 - #27 bodovi
+INFO  01:27:48,004 - #11 -
+INFO  01:27:48,004 - #20 (
+INFO  01:27:48,004 - #26 3
+INFO  01:27:48,004 - #14 %
+INFO  01:27:48,004 - #26 2
+INFO  01:27:48,004 - #10 +
+INFO  01:27:48,004 - #26 3
+INFO  01:27:48,004 - #12 *
+INFO  01:27:48,004 - #26 2
+INFO  01:27:48,005 - #11 -
+INFO  01:27:48,005 - #26 3
+INFO  01:27:48,005 - #21 )
+INFO  01:27:48,005 - #18 ;
+INFO  01:27:48,005 - #5 print
+INFO  01:27:48,005 - #20 (
+INFO  01:27:48,005 - #27 bodovi
+INFO  01:27:48,005 - #21 )
+INFO  01:27:48,005 - #18 ;
+INFO  01:27:48,005 - #25 }
+INFO  01:27:48,005 - #25 }
+INFO  01:27:48,011 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  01:27:48,011 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  01:27:48,011 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  01:27:48,011 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  01:27:48,011 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  01:27:48,011 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  01:27:48,011 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  01:27:48,011 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  01:27:48,011 - Obradjuje se funkcija main na liniji 13
+INFO  01:27:48,011 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  01:27:48,011 - Deklarisana lokalna promenljiva br tipa 5 na liniji 15
+INFO  01:27:48,011 -  na liniji : 17  se koristi promenljiva : bodovi
+INFO  01:27:48,011 -  na liniji : 18  se koristi promenljiva : bodovi
+INFO  01:27:48,011 -  na liniji : 19  se koristi promenljiva : bodovi
+INFO  01:27:48,011 -  na liniji : 19  se koristi promenljiva : bodovi
+INFO  01:27:48,011 -  na liniji : 19  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 20  se koristi promenljiva : pet
+INFO  01:27:48,012 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 22  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 25  se koristi promenljiva : niz
+INFO  01:27:48,012 -  na liniji : 26  se koristi promenljiva : nula
+INFO  01:27:48,012 -  na liniji : 26  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 26  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 27  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 28  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 29  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  01:27:48,012 -  na liniji : 30  se koristi promenljiva : bodovi
+INFO  01:27:48,012 -  na liniji : 31  se koristi promenljiva (niz) : niz
+ERROR 01:27:48,012 - Greska na liniji : 33  ime : brr nije deklarisanoo
+INFO  01:27:48,012 -  na liniji : 33  se koristi promenljiva : niz
+INFO  01:27:48,012 -  na liniji : 33  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 33  se koristi promenljiva : pet
+ERROR 01:27:48,012 - Greska na liniji : 33  findAny -> Deasignator sa leve strane  nije  bool
+INFO  01:27:48,012 -  na liniji : 34  se koristi promenljiva : br
+INFO  01:27:48,012 -  na liniji : 37  se koristi promenljiva : nizch
+INFO  01:27:48,012 -  na liniji : 38  se koristi promenljiva (niz) : nizch
+INFO  01:27:48,012 -  na liniji : 39  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 39  se koristi promenljiva (niz) : nizch
+INFO  01:27:48,012 -  na liniji : 40  se koristi promenljiva : pet
+INFO  01:27:48,012 -  na liniji : 40  se koristi promenljiva (niz) : nizch
+INFO  01:27:48,012 -  na liniji : 41  se koristi promenljiva (niz) : nizch
+INFO  01:27:48,012 -  na liniji : 42  se koristi promenljiva : jedan
+INFO  01:27:48,012 -  na liniji : 42  se koristi promenljiva (niz) : nizch
+INFO  01:27:48,013 -  na liniji : 45  se koristi promenljiva : bodovi
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : bodovi
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : bodovi
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : pet
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : a
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : jedan
+INFO  01:27:48,013 -  na liniji : 46  se koristi promenljiva : bodovi
+INFO  01:27:48,013 -  na liniji : 47  se koristi promenljiva : bodovi
+INFO  01:27:48,013 - Print calls = 7
+ERROR 01:27:48,013 - Parsiranje NIJE uspesno zavrseno!

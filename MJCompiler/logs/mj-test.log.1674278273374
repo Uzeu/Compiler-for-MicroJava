@@ -1,0 +1,106 @@
+INFO  06:11:10,108 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:11:10,135 - #2 program
+INFO  06:11:10,135 - #25 MJProgram
+INFO  06:11:10,135 - #25 int
+INFO  06:11:10,136 - #25 x
+INFO  06:11:10,136 - #16 ;
+INFO  06:11:10,137 - #25 int
+INFO  06:11:10,138 - #25 y
+INFO  06:11:10,138 - #17 ,
+INFO  06:11:10,138 - #25 z
+INFO  06:11:10,138 - #16 ;
+INFO  06:11:10,138 - #22 {
+INFO  06:11:10,138 - #7 void
+INFO  06:11:10,138 - #25 main
+INFO  06:11:10,139 - #18 (
+INFO  06:11:10,139 - #19 )
+INFO  06:11:10,140 - #22 {
+INFO  06:11:10,140 - #25 x
+INFO  06:11:10,140 - #13 =
+INFO  06:11:10,141 - #24 3
+INFO  06:11:10,141 - #16 ;
+INFO  06:11:10,141 - #5 print
+INFO  06:11:10,142 - #18 (
+INFO  06:11:10,144 - #25 x
+INFO  06:11:10,144 - #19 )
+INFO  06:11:10,144 - #16 ;
+INFO  06:11:10,144 - #25 y
+INFO  06:11:10,144 - #13 =
+INFO  06:11:10,144 - #24 2
+INFO  06:11:10,144 - #10 *
+INFO  06:11:10,144 - #24 4
+INFO  06:11:10,145 - #8 +
+INFO  06:11:10,145 - #24 3
+INFO  06:11:10,146 - #8 +
+INFO  06:11:10,146 - #24 2
+INFO  06:11:10,146 - #10 *
+INFO  06:11:10,146 - #24 2
+INFO  06:11:10,146 - #8 +
+INFO  06:11:10,147 - #24 3
+INFO  06:11:10,147 - #8 +
+INFO  06:11:10,147 - #24 4
+INFO  06:11:10,147 - #11 /
+INFO  06:11:10,147 - #24 2
+INFO  06:11:10,147 - #8 +
+INFO  06:11:10,147 - #24 7
+INFO  06:11:10,147 - #12 %
+INFO  06:11:10,147 - #24 2
+INFO  06:11:10,148 - #8 +
+INFO  06:11:10,148 - #25 x
+INFO  06:11:10,148 - #16 ;
+INFO  06:11:10,148 - #25 x
+INFO  06:11:10,148 - #13 =
+INFO  06:11:10,148 - #25 y
+INFO  06:11:10,148 - #10 *
+INFO  06:11:10,148 - #24 2
+INFO  06:11:10,148 - #16 ;
+INFO  06:11:10,148 - #25 z
+INFO  06:11:10,149 - #13 =
+INFO  06:11:10,149 - #18 (
+INFO  06:11:10,149 - #24 3
+INFO  06:11:10,149 - #8 +
+INFO  06:11:10,149 - #24 3
+INFO  06:11:10,149 - #10 *
+INFO  06:11:10,149 - #24 3
+INFO  06:11:10,149 - #19 )
+INFO  06:11:10,149 - #10 *
+INFO  06:11:10,149 - #18 (
+INFO  06:11:10,149 - #24 2
+INFO  06:11:10,149 - #8 +
+INFO  06:11:10,149 - #24 2
+INFO  06:11:10,149 - #19 )
+INFO  06:11:10,150 - #16 ;
+INFO  06:11:10,150 - #5 print
+INFO  06:11:10,150 - #18 (
+INFO  06:11:10,150 - #25 y
+INFO  06:11:10,150 - #19 )
+INFO  06:11:10,150 - #16 ;
+INFO  06:11:10,150 - #5 print
+INFO  06:11:10,150 - #18 (
+INFO  06:11:10,150 - #25 x
+INFO  06:11:10,150 - #19 )
+INFO  06:11:10,150 - #16 ;
+INFO  06:11:10,150 - #5 print
+INFO  06:11:10,150 - #18 (
+INFO  06:11:10,150 - #25 z
+INFO  06:11:10,150 - #19 )
+INFO  06:11:10,150 - #16 ;
+INFO  06:11:10,150 - #23 }
+INFO  06:11:10,150 - #23 }
+INFO  06:11:10,157 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  06:11:10,157 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  06:11:10,158 - Deklarisana globalna promenljiva z tipa 1 na liniji 2
+INFO  06:11:10,158 - Obradjuje se funkcija main na liniji 6
+INFO  06:11:10,158 -  na liniji : 8  se koristi promenljiva : x
+INFO  06:11:10,158 -  na liniji : 9  se koristi promenljiva : x
+INFO  06:11:10,158 -  na liniji : 10  se koristi promenljiva : y
+INFO  06:11:10,158 -  na liniji : 10  se koristi promenljiva : x
+INFO  06:11:10,158 -  na liniji : 11  se koristi promenljiva : x
+INFO  06:11:10,159 -  na liniji : 11  se koristi promenljiva : y
+INFO  06:11:10,159 -  na liniji : 12  se koristi promenljiva : z
+INFO  06:11:10,159 -  na liniji : 14  se koristi promenljiva : y
+INFO  06:11:10,159 -  na liniji : 15  se koristi promenljiva : x
+INFO  06:11:10,159 -  na liniji : 16  se koristi promenljiva : z
+INFO  06:11:10,159 - Print calls = 4
+INFO  06:11:10,159 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:11:10,162 - Parsiranje uspesno zavrseno!

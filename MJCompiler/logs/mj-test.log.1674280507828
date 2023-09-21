@@ -1,0 +1,52 @@
+INFO  06:54:45,317 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:54:45,345 - #2 program
+INFO  06:54:45,345 - #25 MJProgram
+INFO  06:54:45,345 - #25 int
+INFO  06:54:45,346 - #25 x
+INFO  06:54:45,347 - #16 ;
+INFO  06:54:45,347 - #25 int
+INFO  06:54:45,348 - #25 y
+INFO  06:54:45,348 - #17 ,
+INFO  06:54:45,348 - #25 z
+INFO  06:54:45,348 - #16 ;
+INFO  06:54:45,348 - #25 char
+INFO  06:54:45,349 - #25 a
+INFO  06:54:45,349 - #16 ;
+INFO  06:54:45,349 - #25 bool
+INFO  06:54:45,349 - #25 b
+INFO  06:54:45,349 - #16 ;
+INFO  06:54:45,349 - #22 {
+INFO  06:54:45,349 - #7 void
+INFO  06:54:45,350 - #25 main
+INFO  06:54:45,350 - #18 (
+INFO  06:54:45,350 - #19 )
+INFO  06:54:45,351 - #25 int
+INFO  06:54:45,353 - #25 q
+INFO  06:54:45,353 - #17 ,
+INFO  06:54:45,353 - #25 w
+INFO  06:54:45,353 - #16 ;
+INFO  06:54:45,353 - #22 {
+INFO  06:54:45,353 - #25 q
+INFO  06:54:45,354 - #13 =
+INFO  06:54:45,354 - #24 3
+INFO  06:54:45,354 - #16 ;
+INFO  06:54:45,355 - #5 print
+INFO  06:54:45,355 - #18 (
+INFO  06:54:45,355 - #25 q
+INFO  06:54:45,355 - #19 )
+INFO  06:54:45,356 - #16 ;
+INFO  06:54:45,356 - #23 }
+INFO  06:54:45,356 - #23 }
+INFO  06:54:45,363 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  06:54:45,363 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  06:54:45,363 - Deklarisana globalna promenljiva z tipa 1 na liniji 2
+INFO  06:54:45,363 - Deklarisana globalna promenljiva a tipa 2 na liniji 3
+INFO  06:54:45,363 - Deklarisana globalna promenljiva b tipa 5 na liniji 4
+INFO  06:54:45,363 - Obradjuje se funkcija main na liniji 8
+INFO  06:54:45,363 - Deklarisana lokalna promenljiva q tipa 1 na liniji 8
+INFO  06:54:45,363 - Deklarisana lokalna promenljiva w tipa 1 na liniji 8
+INFO  06:54:45,363 -  na liniji : 10  se koristi promenljiva : q
+INFO  06:54:45,364 -  na liniji : 13  se koristi promenljiva : q
+INFO  06:54:45,364 - Print calls = 1
+INFO  06:54:45,364 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:54:45,367 - Parsiranje uspesno zavrseno!

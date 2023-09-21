@@ -1,0 +1,45 @@
+INFO  06:22:54,089 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:22:54,116 - #2 program
+INFO  06:22:54,116 - #25 MJProgram
+INFO  06:22:54,116 - #25 int
+INFO  06:22:54,117 - #25 x
+INFO  06:22:54,117 - #16 ;
+INFO  06:22:54,118 - #25 int
+INFO  06:22:54,118 - #25 y
+INFO  06:22:54,119 - #17 ,
+INFO  06:22:54,119 - #25 z
+INFO  06:22:54,119 - #16 ;
+INFO  06:22:54,119 - #25 char
+INFO  06:22:54,119 - #25 a
+INFO  06:22:54,119 - #16 ;
+INFO  06:22:54,119 - #25 bool
+INFO  06:22:54,119 - #25 b
+INFO  06:22:54,119 - #16 ;
+INFO  06:22:54,119 - #22 {
+INFO  06:22:54,119 - #7 void
+INFO  06:22:54,120 - #25 main
+INFO  06:22:54,120 - #18 (
+INFO  06:22:54,120 - #19 )
+INFO  06:22:54,121 - #22 {
+INFO  06:22:54,123 - #25 a
+INFO  06:22:54,123 - #13 =
+INFO  06:22:54,124 - #26 b
+INFO  06:22:54,124 - #16 ;
+INFO  06:22:54,124 - #5 print
+INFO  06:22:54,125 - #18 (
+INFO  06:22:54,125 - #25 a
+INFO  06:22:54,125 - #19 )
+INFO  06:22:54,125 - #16 ;
+INFO  06:22:54,125 - #23 }
+INFO  06:22:54,125 - #23 }
+INFO  06:22:54,132 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  06:22:54,132 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  06:22:54,132 - Deklarisana globalna promenljiva z tipa 1 na liniji 2
+INFO  06:22:54,132 - Deklarisana globalna promenljiva a tipa 2 na liniji 3
+INFO  06:22:54,132 - Deklarisana globalna promenljiva b tipa 5 na liniji 4
+INFO  06:22:54,132 - Obradjuje se funkcija main na liniji 8
+INFO  06:22:54,132 -  na liniji : 11  se koristi promenljiva : a
+INFO  06:22:54,132 -  na liniji : 16  se koristi promenljiva : a
+INFO  06:22:54,132 - Print calls = 1
+INFO  06:22:54,133 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:22:54,135 - Parsiranje uspesno zavrseno!

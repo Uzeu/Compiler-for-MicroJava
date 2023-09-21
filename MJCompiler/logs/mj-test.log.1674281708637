@@ -1,0 +1,79 @@
+INFO  07:12:23,299 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  07:12:23,326 - #2 program
+INFO  07:12:23,326 - #25 MJProgram
+INFO  07:12:23,326 - #3 const
+INFO  07:12:23,327 - #25 int
+INFO  07:12:23,327 - #25 konstanta
+INFO  07:12:23,327 - #13 =
+INFO  07:12:23,327 - #24 5
+INFO  07:12:23,327 - #16 ;
+INFO  07:12:23,328 - #25 int
+INFO  07:12:23,329 - #25 x
+INFO  07:12:23,329 - #16 ;
+INFO  07:12:23,329 - #25 int
+INFO  07:12:23,330 - #25 y
+INFO  07:12:23,330 - #17 ,
+INFO  07:12:23,330 - #25 z
+INFO  07:12:23,330 - #16 ;
+INFO  07:12:23,330 - #25 char
+INFO  07:12:23,330 - #25 a
+INFO  07:12:23,330 - #16 ;
+INFO  07:12:23,330 - #25 bool
+INFO  07:12:23,331 - #25 b
+INFO  07:12:23,331 - #16 ;
+INFO  07:12:23,333 - #22 {
+INFO  07:12:23,333 - #7 void
+INFO  07:12:23,333 - #25 main
+INFO  07:12:23,333 - #18 (
+INFO  07:12:23,334 - #19 )
+INFO  07:12:23,334 - #25 int
+INFO  07:12:23,335 - #25 q
+INFO  07:12:23,335 - #17 ,
+INFO  07:12:23,335 - #25 w
+INFO  07:12:23,335 - #16 ;
+INFO  07:12:23,335 - #22 {
+INFO  07:12:23,335 - #25 q
+INFO  07:12:23,335 - #13 =
+INFO  07:12:23,335 - #24 3
+INFO  07:12:23,336 - #16 ;
+INFO  07:12:23,336 - #25 w
+INFO  07:12:23,336 - #13 =
+INFO  07:12:23,336 - #25 q
+INFO  07:12:23,337 - #10 *
+INFO  07:12:23,337 - #24 5
+INFO  07:12:23,337 - #16 ;
+INFO  07:12:23,338 - #5 print
+INFO  07:12:23,338 - #18 (
+INFO  07:12:23,338 - #25 konstanta
+INFO  07:12:23,338 - #19 )
+INFO  07:12:23,338 - #16 ;
+INFO  07:12:23,338 - #5 print
+INFO  07:12:23,338 - #18 (
+INFO  07:12:23,338 - #25 q
+INFO  07:12:23,338 - #19 )
+INFO  07:12:23,338 - #16 ;
+INFO  07:12:23,338 - #5 print
+INFO  07:12:23,338 - #18 (
+INFO  07:12:23,338 - #25 w
+INFO  07:12:23,338 - #19 )
+INFO  07:12:23,338 - #16 ;
+INFO  07:12:23,338 - #23 }
+INFO  07:12:23,339 - #23 }
+INFO  07:12:23,345 - Deklarisana konstanta konstanta tipa 1 na liniji 4
+INFO  07:12:23,345 - Deklarisana globalna promenljiva x tipa 1 na liniji 5
+INFO  07:12:23,345 - Deklarisana globalna promenljiva y tipa 1 na liniji 5
+INFO  07:12:23,346 - Deklarisana globalna promenljiva z tipa 1 na liniji 5
+INFO  07:12:23,346 - Deklarisana globalna promenljiva a tipa 2 na liniji 6
+INFO  07:12:23,346 - Deklarisana globalna promenljiva b tipa 5 na liniji 7
+INFO  07:12:23,346 - Obradjuje se funkcija main na liniji 12
+INFO  07:12:23,346 - Deklarisana lokalna promenljiva q tipa 1 na liniji 12
+INFO  07:12:23,346 - Deklarisana lokalna promenljiva w tipa 1 na liniji 12
+INFO  07:12:23,346 -  na liniji : 14  se koristi promenljiva : q
+INFO  07:12:23,346 -  na liniji : 15  se koristi promenljiva : w
+INFO  07:12:23,346 -  na liniji : 15  se koristi promenljiva : q
+INFO  07:12:23,346 -  na liniji : 16  se koristi promenljiva : konstanta
+INFO  07:12:23,346 -  na liniji : 17  se koristi promenljiva : q
+INFO  07:12:23,346 -  na liniji : 18  se koristi promenljiva : w
+INFO  07:12:23,346 - Print calls = 3
+INFO  07:12:23,347 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  07:12:23,350 - Parsiranje uspesno zavrseno!

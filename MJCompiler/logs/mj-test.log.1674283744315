@@ -1,0 +1,100 @@
+INFO  07:48:34,041 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  07:48:34,068 - #2 program
+INFO  07:48:34,068 - #25 MJProgram
+INFO  07:48:34,068 - #3 const
+INFO  07:48:34,069 - #25 int
+INFO  07:48:34,069 - #25 konstanta
+INFO  07:48:34,070 - #13 =
+INFO  07:48:34,070 - #24 5
+INFO  07:48:34,070 - #17 ,
+INFO  07:48:34,070 - #25 dvojak
+INFO  07:48:34,071 - #13 =
+INFO  07:48:34,071 - #24 4
+INFO  07:48:34,071 - #17 ,
+INFO  07:48:34,071 - #25 trojak
+INFO  07:48:34,072 - #13 =
+INFO  07:48:34,072 - #24 6
+INFO  07:48:34,072 - #16 ;
+INFO  07:48:34,072 - #25 int
+INFO  07:48:34,073 - #25 x
+INFO  07:48:34,073 - #16 ;
+INFO  07:48:34,073 - #25 int
+INFO  07:48:34,074 - #25 y
+INFO  07:48:34,074 - #17 ,
+INFO  07:48:34,074 - #25 z
+INFO  07:48:34,074 - #16 ;
+INFO  07:48:34,074 - #25 char
+INFO  07:48:34,075 - #25 a
+INFO  07:48:34,075 - #16 ;
+INFO  07:48:34,075 - #25 bool
+INFO  07:48:34,075 - #25 b
+INFO  07:48:34,075 - #16 ;
+INFO  07:48:34,075 - #22 {
+INFO  07:48:34,075 - #7 void
+INFO  07:48:34,075 - #25 main
+INFO  07:48:34,075 - #18 (
+INFO  07:48:34,076 - #19 )
+INFO  07:48:34,076 - #25 int
+INFO  07:48:34,077 - #25 q
+INFO  07:48:34,077 - #17 ,
+INFO  07:48:34,077 - #25 w
+INFO  07:48:34,077 - #16 ;
+INFO  07:48:34,077 - #22 {
+INFO  07:48:34,077 - #25 q
+INFO  07:48:34,078 - #13 =
+INFO  07:48:34,078 - #24 3
+INFO  07:48:34,078 - #16 ;
+INFO  07:48:34,079 - #25 w
+INFO  07:48:34,079 - #13 =
+INFO  07:48:34,079 - #25 q
+INFO  07:48:34,079 - #10 *
+INFO  07:48:34,079 - #24 5
+INFO  07:48:34,080 - #16 ;
+INFO  07:48:34,080 - #5 print
+INFO  07:48:34,080 - #18 (
+INFO  07:48:34,080 - #25 konstanta
+INFO  07:48:34,080 - #19 )
+INFO  07:48:34,080 - #16 ;
+INFO  07:48:34,080 - #5 print
+INFO  07:48:34,081 - #18 (
+INFO  07:48:34,081 - #25 q
+INFO  07:48:34,081 - #19 )
+INFO  07:48:34,081 - #16 ;
+INFO  07:48:34,081 - #5 print
+INFO  07:48:34,081 - #18 (
+INFO  07:48:34,081 - #25 w
+INFO  07:48:34,081 - #19 )
+INFO  07:48:34,081 - #16 ;
+INFO  07:48:34,081 - #25 x
+INFO  07:48:34,081 - #13 =
+INFO  07:48:34,081 - #24 3
+INFO  07:48:34,082 - #16 ;
+INFO  07:48:34,082 - #5 print
+INFO  07:48:34,082 - #18 (
+INFO  07:48:34,082 - #25 x
+INFO  07:48:34,082 - #19 )
+INFO  07:48:34,082 - #16 ;
+INFO  07:48:34,082 - #23 }
+INFO  07:48:34,082 - #23 }
+INFO  07:48:34,089 - Deklarisana konstanta dvojak tipa 1 na liniji 4
+INFO  07:48:34,089 - Deklarisana konstanta trojak tipa 1 na liniji 4
+INFO  07:48:34,090 - Deklarisana konstanta konstanta tipa 1 na liniji 4
+INFO  07:48:34,090 - Deklarisana globalna promenljiva x tipa 1 na liniji 5
+INFO  07:48:34,090 - Deklarisana globalna promenljiva y tipa 1 na liniji 5
+INFO  07:48:34,090 - Deklarisana globalna promenljiva z tipa 1 na liniji 5
+INFO  07:48:34,090 - Deklarisana globalna promenljiva a tipa 2 na liniji 6
+INFO  07:48:34,090 - Deklarisana globalna promenljiva b tipa 5 na liniji 7
+INFO  07:48:34,090 - Obradjuje se funkcija main na liniji 12
+INFO  07:48:34,090 - Deklarisana lokalna promenljiva q tipa 1 na liniji 12
+INFO  07:48:34,090 - Deklarisana lokalna promenljiva w tipa 1 na liniji 12
+INFO  07:48:34,090 -  na liniji : 14  se koristi promenljiva : q
+INFO  07:48:34,090 -  na liniji : 15  se koristi promenljiva : w
+INFO  07:48:34,091 -  na liniji : 15  se koristi promenljiva : q
+ERROR 07:48:34,091 - Greska na liniji : 16  ime : konstanta nije deklarisano
+ERROR 07:48:34,091 - Greska na liniji : 16  print (expr) -> expr nije int/char/bool
+INFO  07:48:34,091 -  na liniji : 17  se koristi promenljiva : q
+INFO  07:48:34,091 -  na liniji : 18  se koristi promenljiva : w
+INFO  07:48:34,091 -  na liniji : 19  se koristi promenljiva : x
+INFO  07:48:34,091 -  na liniji : 20  se koristi promenljiva : x
+INFO  07:48:34,091 - Print calls = 4
+ERROR 07:48:34,092 - Parsiranje NIJE uspesno zavrseno!

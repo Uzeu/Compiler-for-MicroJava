@@ -1,0 +1,73 @@
+INFO  05:23:07,542 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:23:07,562 - #2 program
+INFO  05:23:07,562 - #27 test301
+INFO  05:23:07,562 - #3 const
+INFO  05:23:07,563 - #27 int
+INFO  05:23:07,563 - #27 nula
+INFO  05:23:07,564 - #15 =
+INFO  05:23:07,564 - #26 0
+INFO  05:23:07,564 - #18 ;
+INFO  05:23:07,565 - #3 const
+INFO  05:23:07,565 - #27 int
+INFO  05:23:07,565 - #27 jedan
+INFO  05:23:07,565 - #15 =
+INFO  05:23:07,565 - #26 1
+INFO  05:23:07,565 - #18 ;
+INFO  05:23:07,565 - #3 const
+INFO  05:23:07,565 - #27 int
+INFO  05:23:07,565 - #27 pet
+INFO  05:23:07,566 - #15 =
+INFO  05:23:07,566 - #26 5
+INFO  05:23:07,566 - #18 ;
+INFO  05:23:07,566 - #27 int
+INFO  05:23:07,566 - #27 niz
+INFO  05:23:07,566 - #22 [
+INFO  05:23:07,566 - #23 ]
+INFO  05:23:07,566 - #19 ,
+INFO  05:23:07,567 - #27 niz2
+INFO  05:23:07,567 - #22 [
+INFO  05:23:07,567 - #23 ]
+INFO  05:23:07,567 - #19 ,
+INFO  05:23:07,567 - #27 a
+INFO  05:23:07,567 - #19 ,
+INFO  05:23:07,567 - #27 b
+INFO  05:23:07,567 - #18 ;
+INFO  05:23:07,567 - #27 char
+INFO  05:23:07,567 - #27 nizch
+INFO  05:23:07,567 - #22 [
+INFO  05:23:07,567 - #23 ]
+INFO  05:23:07,568 - #18 ;
+INFO  05:23:07,568 - #24 {
+INFO  05:23:07,568 - #7 void
+INFO  05:23:07,568 - #27 main
+INFO  05:23:07,568 - #20 (
+INFO  05:23:07,568 - #21 )
+INFO  05:23:07,569 - #27 int
+INFO  05:23:07,569 - #27 bodovi
+INFO  05:23:07,569 - #18 ;
+INFO  05:23:07,569 - #27 bool
+INFO  05:23:07,569 - #27 br
+INFO  05:23:07,569 - #18 ;
+INFO  05:23:07,569 - #24 {
+INFO  05:23:07,569 - #5 print
+INFO  05:23:07,570 - #20 (
+INFO  05:23:07,570 - #27 a
+INFO  05:23:07,570 - #21 )
+INFO  05:23:07,570 - #18 ;
+INFO  05:23:07,570 - #25 }
+INFO  05:23:07,570 - #25 }
+INFO  05:23:07,575 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  05:23:07,575 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  05:23:07,576 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  05:23:07,576 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  05:23:07,576 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  05:23:07,576 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  05:23:07,576 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  05:23:07,576 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  05:23:07,576 - Obradjuje se funkcija main na liniji 13
+INFO  05:23:07,576 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  05:23:07,576 - Deklarisana lokalna promenljiva br tipa 5 na liniji 15
+INFO  05:23:07,576 -  na liniji : 17  se koristi promenljiva : a
+INFO  05:23:07,576 - Print calls = 1
+INFO  05:23:07,577 - Generating bytecode file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:23:07,579 - Parsiranje uspesno zavrseno!

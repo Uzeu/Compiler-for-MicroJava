@@ -1,0 +1,63 @@
+INFO  06:00:44,047 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:00:44,074 - #2 program
+INFO  06:00:44,075 - #25 MJProgram
+INFO  06:00:44,075 - #25 int
+INFO  06:00:44,076 - #25 x
+INFO  06:00:44,076 - #16 ;
+INFO  06:00:44,077 - #25 int
+INFO  06:00:44,078 - #25 y
+INFO  06:00:44,078 - #16 ;
+INFO  06:00:44,078 - #22 {
+INFO  06:00:44,078 - #7 void
+INFO  06:00:44,078 - #25 main
+INFO  06:00:44,078 - #18 (
+INFO  06:00:44,079 - #19 )
+INFO  06:00:44,079 - #22 {
+INFO  06:00:44,080 - #25 x
+INFO  06:00:44,080 - #13 =
+INFO  06:00:44,080 - #24 3
+INFO  06:00:44,081 - #16 ;
+INFO  06:00:44,081 - #5 print
+INFO  06:00:44,081 - #18 (
+INFO  06:00:44,081 - #25 x
+INFO  06:00:44,082 - #19 )
+INFO  06:00:44,082 - #16 ;
+INFO  06:00:44,082 - #25 y
+INFO  06:00:44,082 - #13 =
+INFO  06:00:44,082 - #24 2
+INFO  06:00:44,082 - #10 *
+INFO  06:00:44,082 - #24 4
+INFO  06:00:44,083 - #8 +
+INFO  06:00:44,083 - #24 3
+INFO  06:00:44,084 - #8 +
+INFO  06:00:44,084 - #24 2
+INFO  06:00:44,084 - #10 *
+INFO  06:00:44,084 - #24 2
+INFO  06:00:44,084 - #8 +
+INFO  06:00:44,084 - #24 3
+INFO  06:00:44,085 - #8 +
+INFO  06:00:44,085 - #24 4
+INFO  06:00:44,085 - #11 /
+INFO  06:00:44,085 - #24 2
+INFO  06:00:44,085 - #8 +
+INFO  06:00:44,085 - #24 7
+INFO  06:00:44,085 - #12 %
+INFO  06:00:44,086 - #24 2
+INFO  06:00:44,086 - #16 ;
+INFO  06:00:44,086 - #5 print
+INFO  06:00:44,086 - #18 (
+INFO  06:00:44,086 - #25 y
+INFO  06:00:44,086 - #19 )
+INFO  06:00:44,086 - #16 ;
+INFO  06:00:44,087 - #23 }
+INFO  06:00:44,087 - #23 }
+INFO  06:00:44,093 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  06:00:44,093 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  06:00:44,093 - Obradjuje se funkcija main na liniji 6
+INFO  06:00:44,093 -  na liniji : 8  se koristi promenljiva : x
+INFO  06:00:44,094 -  na liniji : 9  se koristi promenljiva : x
+INFO  06:00:44,094 -  na liniji : 10  se koristi promenljiva : y
+INFO  06:00:44,094 -  na liniji : 11  se koristi promenljiva : y
+INFO  06:00:44,094 - Print calls = 2
+INFO  06:00:44,094 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:00:44,097 - Parsiranje uspesno zavrseno!

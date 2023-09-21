@@ -1,0 +1,69 @@
+INFO  23:46:14,066 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  23:46:14,093 - #2 program
+INFO  23:46:14,093 - #25 test301
+INFO  23:46:14,093 - #3 const
+INFO  23:46:14,094 - #25 int
+INFO  23:46:14,094 - #25 nula
+INFO  23:46:14,094 - #13 =
+INFO  23:46:14,094 - #24 0
+INFO  23:46:14,094 - #16 ;
+INFO  23:46:14,095 - #3 const
+INFO  23:46:14,096 - #25 int
+INFO  23:46:14,096 - #25 jedan
+INFO  23:46:14,096 - #13 =
+INFO  23:46:14,096 - #24 1
+INFO  23:46:14,096 - #16 ;
+INFO  23:46:14,096 - #3 const
+INFO  23:46:14,096 - #25 int
+INFO  23:46:14,096 - #25 pet
+INFO  23:46:14,096 - #13 =
+INFO  23:46:14,097 - #24 5
+INFO  23:46:14,097 - #16 ;
+INFO  23:46:14,097 - #25 char
+INFO  23:46:14,097 - #25 nizch
+INFO  23:46:14,099 - #20 [
+INFO  23:46:14,099 - #21 ]
+INFO  23:46:14,099 - #16 ;
+INFO  23:46:14,099 - #22 {
+INFO  23:46:14,100 - #7 void
+INFO  23:46:14,100 - #25 main
+INFO  23:46:14,100 - #18 (
+INFO  23:46:14,101 - #19 )
+INFO  23:46:14,101 - #25 int
+INFO  23:46:14,101 - #25 bodovi
+INFO  23:46:14,102 - #16 ;
+INFO  23:46:14,102 - #25 bool
+INFO  23:46:14,102 - #25 bt
+INFO  23:46:14,102 - #16 ;
+INFO  23:46:14,102 - #22 {
+INFO  23:46:14,102 - #25 niz
+INFO  23:46:14,102 - #13 =
+INFO  23:46:14,103 - #4 new
+INFO  23:46:14,103 - #25 int
+INFO  23:46:14,103 - #20 [
+INFO  23:46:14,103 - #24 10
+INFO  23:46:14,103 - #21 ]
+INFO  23:46:14,103 - #16 ;
+INFO  23:46:14,104 - #25 niz2
+INFO  23:46:14,104 - #13 =
+INFO  23:46:14,104 - #4 new
+INFO  23:46:14,104 - #25 int
+INFO  23:46:14,104 - #20 [
+INFO  23:46:14,104 - #24 10
+INFO  23:46:14,104 - #21 ]
+INFO  23:46:14,104 - #16 ;
+INFO  23:46:14,104 - #23 }
+INFO  23:46:14,104 - #23 }
+INFO  23:46:14,111 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  23:46:14,111 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  23:46:14,111 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  23:46:14,111 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  23:46:14,111 - Obradjuje se funkcija main na liniji 13
+INFO  23:46:14,111 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  23:46:14,111 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+ERROR 23:46:14,111 - Greska na liniji : 33  ime : niz nije deklarisano
+ERROR 23:46:14,112 - Greska na liniji : 33  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 23:46:14,112 - Greska na liniji : 34  ime : niz2 nije deklarisano
+ERROR 23:46:14,112 - Greska na liniji : 34  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  23:46:14,112 - Print calls = 0
+ERROR 23:46:14,112 - Parsiranje NIJE uspesno zavrseno!

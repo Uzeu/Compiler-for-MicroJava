@@ -1,0 +1,38 @@
+INFO  04:55:32,310 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  04:55:32,336 - #2 program
+INFO  04:55:32,336 - #25 MJProgram
+INFO  04:55:32,337 - #25 int
+INFO  04:55:32,338 - #25 MarkoMisic
+INFO  04:55:32,338 - #20 [
+INFO  04:55:32,338 - #21 ]
+INFO  04:55:32,338 - #16 ;
+INFO  04:55:32,339 - #22 {
+INFO  04:55:32,339 - #7 void
+INFO  04:55:32,340 - #25 main
+INFO  04:55:32,340 - #18 (
+INFO  04:55:32,340 - #19 )
+INFO  04:55:32,341 - #22 {
+INFO  04:55:32,341 - #25 MarkoMisic
+INFO  04:55:32,342 - #13 =
+INFO  04:55:32,342 - #4 new
+INFO  04:55:32,342 - #25 int
+INFO  04:55:32,342 - #20 [
+INFO  04:55:32,342 - #24 10
+INFO  04:55:32,342 - #21 ]
+INFO  04:55:32,343 - #16 ;
+INFO  04:55:32,343 - #25 MarkoMisic
+INFO  04:55:32,345 - #20 [
+INFO  04:55:32,345 - #24 5
+INFO  04:55:32,345 - #21 ]
+INFO  04:55:32,345 - #13 =
+INFO  04:55:32,345 - #24 3
+INFO  04:55:32,345 - #16 ;
+INFO  04:55:32,346 - #23 }
+INFO  04:55:32,346 - #23 }
+INFO  04:55:32,353 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  04:55:32,353 - Obradjuje se funkcija main na liniji 10
+INFO  04:55:32,353 -  na liniji : 14  se koristi promenljiva : MarkoMisic
+INFO  04:55:32,353 -  na liniji : 15  se koristi promenljiva (niz) : MarkoMisic
+INFO  04:55:32,353 - Print calls = 0
+INFO  04:55:32,353 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  04:55:32,356 - Parsiranje uspesno zavrseno!

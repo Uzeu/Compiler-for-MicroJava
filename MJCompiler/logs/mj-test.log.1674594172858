@@ -1,0 +1,86 @@
+INFO  22:02:42,433 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  22:02:42,460 - #2 program
+INFO  22:02:42,460 - #25 test301
+INFO  22:02:42,460 - #3 const
+INFO  22:02:42,461 - #25 int
+INFO  22:02:42,461 - #25 nula
+INFO  22:02:42,462 - #13 =
+INFO  22:02:42,462 - #24 0
+INFO  22:02:42,462 - #16 ;
+INFO  22:02:42,463 - #3 const
+INFO  22:02:42,463 - #25 int
+INFO  22:02:42,464 - #25 jedan
+INFO  22:02:42,464 - #13 =
+INFO  22:02:42,464 - #24 1
+INFO  22:02:42,464 - #16 ;
+INFO  22:02:42,464 - #3 const
+INFO  22:02:42,464 - #25 int
+INFO  22:02:42,464 - #25 pet
+INFO  22:02:42,464 - #13 =
+INFO  22:02:42,464 - #24 5
+INFO  22:02:42,464 - #16 ;
+INFO  22:02:42,464 - #25 int
+INFO  22:02:42,464 - #25 niz
+INFO  22:02:42,467 - #20 [
+INFO  22:02:42,467 - #21 ]
+INFO  22:02:42,467 - #17 ,
+INFO  22:02:42,467 - #25 niz2
+INFO  22:02:42,467 - #20 [
+INFO  22:02:42,467 - #21 ]
+INFO  22:02:42,468 - #17 ,
+INFO  22:02:42,468 - #25 a
+INFO  22:02:42,468 - #17 ,
+INFO  22:02:42,468 - #25 b
+INFO  22:02:42,468 - #16 ;
+INFO  22:02:42,468 - #25 char
+INFO  22:02:42,469 - #25 nizch
+INFO  22:02:42,469 - #20 [
+INFO  22:02:42,469 - #21 ]
+INFO  22:02:42,469 - #16 ;
+INFO  22:02:42,469 - #22 {
+INFO  22:02:42,469 - #7 void
+INFO  22:02:42,469 - #25 main
+INFO  22:02:42,469 - #18 (
+INFO  22:02:42,470 - #19 )
+INFO  22:02:42,470 - #25 int
+INFO  22:02:42,471 - #25 bodovi
+INFO  22:02:42,471 - #16 ;
+INFO  22:02:42,471 - #25 bool
+INFO  22:02:42,471 - #25 bt
+INFO  22:02:42,471 - #16 ;
+INFO  22:02:42,471 - #22 {
+INFO  22:02:42,471 - #25 niz
+INFO  22:02:42,472 - #13 =
+INFO  22:02:42,472 - #4 new
+INFO  22:02:42,472 - #25 int
+INFO  22:02:42,472 - #20 [
+INFO  22:02:42,472 - #24 3
+INFO  22:02:42,472 - #21 ]
+INFO  22:02:42,473 - #16 ;
+INFO  22:02:42,473 - #25 niz
+INFO  22:02:42,473 - #20 [
+INFO  22:02:42,474 - #25 nula
+INFO  22:02:42,474 - #21 ]
+INFO  22:02:42,474 - #13 =
+INFO  22:02:42,474 - #25 jedan
+INFO  22:02:42,474 - #16 ;
+INFO  22:02:42,475 - #23 }
+INFO  22:02:42,475 - #23 }
+INFO  22:02:42,481 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  22:02:42,481 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  22:02:42,481 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  22:02:42,482 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  22:02:42,482 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  22:02:42,482 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  22:02:42,482 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  22:02:42,482 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  22:02:42,482 - Obradjuje se funkcija main na liniji 13
+INFO  22:02:42,482 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  22:02:42,482 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  22:02:42,482 -  na liniji : 26  se koristi promenljiva : niz
+INFO  22:02:42,482 -  na liniji : 27  se koristi promenljiva : nula
+INFO  22:02:42,482 -  na liniji : 27  se koristi promenljiva (niz) : niz
+INFO  22:02:42,482 -  na liniji : 27  se koristi promenljiva : jedan
+INFO  22:02:42,482 - Print calls = 0
+INFO  22:02:42,483 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  22:02:42,486 - Parsiranje uspesno zavrseno!

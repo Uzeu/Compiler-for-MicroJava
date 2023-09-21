@@ -1,0 +1,117 @@
+INFO  20:49:16,676 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  20:49:16,696 - #2 program
+INFO  20:49:16,696 - #27 test301
+INFO  20:49:16,696 - #3 const
+INFO  20:49:16,697 - #27 int
+INFO  20:49:16,697 - #27 nula
+INFO  20:49:16,698 - #15 =
+INFO  20:49:16,698 - #26 0
+INFO  20:49:16,698 - #18 ;
+INFO  20:49:16,699 - #3 const
+INFO  20:49:16,699 - #27 int
+INFO  20:49:16,699 - #27 jedan
+INFO  20:49:16,699 - #15 =
+INFO  20:49:16,699 - #26 1
+INFO  20:49:16,699 - #18 ;
+INFO  20:49:16,700 - #3 const
+INFO  20:49:16,700 - #27 int
+INFO  20:49:16,700 - #27 pet
+INFO  20:49:16,700 - #15 =
+INFO  20:49:16,700 - #26 5
+INFO  20:49:16,700 - #18 ;
+INFO  20:49:16,702 - #27 int
+INFO  20:49:16,702 - #27 niz
+INFO  20:49:16,702 - #22 [
+INFO  20:49:16,702 - #23 ]
+INFO  20:49:16,702 - #19 ,
+INFO  20:49:16,703 - #27 niz2
+INFO  20:49:16,703 - #22 [
+INFO  20:49:16,703 - #23 ]
+INFO  20:49:16,703 - #19 ,
+INFO  20:49:16,703 - #27 a
+INFO  20:49:16,703 - #19 ,
+INFO  20:49:16,703 - #27 b
+INFO  20:49:16,703 - #18 ;
+INFO  20:49:16,703 - #27 char
+INFO  20:49:16,704 - #27 nizch
+INFO  20:49:16,704 - #22 [
+INFO  20:49:16,704 - #23 ]
+INFO  20:49:16,704 - #18 ;
+INFO  20:49:16,704 - #24 {
+INFO  20:49:16,705 - #7 void
+INFO  20:49:16,705 - #27 main
+INFO  20:49:16,705 - #20 (
+INFO  20:49:16,706 - #21 )
+INFO  20:49:16,706 - #27 int
+INFO  20:49:16,707 - #27 bodovi
+INFO  20:49:16,707 - #18 ;
+INFO  20:49:16,707 - #27 bool
+INFO  20:49:16,707 - #27 br
+INFO  20:49:16,707 - #18 ;
+INFO  20:49:16,707 - #24 {
+INFO  20:49:16,707 - #27 nizch
+INFO  20:49:16,708 - #15 =
+INFO  20:49:16,708 - #4 new
+INFO  20:49:16,708 - #27 char
+INFO  20:49:16,708 - #22 [
+INFO  20:49:16,709 - #26 3
+INFO  20:49:16,709 - #23 ]
+INFO  20:49:16,709 - #18 ;
+INFO  20:49:16,709 - #27 nizch
+INFO  20:49:16,709 - #22 [
+INFO  20:49:16,710 - #26 0
+INFO  20:49:16,710 - #23 ]
+INFO  20:49:16,710 - #15 =
+INFO  20:49:16,711 - #28 a
+INFO  20:49:16,711 - #18 ;
+INFO  20:49:16,711 - #27 nizch
+INFO  20:49:16,711 - #22 [
+INFO  20:49:16,711 - #26 1
+INFO  20:49:16,711 - #23 ]
+INFO  20:49:16,711 - #15 =
+INFO  20:49:16,711 - #28 b
+INFO  20:49:16,711 - #18 ;
+INFO  20:49:16,711 - #27 nizch
+INFO  20:49:16,711 - #22 [
+INFO  20:49:16,711 - #26 2
+INFO  20:49:16,711 - #23 ]
+INFO  20:49:16,711 - #15 =
+INFO  20:49:16,711 - #28 c
+INFO  20:49:16,711 - #18 ;
+INFO  20:49:16,712 - #27 br
+INFO  20:49:16,712 - #15 =
+INFO  20:49:16,712 - #27 nizch
+INFO  20:49:16,712 - #9 .
+INFO  20:49:16,712 - #8 findAny
+INFO  20:49:16,712 - #20 (
+INFO  20:49:16,712 - #28 a
+INFO  20:49:16,713 - #21 )
+INFO  20:49:16,713 - #18 ;
+INFO  20:49:16,713 - #5 print
+INFO  20:49:16,713 - #20 (
+INFO  20:49:16,713 - #27 br
+INFO  20:49:16,713 - #21 )
+INFO  20:49:16,714 - #18 ;
+INFO  20:49:16,714 - #25 }
+INFO  20:49:16,714 - #25 }
+INFO  20:49:16,720 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  20:49:16,720 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  20:49:16,720 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  20:49:16,720 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  20:49:16,720 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  20:49:16,720 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  20:49:16,720 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  20:49:16,720 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  20:49:16,720 - Obradjuje se funkcija main na liniji 13
+INFO  20:49:16,720 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  20:49:16,720 - Deklarisana lokalna promenljiva br tipa 5 na liniji 15
+INFO  20:49:16,720 -  na liniji : 19  se koristi promenljiva : nizch
+INFO  20:49:16,721 -  na liniji : 20  se koristi promenljiva (niz) : nizch
+INFO  20:49:16,721 -  na liniji : 21  se koristi promenljiva (niz) : nizch
+INFO  20:49:16,721 -  na liniji : 22  se koristi promenljiva (niz) : nizch
+INFO  20:49:16,721 -  na liniji : 24  se koristi promenljiva : br
+INFO  20:49:16,721 -  na liniji : 24  se koristi promenljiva : nizch
+INFO  20:49:16,721 -  na liniji : 25  se koristi promenljiva : br
+INFO  20:49:16,721 - Print calls = 1
+INFO  20:49:16,721 - Generating bytecode file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  20:49:16,724 - Parsiranje uspesno zavrseno!

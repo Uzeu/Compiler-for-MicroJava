@@ -1,0 +1,91 @@
+INFO  06:17:40,668 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:17:40,696 - #2 program
+INFO  06:17:40,696 - #25 test301
+INFO  06:17:40,696 - #3 const
+INFO  06:17:40,697 - #25 int
+INFO  06:17:40,697 - #25 nula
+INFO  06:17:40,697 - #13 =
+INFO  06:17:40,697 - #24 0
+INFO  06:17:40,697 - #16 ;
+INFO  06:17:40,698 - #3 const
+INFO  06:17:40,699 - #25 int
+INFO  06:17:40,699 - #25 jedan
+INFO  06:17:40,699 - #13 =
+INFO  06:17:40,699 - #24 1
+INFO  06:17:40,699 - #16 ;
+INFO  06:17:40,699 - #3 const
+INFO  06:17:40,699 - #25 int
+INFO  06:17:40,700 - #25 pet
+INFO  06:17:40,700 - #13 =
+INFO  06:17:40,700 - #24 5
+INFO  06:17:40,700 - #16 ;
+INFO  06:17:40,700 - #25 int
+INFO  06:17:40,700 - #25 niz
+INFO  06:17:40,702 - #20 [
+INFO  06:17:40,702 - #21 ]
+INFO  06:17:40,702 - #17 ,
+INFO  06:17:40,702 - #25 niz2
+INFO  06:17:40,702 - #20 [
+INFO  06:17:40,703 - #21 ]
+INFO  06:17:40,703 - #17 ,
+INFO  06:17:40,703 - #25 a
+INFO  06:17:40,703 - #17 ,
+INFO  06:17:40,703 - #25 b
+INFO  06:17:40,703 - #16 ;
+INFO  06:17:40,703 - #25 char
+INFO  06:17:40,704 - #25 nizch
+INFO  06:17:40,704 - #20 [
+INFO  06:17:40,704 - #21 ]
+INFO  06:17:40,704 - #16 ;
+INFO  06:17:40,704 - #22 {
+INFO  06:17:40,704 - #7 void
+INFO  06:17:40,704 - #25 main
+INFO  06:17:40,704 - #18 (
+INFO  06:17:40,705 - #19 )
+INFO  06:17:40,705 - #25 int
+INFO  06:17:40,706 - #25 niz
+INFO  06:17:40,706 - #20 [
+INFO  06:17:40,706 - #21 ]
+INFO  06:17:40,706 - #16 ;
+INFO  06:17:40,706 - #22 {
+INFO  06:17:40,706 - #25 niz
+INFO  06:17:40,706 - #13 =
+INFO  06:17:40,707 - #4 new
+INFO  06:17:40,707 - #25 int
+INFO  06:17:40,707 - #20 [
+INFO  06:17:40,707 - #24 10
+INFO  06:17:40,707 - #21 ]
+INFO  06:17:40,707 - #16 ;
+INFO  06:17:40,708 - #25 niz
+INFO  06:17:40,708 - #20 [
+INFO  06:17:40,709 - #24 2
+INFO  06:17:40,709 - #21 ]
+INFO  06:17:40,709 - #13 =
+INFO  06:17:40,709 - #24 3
+INFO  06:17:40,709 - #16 ;
+INFO  06:17:40,710 - #5 print
+INFO  06:17:40,710 - #18 (
+INFO  06:17:40,710 - #25 niz
+INFO  06:17:40,710 - #20 [
+INFO  06:17:40,710 - #24 2
+INFO  06:17:40,710 - #21 ]
+INFO  06:17:40,710 - #19 )
+INFO  06:17:40,710 - #16 ;
+INFO  06:17:40,710 - #23 }
+INFO  06:17:40,710 - #23 }
+INFO  06:17:40,717 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  06:17:40,717 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  06:17:40,717 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  06:17:40,717 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  06:17:40,717 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  06:17:40,717 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  06:17:40,717 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  06:17:40,717 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  06:17:40,717 - Obradjuje se funkcija main na liniji 13
+INFO  06:17:40,717 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 15
+INFO  06:17:40,717 -  na liniji : 22  se koristi promenljiva : niz
+INFO  06:17:40,718 -  na liniji : 23  se koristi promenljiva (niz) : niz
+INFO  06:17:40,718 -  na liniji : 24  se koristi promenljiva (niz) : niz
+INFO  06:17:40,718 - Print calls = 1
+INFO  06:17:40,718 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:17:40,721 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,58 @@
+INFO  05:35:49,231 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:35:49,258 - #2 program
+INFO  05:35:49,258 - #25 MJProgram
+INFO  05:35:49,258 - #3 const
+INFO  05:35:49,259 - #25 int
+INFO  05:35:49,259 - #25 a
+INFO  05:35:49,259 - #13 =
+INFO  05:35:49,260 - #24 25
+INFO  05:35:49,260 - #16 ;
+INFO  05:35:49,261 - #25 int
+INFO  05:35:49,261 - #25 MarkoMisic
+INFO  05:35:49,261 - #20 [
+INFO  05:35:49,261 - #21 ]
+INFO  05:35:49,261 - #16 ;
+INFO  05:35:49,262 - #25 bool
+INFO  05:35:49,263 - #25 i
+INFO  05:35:49,263 - #16 ;
+INFO  05:35:49,263 - #22 {
+INFO  05:35:49,263 - #7 void
+INFO  05:35:49,263 - #25 main
+INFO  05:35:49,263 - #18 (
+INFO  05:35:49,264 - #19 )
+INFO  05:35:49,264 - #22 {
+INFO  05:35:49,266 - #5 print
+INFO  05:35:49,267 - #18 (
+INFO  05:35:49,267 - #25 a
+INFO  05:35:49,267 - #19 )
+INFO  05:35:49,267 - #16 ;
+INFO  05:35:49,267 - #25 MarkoMisic
+INFO  05:35:49,267 - #13 =
+INFO  05:35:49,267 - #4 new
+INFO  05:35:49,268 - #25 int
+INFO  05:35:49,268 - #20 [
+INFO  05:35:49,268 - #24 10
+INFO  05:35:49,268 - #21 ]
+INFO  05:35:49,268 - #16 ;
+INFO  05:35:49,268 - #25 MarkoMisic
+INFO  05:35:49,268 - #20 [
+INFO  05:35:49,268 - #24 5
+INFO  05:35:49,268 - #21 ]
+INFO  05:35:49,268 - #8 +
+ERROR 05:35:49,269 - 
+Sintaksna greska na liniji 16
+INFO  05:35:49,269 - #24 3
+INFO  05:35:49,269 - #13 =
+INFO  05:35:49,269 - #24 5
+INFO  05:35:49,269 - #16 ;
+INFO  05:35:49,269 - #23 }
+INFO  05:35:49,270 - #23 }
+ERROR 05:35:49,270 - Izvrsen oporavak do ; u liniji 13
+INFO  05:35:49,277 - Deklarisana konstanta a tipa 1 na liniji 4
+INFO  05:35:49,277 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:35:49,277 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:35:49,277 - Obradjuje se funkcija main na liniji 11
+INFO  05:35:49,277 -  na liniji : 14  se koristi promenljiva : a
+INFO  05:35:49,277 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:35:49,277 - Print calls = 1
+ERROR 05:35:49,278 - Parsiranje NIJE uspesno zavrseno!

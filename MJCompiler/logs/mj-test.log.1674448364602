@@ -1,0 +1,47 @@
+INFO  05:30:24,915 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:30:24,943 - #2 program
+INFO  05:30:24,943 - #25 MJProgram
+INFO  05:30:24,943 - #3 const
+INFO  05:30:24,944 - #25 int
+INFO  05:30:24,944 - #25 a
+INFO  05:30:24,944 - #13 =
+INFO  05:30:24,944 - #24 25
+INFO  05:30:24,944 - #16 ;
+INFO  05:30:24,945 - #25 int
+INFO  05:30:24,946 - #25 MarkoMisic
+INFO  05:30:24,946 - #20 [
+INFO  05:30:24,946 - #21 ]
+INFO  05:30:24,946 - #16 ;
+INFO  05:30:24,947 - #25 bool
+INFO  05:30:24,947 - #25 i
+INFO  05:30:24,947 - #16 ;
+INFO  05:30:24,948 - #22 {
+INFO  05:30:24,948 - #7 void
+INFO  05:30:24,948 - #25 main
+INFO  05:30:24,948 - #18 (
+INFO  05:30:24,949 - #19 )
+INFO  05:30:24,949 - #22 {
+INFO  05:30:24,952 - #5 print
+INFO  05:30:24,952 - #18 (
+INFO  05:30:24,953 - #25 a
+INFO  05:30:24,953 - #19 )
+INFO  05:30:24,953 - #16 ;
+INFO  05:30:24,953 - #25 MarkoMisic
+INFO  05:30:24,953 - #13 =
+INFO  05:30:24,953 - #4 new
+INFO  05:30:24,954 - #25 int
+INFO  05:30:24,954 - #20 [
+INFO  05:30:24,954 - #24 10
+INFO  05:30:24,954 - #21 ]
+INFO  05:30:24,954 - #16 ;
+INFO  05:30:24,954 - #23 }
+INFO  05:30:24,954 - #23 }
+INFO  05:30:24,961 - Deklarisana konstanta a tipa 1 na liniji 4
+INFO  05:30:24,961 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:30:24,961 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:30:24,961 - Obradjuje se funkcija main na liniji 11
+INFO  05:30:24,961 -  na liniji : 14  se koristi promenljiva : a
+INFO  05:30:24,961 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:30:24,961 - Print calls = 1
+INFO  05:30:24,961 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  05:30:24,965 - Parsiranje uspesno zavrseno!

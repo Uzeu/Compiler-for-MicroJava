@@ -1,0 +1,173 @@
+INFO  09:20:53,331 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  09:20:53,358 - #2 program
+INFO  09:20:53,359 - #25 test301
+INFO  09:20:53,359 - #3 const
+INFO  09:20:53,359 - #25 int
+INFO  09:20:53,359 - #25 nula
+INFO  09:20:53,360 - #13 =
+INFO  09:20:53,360 - #24 0
+INFO  09:20:53,360 - #16 ;
+INFO  09:20:53,361 - #3 const
+INFO  09:20:53,362 - #25 int
+INFO  09:20:53,362 - #25 jedan
+INFO  09:20:53,362 - #13 =
+INFO  09:20:53,362 - #24 1
+INFO  09:20:53,362 - #16 ;
+INFO  09:20:53,362 - #3 const
+INFO  09:20:53,362 - #25 int
+INFO  09:20:53,362 - #25 pet
+INFO  09:20:53,362 - #13 =
+INFO  09:20:53,362 - #24 5
+INFO  09:20:53,362 - #16 ;
+INFO  09:20:53,362 - #25 int
+INFO  09:20:53,363 - #25 niz
+INFO  09:20:53,365 - #20 [
+INFO  09:20:53,365 - #21 ]
+INFO  09:20:53,365 - #17 ,
+INFO  09:20:53,365 - #25 niz2
+INFO  09:20:53,365 - #20 [
+INFO  09:20:53,366 - #21 ]
+INFO  09:20:53,366 - #17 ,
+INFO  09:20:53,366 - #25 a
+INFO  09:20:53,366 - #17 ,
+INFO  09:20:53,366 - #25 b
+INFO  09:20:53,366 - #16 ;
+INFO  09:20:53,366 - #25 char
+INFO  09:20:53,367 - #25 nizch
+INFO  09:20:53,367 - #20 [
+INFO  09:20:53,367 - #21 ]
+INFO  09:20:53,367 - #16 ;
+INFO  09:20:53,367 - #22 {
+INFO  09:20:53,367 - #7 void
+INFO  09:20:53,367 - #25 main
+INFO  09:20:53,368 - #18 (
+INFO  09:20:53,368 - #19 )
+INFO  09:20:53,368 - #25 int
+INFO  09:20:53,369 - #25 bodovi
+INFO  09:20:53,369 - #16 ;
+INFO  09:20:53,369 - #25 bool
+INFO  09:20:53,369 - #25 bt
+INFO  09:20:53,369 - #16 ;
+INFO  09:20:53,369 - #25 int
+INFO  09:20:53,369 - #25 niz
+INFO  09:20:53,369 - #20 [
+INFO  09:20:53,369 - #21 ]
+INFO  09:20:53,369 - #16 ;
+INFO  09:20:53,370 - #25 char
+INFO  09:20:53,370 - #25 nizch
+INFO  09:20:53,370 - #20 [
+INFO  09:20:53,370 - #21 ]
+INFO  09:20:53,370 - #16 ;
+INFO  09:20:53,370 - #22 {
+INFO  09:20:53,370 - #25 niz
+INFO  09:20:53,370 - #13 =
+INFO  09:20:53,371 - #4 new
+INFO  09:20:53,371 - #25 int
+INFO  09:20:53,371 - #20 [
+INFO  09:20:53,371 - #24 3
+INFO  09:20:53,371 - #21 ]
+INFO  09:20:53,372 - #16 ;
+INFO  09:20:53,372 - #25 niz
+INFO  09:20:53,372 - #20 [
+INFO  09:20:53,373 - #24 2
+INFO  09:20:53,373 - #21 ]
+INFO  09:20:53,373 - #13 =
+INFO  09:20:53,373 - #24 10
+INFO  09:20:53,373 - #11 /
+INFO  09:20:53,374 - #24 2
+INFO  09:20:53,374 - #16 ;
+INFO  09:20:53,374 - #5 print
+INFO  09:20:53,374 - #18 (
+INFO  09:20:53,374 - #25 niz
+INFO  09:20:53,375 - #20 [
+INFO  09:20:53,375 - #24 2
+INFO  09:20:53,375 - #21 ]
+INFO  09:20:53,375 - #19 )
+INFO  09:20:53,375 - #16 ;
+INFO  09:20:53,375 - #25 niz
+INFO  09:20:53,375 - #20 [
+INFO  09:20:53,375 - #24 1
+INFO  09:20:53,375 - #21 ]
+INFO  09:20:53,375 - #13 =
+INFO  09:20:53,376 - #25 niz
+INFO  09:20:53,376 - #20 [
+INFO  09:20:53,376 - #24 2
+INFO  09:20:53,376 - #21 ]
+INFO  09:20:53,376 - #10 *
+INFO  09:20:53,376 - #24 2
+INFO  09:20:53,376 - #16 ;
+INFO  09:20:53,377 - #5 print
+INFO  09:20:53,377 - #18 (
+INFO  09:20:53,377 - #25 niz
+INFO  09:20:53,377 - #20 [
+INFO  09:20:53,377 - #24 1
+INFO  09:20:53,377 - #21 ]
+INFO  09:20:53,377 - #19 )
+INFO  09:20:53,377 - #16 ;
+INFO  09:20:53,377 - #25 niz
+INFO  09:20:53,377 - #20 [
+INFO  09:20:53,377 - #24 2
+INFO  09:20:53,377 - #21 ]
+INFO  09:20:53,377 - #13 =
+INFO  09:20:53,377 - #24 10
+INFO  09:20:53,378 - #16 ;
+INFO  09:20:53,378 - #25 niz
+INFO  09:20:53,378 - #20 [
+INFO  09:20:53,378 - #24 1
+INFO  09:20:53,378 - #21 ]
+INFO  09:20:53,378 - #13 =
+INFO  09:20:53,378 - #24 2
+INFO  09:20:53,378 - #16 ;
+INFO  09:20:53,378 - #25 niz
+INFO  09:20:53,378 - #20 [
+INFO  09:20:53,378 - #24 1
+INFO  09:20:53,378 - #21 ]
+INFO  09:20:53,378 - #13 =
+INFO  09:20:53,378 - #25 niz
+INFO  09:20:53,379 - #20 [
+INFO  09:20:53,379 - #24 2
+INFO  09:20:53,379 - #21 ]
+INFO  09:20:53,379 - #11 /
+INFO  09:20:53,379 - #25 niz
+INFO  09:20:53,379 - #20 [
+INFO  09:20:53,379 - #24 0
+INFO  09:20:53,379 - #21 ]
+INFO  09:20:53,379 - #16 ;
+INFO  09:20:53,379 - #5 print
+INFO  09:20:53,379 - #18 (
+INFO  09:20:53,379 - #25 niz
+INFO  09:20:53,379 - #20 [
+INFO  09:20:53,379 - #24 1
+INFO  09:20:53,379 - #21 ]
+INFO  09:20:53,379 - #19 )
+INFO  09:20:53,379 - #16 ;
+INFO  09:20:53,379 - #23 }
+INFO  09:20:53,379 - #23 }
+INFO  09:20:53,386 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  09:20:53,386 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  09:20:53,387 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  09:20:53,387 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  09:20:53,387 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  09:20:53,387 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  09:20:53,387 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  09:20:53,387 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  09:20:53,387 - Obradjuje se funkcija main na liniji 13
+INFO  09:20:53,387 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  09:20:53,387 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  09:20:53,387 - Deklarisana lokalna promenljiva niz tipa 3 na liniji 16
+INFO  09:20:53,387 - Deklarisana lokalna promenljiva nizch tipa 3 na liniji 17
+INFO  09:20:53,387 -  na liniji : 23  se koristi promenljiva : niz
+INFO  09:20:53,387 -  na liniji : 25  se koristi promenljiva (niz) : niz
+INFO  09:20:53,387 -  na liniji : 26  se koristi promenljiva (niz) : niz
+INFO  09:20:53,387 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  09:20:53,387 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  09:20:53,387 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 31  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 33  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 36  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 36  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 36  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 -  na liniji : 37  se koristi promenljiva (niz) : niz
+INFO  09:20:53,388 - Print calls = 3
+INFO  09:20:53,388 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  09:20:53,391 - Parsiranje uspesno zavrseno!

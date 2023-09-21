@@ -1,0 +1,62 @@
+INFO  08:33:27,588 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  08:33:27,615 - #2 program
+INFO  08:33:27,615 - #25 MJProgram
+INFO  08:33:27,616 - #22 {
+INFO  08:33:27,616 - #7 void
+INFO  08:33:27,617 - #25 main
+INFO  08:33:27,617 - #18 (
+INFO  08:33:27,617 - #19 )
+INFO  08:33:27,618 - #25 int
+INFO  08:33:27,618 - #25 b
+INFO  08:33:27,619 - #20 [
+INFO  08:33:27,619 - #21 ]
+INFO  08:33:27,619 - #16 ;
+INFO  08:33:27,620 - #25 int
+INFO  08:33:27,620 - #25 MarkoMisic
+INFO  08:33:27,620 - #20 [
+INFO  08:33:27,620 - #21 ]
+INFO  08:33:27,620 - #16 ;
+INFO  08:33:27,620 - #25 int
+INFO  08:33:27,620 - #25 x
+INFO  08:33:27,621 - #16 ;
+INFO  08:33:27,621 - #22 {
+INFO  08:33:27,621 - #25 MarkoMisic
+INFO  08:33:27,623 - #13 =
+INFO  08:33:27,623 - #4 new
+INFO  08:33:27,624 - #25 int
+INFO  08:33:27,624 - #20 [
+INFO  08:33:27,624 - #24 11
+INFO  08:33:27,624 - #21 ]
+INFO  08:33:27,624 - #16 ;
+INFO  08:33:27,624 - #25 MarkoMisic
+INFO  08:33:27,625 - #20 [
+INFO  08:33:27,625 - #24 4
+INFO  08:33:27,625 - #21 ]
+INFO  08:33:27,625 - #13 =
+INFO  08:33:27,625 - #24 9
+INFO  08:33:27,625 - #16 ;
+INFO  08:33:27,625 - #5 print
+INFO  08:33:27,625 - #18 (
+INFO  08:33:27,625 - #25 MarkoMisic
+INFO  08:33:27,626 - #20 [
+INFO  08:33:27,626 - #24 4
+INFO  08:33:27,626 - #21 ]
+INFO  08:33:27,626 - #19 )
+INFO  08:33:27,626 - #16 ;
+INFO  08:33:27,626 - #25 MarkoMisic
+INFO  08:33:27,626 - #13 =
+INFO  08:33:27,626 - #26 c
+INFO  08:33:27,626 - #16 ;
+INFO  08:33:27,627 - #23 }
+INFO  08:33:27,627 - #23 }
+INFO  08:33:27,633 - Obradjuje se funkcija main na liniji 9
+INFO  08:33:27,633 - Deklarisana lokalna promenljiva b tipa 3 na liniji 9
+INFO  08:33:27,633 - Deklarisana lokalna promenljiva MarkoMisic tipa 3 na liniji 9
+INFO  08:33:27,634 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+INFO  08:33:27,634 -  na liniji : 13  se koristi promenljiva : MarkoMisic
+INFO  08:33:27,634 -  na liniji : 15  se koristi promenljiva (niz) : MarkoMisic
+INFO  08:33:27,634 -  na liniji : 16  se koristi promenljiva (niz) : MarkoMisic
+INFO  08:33:27,634 -  na liniji : 18  se koristi promenljiva : MarkoMisic
+ERROR 08:33:27,634 - Greska na liniji : 18  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  08:33:27,634 - Print calls = 1
+ERROR 08:33:27,634 - Parsiranje NIJE uspesno zavrseno!

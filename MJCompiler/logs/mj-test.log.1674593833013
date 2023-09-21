@@ -1,0 +1,87 @@
+INFO  21:55:58,480 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  21:55:58,507 - #2 program
+INFO  21:55:58,507 - #25 test301
+INFO  21:55:58,507 - #3 const
+INFO  21:55:58,508 - #25 int
+INFO  21:55:58,508 - #25 nula
+INFO  21:55:58,509 - #13 =
+INFO  21:55:58,509 - #24 0
+INFO  21:55:58,509 - #16 ;
+INFO  21:55:58,510 - #3 const
+INFO  21:55:58,510 - #25 int
+INFO  21:55:58,511 - #25 jedan
+INFO  21:55:58,511 - #13 =
+INFO  21:55:58,511 - #24 1
+INFO  21:55:58,511 - #16 ;
+INFO  21:55:58,511 - #3 const
+INFO  21:55:58,511 - #25 int
+INFO  21:55:58,511 - #25 pet
+INFO  21:55:58,511 - #13 =
+INFO  21:55:58,511 - #24 5
+INFO  21:55:58,511 - #16 ;
+INFO  21:55:58,511 - #25 int
+INFO  21:55:58,511 - #25 niz
+INFO  21:55:58,514 - #20 [
+INFO  21:55:58,514 - #21 ]
+INFO  21:55:58,514 - #17 ,
+INFO  21:55:58,514 - #25 niz2
+INFO  21:55:58,514 - #20 [
+INFO  21:55:58,514 - #21 ]
+INFO  21:55:58,515 - #17 ,
+INFO  21:55:58,515 - #25 a
+INFO  21:55:58,515 - #17 ,
+INFO  21:55:58,515 - #25 b
+INFO  21:55:58,515 - #16 ;
+INFO  21:55:58,515 - #25 char
+INFO  21:55:58,516 - #25 nizch
+INFO  21:55:58,516 - #20 [
+INFO  21:55:58,516 - #21 ]
+INFO  21:55:58,516 - #16 ;
+INFO  21:55:58,516 - #22 {
+INFO  21:55:58,516 - #7 void
+INFO  21:55:58,516 - #25 main
+INFO  21:55:58,517 - #18 (
+INFO  21:55:58,517 - #19 )
+INFO  21:55:58,517 - #25 int
+INFO  21:55:58,518 - #25 bodovi
+INFO  21:55:58,518 - #16 ;
+INFO  21:55:58,518 - #25 bool
+INFO  21:55:58,518 - #25 bt
+INFO  21:55:58,518 - #16 ;
+INFO  21:55:58,518 - #22 {
+INFO  21:55:58,518 - #25 bodovi
+INFO  21:55:58,519 - #13 =
+INFO  21:55:58,519 - #24 5
+INFO  21:55:58,519 - #16 ;
+INFO  21:55:58,520 - #25 bodovi
+INFO  21:55:58,520 - #13 =
+INFO  21:55:58,520 - #9 -
+INFO  21:55:58,520 - #25 pet
+INFO  21:55:58,520 - #8 +
+ERROR 21:55:58,520 - 
+Sintaksna greska na liniji 22
+INFO  21:55:58,520 - #25 jedan
+INFO  21:55:58,520 - #16 ;
+INFO  21:55:58,521 - #5 print
+INFO  21:55:58,521 - #18 (
+INFO  21:55:58,521 - #25 bodovi
+ERROR 21:55:58,521 - Izvrsen oporavak do ; u liniji 1
+INFO  21:55:58,522 - #19 )
+INFO  21:55:58,522 - #16 ;
+INFO  21:55:58,522 - #23 }
+INFO  21:55:58,522 - #23 }
+INFO  21:55:58,529 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  21:55:58,529 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  21:55:58,529 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  21:55:58,529 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  21:55:58,529 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  21:55:58,529 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  21:55:58,529 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  21:55:58,529 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  21:55:58,529 - Obradjuje se funkcija main na liniji 13
+INFO  21:55:58,529 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  21:55:58,529 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  21:55:58,529 -  na liniji : 21  se koristi promenljiva : bodovi
+INFO  21:55:58,530 -  na liniji : 23  se koristi promenljiva : bodovi
+INFO  21:55:58,530 - Print calls = 1
+ERROR 21:55:58,530 - Parsiranje NIJE uspesno zavrseno!

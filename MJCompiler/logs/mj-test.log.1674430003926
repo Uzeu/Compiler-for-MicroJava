@@ -1,0 +1,54 @@
+INFO  00:26:32,258 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:26:32,285 - #2 program
+INFO  00:26:32,285 - #25 MJProgram
+INFO  00:26:32,285 - #25 int
+INFO  00:26:32,286 - #25 x
+INFO  00:26:32,286 - #16 ;
+INFO  00:26:32,287 - #25 int
+INFO  00:26:32,287 - #25 y
+INFO  00:26:32,287 - #17 ,
+INFO  00:26:32,287 - #25 z
+INFO  00:26:32,287 - #16 ;
+INFO  00:26:32,288 - #25 char
+INFO  00:26:32,288 - #25 a
+INFO  00:26:32,288 - #16 ;
+INFO  00:26:32,288 - #25 bool
+INFO  00:26:32,288 - #25 b
+INFO  00:26:32,288 - #16 ;
+INFO  00:26:32,288 - #22 {
+INFO  00:26:32,288 - #7 void
+INFO  00:26:32,289 - #25 main
+INFO  00:26:32,289 - #18 (
+INFO  00:26:32,289 - #19 )
+INFO  00:26:32,290 - #25 int
+INFO  00:26:32,290 - #25 q
+INFO  00:26:32,290 - #17 ,
+INFO  00:26:32,291 - #25 w
+INFO  00:26:32,291 - #16 ;
+INFO  00:26:32,291 - #22 {
+INFO  00:26:32,291 - #5 print
+INFO  00:26:32,291 - #18 (
+INFO  00:26:32,291 - #25 konstanta
+INFO  00:26:32,291 - #19 )
+INFO  00:26:32,292 - #16 ;
+INFO  00:26:32,292 - #5 print
+INFO  00:26:32,292 - #18 (
+INFO  00:26:32,292 - #25 boolean
+INFO  00:26:32,292 - #19 )
+INFO  00:26:32,292 - #16 ;
+INFO  00:26:32,292 - #23 }
+INFO  00:26:32,292 - #23 }
+INFO  00:26:32,299 - Deklarisana globalna promenljiva x tipa 1 na liniji 5
+INFO  00:26:32,299 - Deklarisana globalna promenljiva y tipa 1 na liniji 5
+INFO  00:26:32,299 - Deklarisana globalna promenljiva z tipa 1 na liniji 5
+INFO  00:26:32,299 - Deklarisana globalna promenljiva a tipa 2 na liniji 6
+INFO  00:26:32,299 - Deklarisana globalna promenljiva b tipa 5 na liniji 7
+INFO  00:26:32,299 - Obradjuje se funkcija main na liniji 13
+INFO  00:26:32,299 - Deklarisana lokalna promenljiva q tipa 1 na liniji 13
+INFO  00:26:32,299 - Deklarisana lokalna promenljiva w tipa 1 na liniji 13
+ERROR 00:26:32,300 - Greska na liniji : 16  ime : konstanta nije deklarisano
+ERROR 00:26:32,300 - Greska na liniji : 16  print (expr) -> expr nije int/char/bool
+ERROR 00:26:32,300 - Greska na liniji : 17  ime : boolean nije deklarisano
+ERROR 00:26:32,300 - Greska na liniji : 17  print (expr) -> expr nije int/char/bool
+INFO  00:26:32,300 - Print calls = 2
+ERROR 00:26:32,300 - Parsiranje NIJE uspesno zavrseno!

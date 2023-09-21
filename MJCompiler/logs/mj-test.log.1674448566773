@@ -1,0 +1,57 @@
+INFO  05:36:00,884 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:36:00,911 - #2 program
+INFO  05:36:00,911 - #25 MJProgram
+INFO  05:36:00,911 - #3 const
+INFO  05:36:00,912 - #25 int
+INFO  05:36:00,912 - #25 a
+INFO  05:36:00,913 - #13 =
+INFO  05:36:00,913 - #24 25
+INFO  05:36:00,913 - #16 ;
+INFO  05:36:00,914 - #25 int
+INFO  05:36:00,914 - #25 MarkoMisic
+INFO  05:36:00,915 - #20 [
+INFO  05:36:00,915 - #21 ]
+INFO  05:36:00,915 - #16 ;
+INFO  05:36:00,915 - #25 bool
+INFO  05:36:00,916 - #25 i
+INFO  05:36:00,916 - #16 ;
+INFO  05:36:00,916 - #22 {
+INFO  05:36:00,916 - #7 void
+INFO  05:36:00,917 - #25 main
+INFO  05:36:00,917 - #18 (
+INFO  05:36:00,917 - #19 )
+INFO  05:36:00,917 - #22 {
+INFO  05:36:00,920 - #5 print
+INFO  05:36:00,921 - #18 (
+INFO  05:36:00,921 - #25 a
+INFO  05:36:00,921 - #19 )
+INFO  05:36:00,921 - #16 ;
+INFO  05:36:00,921 - #25 MarkoMisic
+INFO  05:36:00,921 - #13 =
+INFO  05:36:00,921 - #4 new
+INFO  05:36:00,922 - #25 int
+INFO  05:36:00,922 - #20 [
+INFO  05:36:00,922 - #24 10
+INFO  05:36:00,922 - #21 ]
+INFO  05:36:00,922 - #16 ;
+INFO  05:36:00,922 - #25 MarkoMisic
+INFO  05:36:00,923 - #20 [
+INFO  05:36:00,923 - #24 5
+INFO  05:36:00,923 - #21 ]
+INFO  05:36:00,923 - #13 =
+INFO  05:36:00,923 - #24 5
+INFO  05:36:00,923 - #16 ;
+INFO  05:36:00,923 - #16 ;
+ERROR 05:36:00,923 - 
+Sintaksna greska na liniji 16
+INFO  05:36:00,923 - #23 }
+INFO  05:36:00,923 - #23 }
+ERROR 05:36:00,924 - Izvrsen oporavak do ; u liniji 13
+INFO  05:36:00,931 - Deklarisana konstanta a tipa 1 na liniji 4
+INFO  05:36:00,931 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:36:00,931 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:36:00,931 - Obradjuje se funkcija main na liniji 11
+INFO  05:36:00,931 -  na liniji : 14  se koristi promenljiva : a
+INFO  05:36:00,931 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:36:00,931 - Print calls = 1
+ERROR 05:36:00,932 - Parsiranje NIJE uspesno zavrseno!

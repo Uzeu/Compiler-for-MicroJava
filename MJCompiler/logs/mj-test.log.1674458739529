@@ -1,0 +1,70 @@
+INFO  08:25:31,845 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  08:25:31,872 - #2 program
+INFO  08:25:31,872 - #25 MJProgram
+INFO  08:25:31,872 - #22 {
+INFO  08:25:31,873 - #7 void
+INFO  08:25:31,873 - #25 main
+INFO  08:25:31,873 - #18 (
+INFO  08:25:31,874 - #19 )
+INFO  08:25:31,874 - #25 int
+INFO  08:25:31,875 - #25 b
+INFO  08:25:31,875 - #20 [
+INFO  08:25:31,875 - #21 ]
+INFO  08:25:31,876 - #17 ,
+INFO  08:25:31,876 - #25 int
+INFO  08:25:31,876 - #25 MarkoMisic
+ERROR 08:25:31,876 - 
+Sintaksna greska na liniji 9
+INFO  08:25:31,876 - #20 [
+INFO  08:25:31,876 - #21 ]
+INFO  08:25:31,876 - #16 ;
+INFO  08:25:31,877 - #25 int
+INFO  08:25:31,877 - #25 x
+INFO  08:25:31,877 - #16 ;
+ERROR 08:25:31,879 - Izvrsen oporavak do ; ili , u liniji 9
+INFO  08:25:31,880 - #22 {
+INFO  08:25:31,880 - #25 MarkoMisic
+INFO  08:25:31,880 - #13 =
+INFO  08:25:31,880 - #4 new
+INFO  08:25:31,881 - #25 int
+INFO  08:25:31,881 - #20 [
+INFO  08:25:31,881 - #24 11
+INFO  08:25:31,881 - #21 ]
+INFO  08:25:31,881 - #16 ;
+INFO  08:25:31,882 - #25 b
+INFO  08:25:31,882 - #13 =
+INFO  08:25:31,882 - #4 new
+INFO  08:25:31,882 - #25 int
+INFO  08:25:31,882 - #20 [
+INFO  08:25:31,882 - #24 12
+INFO  08:25:31,882 - #21 ]
+INFO  08:25:31,882 - #16 ;
+INFO  08:25:31,882 - #25 MarkoMisic
+INFO  08:25:31,882 - #20 [
+INFO  08:25:31,883 - #24 4
+INFO  08:25:31,883 - #21 ]
+INFO  08:25:31,883 - #13 =
+INFO  08:25:31,883 - #24 9
+INFO  08:25:31,883 - #16 ;
+INFO  08:25:31,883 - #5 print
+INFO  08:25:31,883 - #18 (
+INFO  08:25:31,883 - #25 MarkoMisic
+INFO  08:25:31,883 - #20 [
+INFO  08:25:31,883 - #24 4
+INFO  08:25:31,883 - #21 ]
+INFO  08:25:31,884 - #19 )
+INFO  08:25:31,884 - #16 ;
+INFO  08:25:31,884 - #23 }
+INFO  08:25:31,884 - #23 }
+INFO  08:25:31,890 - Obradjuje se funkcija main na liniji 9
+INFO  08:25:31,890 - Deklarisana lokalna promenljiva b tipa 3 na liniji 9
+INFO  08:25:31,890 - Deklarisana lokalna promenljiva x tipa 1 na liniji 9
+ERROR 08:25:31,891 - Greska na liniji : 13  ime : MarkoMisic nije deklarisano
+ERROR 08:25:31,891 - Greska na liniji : 13  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  08:25:31,891 -  na liniji : 14  se koristi promenljiva : b
+ERROR 08:25:31,891 - Greska na liniji 15: ime MarkoMisic nije deklarisano
+ERROR 08:25:31,891 - Greska na liniji : 15  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+ERROR 08:25:31,891 - Greska na liniji 16: ime MarkoMisic nije deklarisano
+ERROR 08:25:31,891 - Greska na liniji : 16  print (expr) -> expr nije int/char/bool
+INFO  08:25:31,891 - Print calls = 1
+ERROR 08:25:31,892 - Parsiranje NIJE uspesno zavrseno!

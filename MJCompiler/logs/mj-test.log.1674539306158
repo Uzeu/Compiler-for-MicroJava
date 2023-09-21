@@ -1,0 +1,234 @@
+INFO  06:48:04,591 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:48:04,619 - #2 program
+INFO  06:48:04,619 - #25 test301
+INFO  06:48:04,619 - #3 const
+INFO  06:48:04,620 - #25 int
+INFO  06:48:04,620 - #25 nula
+INFO  06:48:04,620 - #13 =
+INFO  06:48:04,620 - #24 0
+INFO  06:48:04,620 - #16 ;
+INFO  06:48:04,621 - #3 const
+INFO  06:48:04,622 - #25 int
+INFO  06:48:04,622 - #25 jedan
+INFO  06:48:04,622 - #13 =
+INFO  06:48:04,622 - #24 1
+INFO  06:48:04,622 - #16 ;
+INFO  06:48:04,622 - #3 const
+INFO  06:48:04,622 - #25 int
+INFO  06:48:04,622 - #25 pet
+INFO  06:48:04,622 - #13 =
+INFO  06:48:04,623 - #24 5
+INFO  06:48:04,623 - #16 ;
+INFO  06:48:04,623 - #25 int
+INFO  06:48:04,623 - #25 niz
+INFO  06:48:04,624 - #20 [
+INFO  06:48:04,624 - #21 ]
+INFO  06:48:04,624 - #17 ,
+INFO  06:48:04,624 - #25 niz2
+INFO  06:48:04,624 - #20 [
+INFO  06:48:04,624 - #21 ]
+INFO  06:48:04,624 - #17 ,
+INFO  06:48:04,625 - #25 a
+INFO  06:48:04,625 - #17 ,
+INFO  06:48:04,625 - #25 b
+INFO  06:48:04,625 - #16 ;
+INFO  06:48:04,625 - #25 char
+INFO  06:48:04,625 - #25 nizch
+INFO  06:48:04,626 - #20 [
+INFO  06:48:04,626 - #21 ]
+INFO  06:48:04,626 - #16 ;
+INFO  06:48:04,626 - #22 {
+INFO  06:48:04,626 - #7 void
+INFO  06:48:04,626 - #25 main
+INFO  06:48:04,626 - #18 (
+INFO  06:48:04,627 - #19 )
+INFO  06:48:04,627 - #25 int
+INFO  06:48:04,628 - #25 bodovi
+INFO  06:48:04,628 - #16 ;
+INFO  06:48:04,628 - #25 bool
+INFO  06:48:04,628 - #25 bt
+INFO  06:48:04,628 - #16 ;
+INFO  06:48:04,628 - #22 {
+INFO  06:48:04,628 - #25 bodovi
+INFO  06:48:04,629 - #13 =
+INFO  06:48:04,629 - #24 0
+INFO  06:48:04,629 - #16 ;
+INFO  06:48:04,630 - #25 bodovi
+INFO  06:48:04,630 - #13 =
+INFO  06:48:04,630 - #25 bodovi
+INFO  06:48:04,630 - #8 +
+INFO  06:48:04,630 - #25 jedan
+INFO  06:48:04,631 - #16 ;
+INFO  06:48:04,631 - #25 bodovi
+INFO  06:48:04,631 - #13 =
+INFO  06:48:04,631 - #25 bodovi
+INFO  06:48:04,631 - #10 *
+INFO  06:48:04,631 - #25 pet
+INFO  06:48:04,632 - #16 ;
+INFO  06:48:04,632 - #5 print
+INFO  06:48:04,632 - #18 (
+INFO  06:48:04,632 - #25 bodovi
+INFO  06:48:04,632 - #19 )
+INFO  06:48:04,633 - #16 ;
+INFO  06:48:04,633 - #25 niz
+INFO  06:48:04,633 - #13 =
+INFO  06:48:04,633 - #4 new
+INFO  06:48:04,633 - #25 int
+INFO  06:48:04,633 - #20 [
+INFO  06:48:04,633 - #24 3
+INFO  06:48:04,633 - #21 ]
+INFO  06:48:04,633 - #16 ;
+INFO  06:48:04,633 - #25 niz
+INFO  06:48:04,633 - #20 [
+INFO  06:48:04,634 - #25 nula
+INFO  06:48:04,634 - #21 ]
+INFO  06:48:04,634 - #13 =
+INFO  06:48:04,635 - #25 jedan
+INFO  06:48:04,635 - #16 ;
+INFO  06:48:04,635 - #25 niz
+INFO  06:48:04,635 - #20 [
+INFO  06:48:04,635 - #24 1
+INFO  06:48:04,635 - #21 ]
+INFO  06:48:04,636 - #13 =
+INFO  06:48:04,636 - #24 2
+INFO  06:48:04,636 - #16 ;
+INFO  06:48:04,636 - #25 niz
+INFO  06:48:04,636 - #20 [
+INFO  06:48:04,636 - #25 niz
+INFO  06:48:04,636 - #20 [
+INFO  06:48:04,636 - #25 jedan
+INFO  06:48:04,636 - #21 ]
+INFO  06:48:04,636 - #21 ]
+INFO  06:48:04,636 - #13 =
+INFO  06:48:04,636 - #25 niz
+INFO  06:48:04,636 - #20 [
+INFO  06:48:04,636 - #25 niz
+INFO  06:48:04,636 - #20 [
+INFO  06:48:04,636 - #24 0
+INFO  06:48:04,637 - #21 ]
+INFO  06:48:04,637 - #21 ]
+INFO  06:48:04,637 - #10 *
+INFO  06:48:04,637 - #24 3
+INFO  06:48:04,637 - #16 ;
+INFO  06:48:04,637 - #25 bodovi
+INFO  06:48:04,637 - #13 =
+INFO  06:48:04,637 - #25 niz
+INFO  06:48:04,637 - #20 [
+INFO  06:48:04,637 - #24 2
+INFO  06:48:04,637 - #21 ]
+INFO  06:48:04,637 - #11 /
+INFO  06:48:04,637 - #25 niz
+INFO  06:48:04,638 - #20 [
+INFO  06:48:04,638 - #24 0
+INFO  06:48:04,638 - #21 ]
+INFO  06:48:04,638 - #16 ;
+INFO  06:48:04,638 - #5 print
+INFO  06:48:04,638 - #18 (
+INFO  06:48:04,638 - #25 bodovi
+INFO  06:48:04,638 - #19 )
+INFO  06:48:04,638 - #16 ;
+INFO  06:48:04,638 - #5 print
+INFO  06:48:04,638 - #18 (
+INFO  06:48:04,638 - #25 niz
+INFO  06:48:04,638 - #20 [
+INFO  06:48:04,638 - #24 2
+INFO  06:48:04,639 - #21 ]
+INFO  06:48:04,639 - #19 )
+INFO  06:48:04,639 - #16 ;
+INFO  06:48:04,639 - #25 nizch
+INFO  06:48:04,639 - #13 =
+INFO  06:48:04,639 - #4 new
+INFO  06:48:04,639 - #25 char
+INFO  06:48:04,639 - #20 [
+INFO  06:48:04,639 - #24 3
+INFO  06:48:04,639 - #21 ]
+INFO  06:48:04,639 - #16 ;
+INFO  06:48:04,639 - #25 nizch
+INFO  06:48:04,639 - #20 [
+INFO  06:48:04,640 - #24 0
+INFO  06:48:04,640 - #21 ]
+INFO  06:48:04,640 - #13 =
+INFO  06:48:04,640 - #26 a
+INFO  06:48:04,640 - #16 ;
+INFO  06:48:04,640 - #25 nizch
+INFO  06:48:04,640 - #20 [
+INFO  06:48:04,640 - #25 jedan
+INFO  06:48:04,640 - #21 ]
+INFO  06:48:04,640 - #13 =
+INFO  06:48:04,640 - #26 b
+INFO  06:48:04,640 - #16 ;
+INFO  06:48:04,640 - #25 nizch
+INFO  06:48:04,640 - #20 [
+INFO  06:48:04,640 - #25 pet
+INFO  06:48:04,640 - #9 -
+INFO  06:48:04,640 - #24 3
+INFO  06:48:04,641 - #21 ]
+INFO  06:48:04,641 - #13 =
+INFO  06:48:04,641 - #26 c
+INFO  06:48:04,641 - #16 ;
+INFO  06:48:04,641 - #5 print
+INFO  06:48:04,641 - #18 (
+INFO  06:48:04,641 - #25 nizch
+INFO  06:48:04,641 - #20 [
+INFO  06:48:04,641 - #24 1
+INFO  06:48:04,641 - #21 ]
+INFO  06:48:04,641 - #19 )
+INFO  06:48:04,641 - #16 ;
+INFO  06:48:04,641 - #5 print
+INFO  06:48:04,641 - #18 (
+INFO  06:48:04,641 - #25 nizch
+INFO  06:48:04,641 - #20 [
+INFO  06:48:04,641 - #25 jedan
+INFO  06:48:04,641 - #10 *
+INFO  06:48:04,642 - #24 2
+INFO  06:48:04,642 - #21 ]
+INFO  06:48:04,642 - #19 )
+INFO  06:48:04,642 - #16 ;
+INFO  06:48:04,642 - #23 }
+INFO  06:48:04,642 - #23 }
+INFO  06:48:04,649 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  06:48:04,649 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  06:48:04,649 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  06:48:04,649 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  06:48:04,649 - Deklarisana globalna promenljiva niz2 tipa 3 na liniji 9
+INFO  06:48:04,649 - Deklarisana globalna promenljiva a tipa 1 na liniji 9
+INFO  06:48:04,649 - Deklarisana globalna promenljiva b tipa 1 na liniji 9
+INFO  06:48:04,650 - Deklarisana globalna promenljiva nizch tipa 3 na liniji 10
+INFO  06:48:04,650 - Obradjuje se funkcija main na liniji 13
+INFO  06:48:04,650 - Deklarisana lokalna promenljiva bodovi tipa 1 na liniji 14
+INFO  06:48:04,650 - Deklarisana lokalna promenljiva bt tipa 5 na liniji 15
+INFO  06:48:04,650 -  na liniji : 17  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 19  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 19  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 19  se koristi promenljiva : jedan
+INFO  06:48:04,650 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 20  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 20  se koristi promenljiva : pet
+INFO  06:48:04,650 -  na liniji : 22  se koristi promenljiva : bodovi
+INFO  06:48:04,650 -  na liniji : 25  se koristi promenljiva : niz
+INFO  06:48:04,650 -  na liniji : 26  se koristi promenljiva : nula
+INFO  06:48:04,650 -  na liniji : 26  se koristi promenljiva (niz) : niz
+INFO  06:48:04,650 -  na liniji : 26  se koristi promenljiva : jedan
+INFO  06:48:04,650 -  na liniji : 27  se koristi promenljiva (niz) : niz
+INFO  06:48:04,650 -  na liniji : 28  se koristi promenljiva : jedan
+INFO  06:48:04,650 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 28  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 29  se koristi promenljiva : bodovi
+INFO  06:48:04,651 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 29  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 30  se koristi promenljiva : bodovi
+INFO  06:48:04,651 -  na liniji : 31  se koristi promenljiva (niz) : niz
+INFO  06:48:04,651 -  na liniji : 50  se koristi promenljiva : nizch
+INFO  06:48:04,651 -  na liniji : 51  se koristi promenljiva (niz) : nizch
+INFO  06:48:04,651 -  na liniji : 52  se koristi promenljiva : jedan
+INFO  06:48:04,651 -  na liniji : 52  se koristi promenljiva (niz) : nizch
+INFO  06:48:04,651 -  na liniji : 53  se koristi promenljiva : pet
+INFO  06:48:04,651 -  na liniji : 53  se koristi promenljiva (niz) : nizch
+INFO  06:48:04,651 -  na liniji : 54  se koristi promenljiva (niz) : nizch
+INFO  06:48:04,651 -  na liniji : 55  se koristi promenljiva : jedan
+INFO  06:48:04,651 -  na liniji : 55  se koristi promenljiva (niz) : nizch
+INFO  06:48:04,651 - Print calls = 5
+INFO  06:48:04,652 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:48:04,655 - Parsiranje uspesno zavrseno!

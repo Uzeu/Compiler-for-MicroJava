@@ -1,0 +1,131 @@
+INFO  06:23:54,049 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  06:23:54,076 - #2 program
+INFO  06:23:54,076 - #25 MJProgram
+INFO  06:23:54,076 - #25 int
+INFO  06:23:54,077 - #25 x
+INFO  06:23:54,077 - #16 ;
+INFO  06:23:54,078 - #25 int
+INFO  06:23:54,079 - #25 y
+INFO  06:23:54,079 - #17 ,
+INFO  06:23:54,079 - #25 z
+INFO  06:23:54,079 - #16 ;
+INFO  06:23:54,079 - #25 char
+INFO  06:23:54,079 - #25 a
+INFO  06:23:54,079 - #16 ;
+INFO  06:23:54,079 - #25 bool
+INFO  06:23:54,079 - #25 b
+INFO  06:23:54,079 - #16 ;
+INFO  06:23:54,080 - #22 {
+INFO  06:23:54,080 - #7 void
+INFO  06:23:54,080 - #25 main
+INFO  06:23:54,080 - #18 (
+INFO  06:23:54,081 - #19 )
+INFO  06:23:54,081 - #22 {
+INFO  06:23:54,083 - #25 x
+INFO  06:23:54,084 - #13 =
+INFO  06:23:54,084 - #24 3
+INFO  06:23:54,084 - #16 ;
+INFO  06:23:54,084 - #5 print
+INFO  06:23:54,084 - #18 (
+INFO  06:23:54,084 - #25 x
+INFO  06:23:54,084 - #19 )
+INFO  06:23:54,084 - #16 ;
+INFO  06:23:54,084 - #25 y
+INFO  06:23:54,085 - #13 =
+INFO  06:23:54,085 - #24 2
+INFO  06:23:54,085 - #10 *
+INFO  06:23:54,085 - #24 4
+INFO  06:23:54,085 - #8 +
+INFO  06:23:54,086 - #24 3
+INFO  06:23:54,086 - #8 +
+INFO  06:23:54,087 - #24 2
+INFO  06:23:54,087 - #10 *
+INFO  06:23:54,087 - #24 2
+INFO  06:23:54,087 - #8 +
+INFO  06:23:54,087 - #24 3
+INFO  06:23:54,087 - #8 +
+INFO  06:23:54,087 - #24 4
+INFO  06:23:54,087 - #11 /
+INFO  06:23:54,087 - #24 2
+INFO  06:23:54,088 - #8 +
+INFO  06:23:54,088 - #24 7
+INFO  06:23:54,088 - #12 %
+INFO  06:23:54,088 - #24 2
+INFO  06:23:54,088 - #8 +
+INFO  06:23:54,088 - #25 x
+INFO  06:23:54,088 - #16 ;
+INFO  06:23:54,089 - #25 x
+INFO  06:23:54,089 - #13 =
+INFO  06:23:54,089 - #25 y
+INFO  06:23:54,089 - #10 *
+INFO  06:23:54,089 - #24 2
+INFO  06:23:54,089 - #16 ;
+INFO  06:23:54,089 - #25 z
+INFO  06:23:54,089 - #13 =
+INFO  06:23:54,089 - #18 (
+INFO  06:23:54,089 - #24 3
+INFO  06:23:54,089 - #8 +
+INFO  06:23:54,089 - #24 3
+INFO  06:23:54,089 - #10 *
+INFO  06:23:54,090 - #24 3
+INFO  06:23:54,090 - #19 )
+INFO  06:23:54,090 - #10 *
+INFO  06:23:54,090 - #18 (
+INFO  06:23:54,090 - #24 2
+INFO  06:23:54,090 - #8 +
+INFO  06:23:54,090 - #24 2
+INFO  06:23:54,090 - #19 )
+INFO  06:23:54,090 - #16 ;
+INFO  06:23:54,090 - #25 a
+INFO  06:23:54,090 - #13 =
+INFO  06:23:54,090 - #26 b
+INFO  06:23:54,090 - #16 ;
+INFO  06:23:54,090 - #5 print
+INFO  06:23:54,090 - #18 (
+INFO  06:23:54,090 - #25 y
+INFO  06:23:54,091 - #19 )
+INFO  06:23:54,091 - #16 ;
+INFO  06:23:54,091 - #5 print
+INFO  06:23:54,091 - #18 (
+INFO  06:23:54,091 - #25 x
+INFO  06:23:54,091 - #19 )
+INFO  06:23:54,091 - #16 ;
+INFO  06:23:54,091 - #5 print
+INFO  06:23:54,092 - #18 (
+INFO  06:23:54,092 - #25 z
+INFO  06:23:54,092 - #19 )
+INFO  06:23:54,092 - #16 ;
+INFO  06:23:54,092 - #5 print
+INFO  06:23:54,092 - #18 (
+INFO  06:23:54,092 - #25 a
+INFO  06:23:54,092 - #19 )
+INFO  06:23:54,092 - #16 ;
+INFO  06:23:54,092 - #5 print
+INFO  06:23:54,092 - #18 (
+INFO  06:23:54,092 - #25 b
+INFO  06:23:54,092 - #19 )
+INFO  06:23:54,092 - #16 ;
+INFO  06:23:54,092 - #23 }
+INFO  06:23:54,093 - #23 }
+INFO  06:23:54,099 - Deklarisana globalna promenljiva x tipa 1 na liniji 2
+INFO  06:23:54,099 - Deklarisana globalna promenljiva y tipa 1 na liniji 2
+INFO  06:23:54,100 - Deklarisana globalna promenljiva z tipa 1 na liniji 2
+INFO  06:23:54,100 - Deklarisana globalna promenljiva a tipa 2 na liniji 3
+INFO  06:23:54,100 - Deklarisana globalna promenljiva b tipa 5 na liniji 4
+INFO  06:23:54,100 - Obradjuje se funkcija main na liniji 8
+INFO  06:23:54,100 -  na liniji : 10  se koristi promenljiva : x
+INFO  06:23:54,100 -  na liniji : 11  se koristi promenljiva : x
+INFO  06:23:54,100 -  na liniji : 12  se koristi promenljiva : y
+INFO  06:23:54,100 -  na liniji : 12  se koristi promenljiva : x
+INFO  06:23:54,100 -  na liniji : 13  se koristi promenljiva : x
+INFO  06:23:54,100 -  na liniji : 13  se koristi promenljiva : y
+INFO  06:23:54,100 -  na liniji : 14  se koristi promenljiva : z
+INFO  06:23:54,100 -  na liniji : 15  se koristi promenljiva : a
+INFO  06:23:54,100 -  na liniji : 18  se koristi promenljiva : y
+INFO  06:23:54,100 -  na liniji : 19  se koristi promenljiva : x
+INFO  06:23:54,100 -  na liniji : 20  se koristi promenljiva : z
+INFO  06:23:54,101 -  na liniji : 22  se koristi promenljiva : a
+INFO  06:23:54,101 -  na liniji : 23  se koristi promenljiva : b
+INFO  06:23:54,101 - Print calls = 6
+INFO  06:23:54,101 - Generating bytecode file: C:\pp1domaci4\workspace\MJCompiler\test\program.obj
+INFO  06:23:54,104 - Parsiranje uspesno zavrseno!

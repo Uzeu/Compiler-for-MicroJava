@@ -1,0 +1,44 @@
+INFO  05:04:20,368 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  05:04:20,396 - #2 program
+INFO  05:04:20,396 - #25 MJProgram
+INFO  05:04:20,396 - #25 int
+INFO  05:04:20,397 - #25 MarkoMisic
+INFO  05:04:20,397 - #20 [
+INFO  05:04:20,397 - #21 ]
+INFO  05:04:20,397 - #16 ;
+INFO  05:04:20,398 - #25 bool
+INFO  05:04:20,399 - #25 i
+INFO  05:04:20,399 - #16 ;
+INFO  05:04:20,399 - #22 {
+INFO  05:04:20,399 - #7 void
+INFO  05:04:20,399 - #25 main
+INFO  05:04:20,399 - #18 (
+INFO  05:04:20,400 - #19 )
+INFO  05:04:20,400 - #22 {
+INFO  05:04:20,401 - #25 MarkoMisic
+INFO  05:04:20,401 - #13 =
+INFO  05:04:20,401 - #4 new
+INFO  05:04:20,402 - #25 int
+INFO  05:04:20,402 - #20 [
+INFO  05:04:20,402 - #24 10
+INFO  05:04:20,404 - #21 ]
+INFO  05:04:20,404 - #16 ;
+INFO  05:04:20,404 - #25 i
+INFO  05:04:20,405 - #13 =
+INFO  05:04:20,405 - #24 3
+INFO  05:04:20,405 - #16 ;
+INFO  05:04:20,405 - #25 MarkoMisic
+INFO  05:04:20,405 - #13 =
+INFO  05:04:20,405 - #24 3
+INFO  05:04:20,405 - #16 ;
+INFO  05:04:20,405 - #23 }
+INFO  05:04:20,405 - #23 }
+INFO  05:04:20,412 - Deklarisana globalna promenljiva MarkoMisic tipa 3 na liniji 5
+INFO  05:04:20,412 - Deklarisana globalna promenljiva i tipa 5 na liniji 6
+INFO  05:04:20,412 - Obradjuje se funkcija main na liniji 11
+INFO  05:04:20,412 -  na liniji : 15  se koristi promenljiva : MarkoMisic
+INFO  05:04:20,412 -  na liniji : 17  se koristi promenljiva : i
+ERROR 05:04:20,412 - Greska na liniji : 17  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  05:04:20,412 -  na liniji : 18  se koristi promenljiva : MarkoMisic
+INFO  05:04:20,412 - Print calls = 0
+ERROR 05:04:20,413 - Parsiranje NIJE uspesno zavrseno!

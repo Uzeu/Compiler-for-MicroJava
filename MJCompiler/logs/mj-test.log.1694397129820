@@ -1,0 +1,118 @@
+INFO  03:51:56,550 - Compiling source file: C:\Users\uzela\OneDrive\Desktop\PP1 projekat backup\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  03:51:56,570 - #2 program
+INFO  03:51:56,570 - #27 test301
+INFO  03:51:56,571 - #3 const
+INFO  03:51:56,571 - #27 int
+INFO  03:51:56,571 - #27 nula
+INFO  03:51:56,572 - #15 =
+INFO  03:51:56,572 - #26 0
+INFO  03:51:56,572 - #18 ;
+INFO  03:51:56,572 - #3 const
+INFO  03:51:56,573 - #27 int
+INFO  03:51:56,573 - #27 jedan
+INFO  03:51:56,573 - #15 =
+INFO  03:51:56,573 - #26 1
+INFO  03:51:56,573 - #18 ;
+INFO  03:51:56,573 - #3 const
+INFO  03:51:56,573 - #27 int
+INFO  03:51:56,573 - #27 pet
+INFO  03:51:56,573 - #15 =
+INFO  03:51:56,573 - #26 5
+INFO  03:51:56,573 - #18 ;
+INFO  03:51:56,576 - #27 int
+INFO  03:51:56,576 - #27 niz
+INFO  03:51:56,576 - #22 [
+INFO  03:51:56,576 - #23 ]
+INFO  03:51:56,576 - #18 ;
+INFO  03:51:56,576 - #24 {
+INFO  03:51:56,577 - #7 void
+INFO  03:51:56,577 - #27 main
+INFO  03:51:56,577 - #20 (
+INFO  03:51:56,577 - #21 )
+INFO  03:51:56,578 - #27 bool
+INFO  03:51:56,578 - #27 br
+INFO  03:51:56,578 - #18 ;
+INFO  03:51:56,578 - #24 {
+INFO  03:51:56,578 - #27 br
+INFO  03:51:56,579 - #15 =
+INFO  03:51:56,579 - #29 false
+INFO  03:51:56,579 - #18 ;
+INFO  03:51:56,579 - #27 br
+INFO  03:51:56,579 - #15 =
+INFO  03:51:56,579 - #29 true
+INFO  03:51:56,579 - #18 ;
+INFO  03:51:56,580 - #27 br
+INFO  03:51:56,580 - #15 =
+INFO  03:51:56,580 - #26 120
+INFO  03:51:56,580 - #18 ;
+INFO  03:51:56,580 - #27 niz
+INFO  03:51:56,580 - #15 =
+INFO  03:51:56,580 - #4 new
+INFO  03:51:56,580 - #27 int
+INFO  03:51:56,580 - #22 [
+INFO  03:51:56,580 - #26 3
+INFO  03:51:56,580 - #23 ]
+INFO  03:51:56,580 - #18 ;
+INFO  03:51:56,580 - #27 niz
+INFO  03:51:56,580 - #22 [
+INFO  03:51:56,581 - #26 0
+INFO  03:51:56,581 - #23 ]
+INFO  03:51:56,581 - #15 =
+INFO  03:51:56,581 - #26 1
+INFO  03:51:56,582 - #18 ;
+INFO  03:51:56,582 - #27 niz
+INFO  03:51:56,582 - #22 [
+INFO  03:51:56,582 - #26 1
+INFO  03:51:56,582 - #23 ]
+INFO  03:51:56,582 - #15 =
+INFO  03:51:56,582 - #26 2
+INFO  03:51:56,582 - #18 ;
+INFO  03:51:56,582 - #27 niz
+INFO  03:51:56,582 - #22 [
+INFO  03:51:56,582 - #26 2
+INFO  03:51:56,582 - #23 ]
+INFO  03:51:56,582 - #15 =
+INFO  03:51:56,582 - #26 3
+INFO  03:51:56,582 - #18 ;
+INFO  03:51:56,582 - #5 print
+INFO  03:51:56,582 - #20 (
+INFO  03:51:56,582 - #27 niz
+INFO  03:51:56,582 - #22 [
+INFO  03:51:56,582 - #26 2
+INFO  03:51:56,582 - #23 ]
+INFO  03:51:56,582 - #21 )
+INFO  03:51:56,583 - #18 ;
+INFO  03:51:56,583 - #27 br
+INFO  03:51:56,583 - #15 =
+INFO  03:51:56,583 - #27 niz
+INFO  03:51:56,583 - #9 .
+INFO  03:51:56,583 - #8 findAny
+INFO  03:51:56,583 - #20 (
+INFO  03:51:56,583 - #27 jedan
+INFO  03:51:56,584 - #10 +
+INFO  03:51:56,584 - #27 pet
+INFO  03:51:56,584 - #21 )
+INFO  03:51:56,585 - #18 ;
+INFO  03:51:56,585 - #25 }
+INFO  03:51:56,585 - #25 }
+INFO  03:51:56,590 - Deklarisana konstanta nula tipa 1 na liniji 5
+INFO  03:51:56,590 - Deklarisana konstanta jedan tipa 1 na liniji 6
+INFO  03:51:56,590 - Deklarisana konstanta pet tipa 1 na liniji 7
+INFO  03:51:56,590 - Deklarisana globalna promenljiva niz tipa 3 na liniji 9
+INFO  03:51:56,590 - Obradjuje se funkcija main na liniji 11
+INFO  03:51:56,590 - Deklarisana lokalna promenljiva br tipa 5 na liniji 13
+INFO  03:51:56,590 -  na liniji : 17  se koristi promenljiva : br
+INFO  03:51:56,590 -  na liniji : 18  se koristi promenljiva : br
+INFO  03:51:56,590 -  na liniji : 19  se koristi promenljiva : br
+ERROR 03:51:56,590 - Greska na liniji : 19  DesignatorStatement -> Designator Assignop Expr : Designator i expr nisu istog tipa
+INFO  03:51:56,590 -  na liniji : 20  se koristi promenljiva : niz
+INFO  03:51:56,591 -  na liniji : 21  se koristi promenljiva (niz) : niz
+INFO  03:51:56,591 -  na liniji : 22  se koristi promenljiva (niz) : niz
+INFO  03:51:56,591 -  na liniji : 23  se koristi promenljiva (niz) : niz
+INFO  03:51:56,591 -  na liniji : 25  se koristi promenljiva (niz) : niz
+INFO  03:51:56,591 -  na liniji : 26  se koristi promenljiva : br
+INFO  03:51:56,591 -  na liniji : 26  se koristi promenljiva : niz
+INFO  03:51:56,591 -  na liniji : 26  se koristi promenljiva : jedan
+INFO  03:51:56,591 -  na liniji : 26  se koristi promenljiva : pet
+INFO  03:51:56,591 - Print calls = 1
+ERROR 03:51:56,591 - Parsiranje NIJE uspesno zavrseno!

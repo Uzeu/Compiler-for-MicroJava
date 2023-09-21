@@ -1,0 +1,59 @@
+INFO  00:10:42,468 - Compiling source file: C:\pp1domaci4\workspace\MJCompiler\test\program.mj
+INFO  00:10:42,496 - #2 program
+INFO  00:10:42,496 - #25 test301
+INFO  00:10:42,496 - #3 const
+INFO  00:10:42,497 - #25 int
+INFO  00:10:42,497 - #25 nula
+INFO  00:10:42,497 - #13 =
+INFO  00:10:42,497 - #24 0
+INFO  00:10:42,498 - #16 ;
+INFO  00:10:42,498 - #3 const
+INFO  00:10:42,499 - #25 int
+INFO  00:10:42,499 - #25 jedan
+INFO  00:10:42,499 - #13 =
+INFO  00:10:42,499 - #24 1
+INFO  00:10:42,499 - #16 ;
+INFO  00:10:42,499 - #3 const
+INFO  00:10:42,500 - #25 int
+INFO  00:10:42,500 - #25 pet
+INFO  00:10:42,500 - #13 =
+INFO  00:10:42,500 - #24 5
+INFO  00:10:42,500 - #16 ;
+INFO  00:10:42,500 - #25 int
+INFO  00:10:42,500 - #25 niz
+INFO  00:10:42,502 - #20 [
+INFO  00:10:42,502 - #21 ]
+INFO  00:10:42,502 - #17 ,
+INFO  00:10:42,502 - #25 niz2
+INFO  00:10:42,502 - #20 [
+INFO  00:10:42,502 - #21 ]
+INFO  00:10:42,503 - #17 ,
+INFO  00:10:42,503 - #25 a
+INFO  00:10:42,503 - #17 ,
+INFO  00:10:42,503 - #25 b
+INFO  00:10:42,503 - #16 ;
+INFO  00:10:42,503 - #25 char
+INFO  00:10:42,504 - #25 nizch
+INFO  00:10:42,504 - #20 [
+INFO  00:10:42,504 - #21 ]
+INFO  00:10:42,504 - #16 ;
+INFO  00:10:42,504 - #22 {
+INFO  00:10:42,504 - #7 void
+INFO  00:10:42,504 - #25 main
+INFO  00:10:42,504 - #18 (
+INFO  00:10:42,505 - #19 )
+INFO  00:10:42,505 - #25 int
+INFO  00:10:42,506 - #25 bodovi
+INFO  00:10:42,506 - #16 ;
+INFO  00:10:42,506 - #25 bool
+INFO  00:10:42,506 - #25 bt
+INFO  00:10:42,506 - #16 ;
+INFO  00:10:42,506 - #25 i
+INFO  00:10:42,506 - #22 {
+ERROR 00:10:42,506 - 
+Sintaksna greska na liniji 18
+ERROR 00:10:42,506 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 18
+INFO  00:10:42,512 - Deklarisana globalna promenljiva bodovi tipa 1 na liniji 14
+INFO  00:10:42,512 - Deklarisana globalna promenljiva bt tipa 5 na liniji 15
+INFO  00:10:42,512 - Print calls = 0
+ERROR 00:10:42,512 - Parsiranje NIJE uspesno zavrseno!
